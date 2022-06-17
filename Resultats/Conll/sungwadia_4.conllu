@@ -1,4 +1,4 @@
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma1
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma1
 # text_en =  Maintenant, je vais raconter comment les gens d'avant faisaient leur jardin.
 1	Kakaka	Kakaka	_	_	_	_	_	_	Gloss=maintenant
 2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
@@ -18,7 +18,7 @@
 16	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
 17	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma2
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma2
 # text_en =  Aujourd'hui, nous faisons nos jardin comme ça, mais pas comme ce qu'ils faisaient avant.
 1	Qariki	Qariki	_	_	_	_	_	_	Gloss=aujourd'hui
 2	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
@@ -39,7 +39,7 @@
 17	tai	tai	_	_	_	_	_	_	Gloss=couper
 18	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma3
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma3
 # text_en =  Autrefois, ils se promenaient, et repéraient un emplacement.
 1	Tueta	Tueta	_	_	_	_	_	_	Gloss=avant
 2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
@@ -50,7 +50,7 @@
 7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 8	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma4
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma4
 # text_en =  Ensuite avant de le couper,
 1	Turmua	Turmua	_	_	_	_	_	_	Gloss=être.premier
 2	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
@@ -59,7 +59,7 @@
 5	tai	tai	_	_	_	_	_	_	Gloss=couper
 6	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma5
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma5
 # text_en =  Ils le regardaient, l'observaient même, observaient le jardin.
 1	Ete	Ete	_	_	_	_	_	_	Gloss=voir
 2	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
@@ -71,7 +71,7 @@
 8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 9	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma6
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma6
 # text_en =  Ensuite, ils venaient juste et commençaient à le couper.
 1	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
 2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
@@ -84,7 +84,7 @@
 9	tai	tai	_	_	_	_	_	_	Gloss=commencer
 10	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma7
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma7
 # text_en =  Ils s'occupaient d'abord de la bordure, coupaient tout autour.
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	u=	u=	_	_	_	_	_	_	Gloss=pftrest=
@@ -97,7 +97,7 @@
 9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
 10	dalvita	dalvita	_	_	_	_	_	_	Gloss=faire.le.tour
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma8
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma8
 # text_en =  Ensuite, ils rentraient au village; le lendemain, ils montaient et commençaient à le couper.
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	mule	mule	_	_	_	_	_	_	Gloss=rentrer
@@ -111,7 +111,7 @@
 10	tai	tai	_	_	_	_	_	_	Gloss=couper
 11	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma9
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma9
 # text_en =  Ils défrichaient ce jardin. Ils le défrichaient, ils finissaient l'intérieur.
 1	tai	tai	_	_	_	_	_	_	Gloss=couper
 2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
@@ -127,7 +127,7 @@
 12	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
 13	baso	baso	_	_	_	_	_	_	Gloss=finir
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma10
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma10
 # text_en =  Après, ils rentraient au village se reposer.
 1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
 2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
@@ -138,7 +138,7 @@
 7	varea	varea	_	_	_	_	_	_	Gloss=village
 8	toga	toga	_	_	_	_	_	_	Gloss=rester
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma11
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma11
 # text_en =  Le lendemain matin, ils remontaient, et coupaient les arbres.
 1	Taval	Taval	_	_	_	_	_	_	Gloss=autre
 2	marani	marani	_	_	_	_	_	_	Gloss=matin
@@ -149,7 +149,7 @@
 7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 8	geiga	geiga	_	_	_	_	_	_	Gloss=arbre
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma12
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma12
 # text_en =  Ils abattaient les arbres, ils les débitaient complètement, puis rentraient se reposer.
 1	Tai	Tai	_	_	_	_	_	_	Gloss=couper
 2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
@@ -168,7 +168,7 @@
 15	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
 16	toga	toga	_	_	_	_	_	_	Gloss=rester
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma13
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma13
 # text_en =  Ils attendaient que ce soit sec, avant de monter brûler tout ça.
 1	Toga	Toga	_	_	_	_	_	_	Gloss=rester
 2	be	be	_	_	_	_	_	_	Gloss=Purp
@@ -182,7 +182,7 @@
 10	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
 11	sulua	sulua	_	_	_	_	_	_	Gloss=brûler
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma14
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma14
 # text_en =  Ils attendaient quelques jours, ils attendaient deux semaines
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	toga	toga	_	_	_	_	_	_	Gloss=rester
@@ -197,7 +197,7 @@
 11	i	i	_	_	_	_	_	_	Gloss=Num
 12	-rua	-rua	_	_	_	_	_	_	Gloss=-deux
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma15
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma15
 # text_en =  ??, pour qu'ils montent brûler leur jardin.
 1	rua	rua	_	_	_	_	_	_	Gloss=deux
 2	lai	lai	_	_	_	_	_	_	Gloss=??
@@ -214,7 +214,7 @@
 13	kea	kea	_	_	_	_	_	_	Gloss=Dem
 14	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma16
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma16
 # text_en =  Ils le brûlaient, ils attendaient deux semaines et puis ils le brûlaient.
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
@@ -235,7 +235,7 @@
 17	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
 18	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma17
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma17
 # text_en =  Ils le brûlaient, et ensuite, ils rentraient se reposer chez eux de nouveau.
 1	Sulu	Sulu	_	_	_	_	_	_	Gloss=brûler
 2	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
@@ -251,7 +251,7 @@
 12	-a	-a	_	_	_	_	_	_	Gloss=-P3pl
 13	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma18
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma18
 # text_en =  Ensuite ils montaient à nouveau
 1	Baso	Baso	_	_	_	_	_	_	Gloss=ensuite
 2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
@@ -259,7 +259,7 @@
 4	sage	sage	_	_	_	_	_	_	Gloss=monter
 5	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma19
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma19
 # text_en =  L lendemain, ils ramassaient tout ça, ils ramassaient ce qui restait dans le jardin.
 1	taval	taval	_	_	_	_	_	_	Gloss=autre
 2	marani	marani	_	_	_	_	_	_	Gloss=matin
@@ -273,7 +273,7 @@
 10	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
 11	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma20
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma20
 # text_en =  Ils ramassaient tous les débris du jardin, puis ils allaient vers les souches des arbres, pour les brûler.
 1	Vile	Vile	_	_	_	_	_	_	Gloss=ramasser
 2	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=compléter
@@ -295,7 +295,7 @@
 18	sulu	sulu	_	_	_	_	_	_	Gloss=brûler
 19	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma21
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma21
 # text_en =  Ils ramassaient bien tous les débris, ?? le balayaient àl'intérieur.
 1	Dan̄dan̄waua	Dan̄dan̄waua	_	_	_	_	_	_	Gloss=RedDur.faire.correctement
 2	vile	vile	_	_	_	_	_	_	Gloss=ramasser
@@ -308,7 +308,7 @@
 9	lolo	lolo	_	_	_	_	_	_	Gloss=intérieur
 10	-na	-na	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma22
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma22
 # text_en =  Ensuite, le jardin était prêt pour qu'ils viennent le labourer.
 1	baso	baso	_	_	_	_	_	_	Gloss=finir
 2	ka	ka	_	_	_	_	_	_	Gloss=Coord
@@ -323,7 +323,7 @@
 11	lawo	lawo	_	_	_	_	_	_	Gloss=labourer
 12	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma24
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma24
 # text_en =  Voilà que je vais chanter la sa chanson. La chanson du jardin est comme ça:
 1	kea	kea	_	_	_	_	_	_	Gloss=Dem
 2	-ga	-ga	_	_	_	_	_	_	Gloss=-Cataph
@@ -338,7 +338,7 @@
 11	kea	kea	_	_	_	_	_	_	Gloss=Dem
 12	-la	-la	_	_	_	_	_	_	Gloss=-Prox
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma25
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma25
 # text_en =  Les hommes vont monter couper des bouts de bois pour labourer.
 1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl=
 2	tatua	tatua	_	_	_	_	_	_	Gloss=homme
@@ -351,7 +351,7 @@
 9	be	be	_	_	_	_	_	_	Gloss=Purp
 10	lawo	lawo	_	_	_	_	_	_	Gloss=labourer
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma26
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma26
 # text_en =  Les femmes suivent pour couper les ignames,
 1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl=
 2	tain̄wa	tain̄wa	_	_	_	_	_	_	Gloss=femme
@@ -365,7 +365,7 @@
 10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 11	damu	damu	_	_	_	_	_	_	Gloss=igname
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma27
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma27
 # text_en =  pour planter leur jardin.
 1	be	be	_	_	_	_	_	_	Gloss=purp
 2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
@@ -378,7 +378,7 @@
 9	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
 10	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma28
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma28
 # text_en =  Les hommes coupent des morceaux de boix, et commencent à casser la terre du jardin.
 1	Irana=	Irana=	_	_	_	_	_	_	Gloss=ArtPl=
 2	tatua	tatua	_	_	_	_	_	_	Gloss=homme
@@ -393,7 +393,7 @@
 11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 12	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma29
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma29
 # text_en =  Ils commencent par le bout/la fin du jardin, et cassent la terre en remontant vers le début du jardin.
 1	Toqatug	Toqatug	_	_	_	_	_	_	Gloss=commencer
 2	le=	le=	_	_	_	_	_	_	Gloss=Loc=
@@ -408,7 +408,7 @@
 11	qati	qati	_	_	_	_	_	_	Gloss=tête?
 12	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma30
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma30
 # text_en =  Ensuite, les femmes, elles montent, ramassent leur ignames.
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl=
@@ -425,7 +425,7 @@
 13	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
 14	damu	damu	_	_	_	_	_	_	Gloss=igname
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma32
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma32
 # text_en =  Ensuite elles posent les feuilles par terre, coupent au couteau leurs ignames, et en posent les têtes tout autour.
 1	Kae	Kae	_	_	_	_	_	_	Gloss=Coord.Aor
 2	tau	tau	_	_	_	_	_	_	Gloss=poser
@@ -443,7 +443,7 @@
 14	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
 15	dalvita	dalvita	_	_	_	_	_	_	Gloss=faire.le.tour
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma33
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma33
 # text_en =  Ensuite, elles fendent leur ignames.
 1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
 2	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
@@ -452,7 +452,7 @@
 5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 6	damu	damu	_	_	_	_	_	_	Gloss=igname
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma34
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma34
 # text_en =  Ensuite, elles pèlent les ignames.
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
@@ -461,7 +461,7 @@
 5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 6	damu	damu	_	_	_	_	_	_	Gloss=igname
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma35
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma35
 # text_en =  Elles étalent leur feuilles, pour peler leur laplap d'ignames.
 1	Teteragi	Teteragi	_	_	_	_	_	_	Gloss=étaler
 2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
@@ -476,7 +476,7 @@
 11	loko	loko	_	_	_	_	_	_	Gloss=laplap
 12	damu	damu	_	_	_	_	_	_	Gloss=igname
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma36
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma36
 # text_en =  Elles le déposent sur les feuilles.
 1	Tau	Tau	_	_	_	_	_	_	Gloss=poser
 2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
@@ -485,7 +485,7 @@
 5	kea	kea	_	_	_	_	_	_	Gloss=Dem
 6	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma37
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma37
 # text_en =  Elles le déposent sur les feuilles, elles râpent, râpent, râpent complètement leurs ignames.
 1	Tau	Tau	_	_	_	_	_	_	Gloss=poser
 2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
@@ -501,7 +501,7 @@
 12	damu	damu	_	_	_	_	_	_	Gloss=igname
 13	baso	baso	_	_	_	_	_	_	Gloss=finir
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma39
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma39
 # text_en =  pour être pelés, elles en coupent l'extrémité.
 1	be	be	_	_	_	_	_	_	Gloss=Purp
 2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
@@ -514,7 +514,7 @@
 9	qeresin	qeresin	_	_	_	_	_	_	Gloss=extrémité
 10	-a	-a	_	_	_	_	_	_	Gloss=-P3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma40
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma40
 # text_en =  Ensuite, elles coupent leur..??, puis enfoncent ces ignames dans la terre en un mouvement tournant.
 1	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
 2	tai	tai	_	_	_	_	_	_	Gloss=couper
@@ -528,7 +528,7 @@
 10	kea	kea	_	_	_	_	_	_	Gloss=Dem
 11	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma41
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma41
 # text_en =  Elles les enfoncent en tournant, posent le laplap sur les feuilles, et ensuite…
 1	Wariri	Wariri	_	_	_	_	_	_	Gloss=enfoncer.en.tournant
 2	tau	tau	_	_	_	_	_	_	Gloss=poser
@@ -540,7 +540,7 @@
 8	van	van	_	_	_	_	_	_	Gloss=aller
 9	baso	baso	_	_	_	_	_	_	Gloss=finir
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma42
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma42
 # text_en =  Elles apportent les ignames qu’elles ont rapées.
 1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
@@ -554,7 +554,7 @@
 10	siri	siri	_	_	_	_	_	_	Gloss=peler
 11	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma43
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma43
 # text_en =  Ensuite elles coupent en tous petits morceaux l'intérieur des ignames dont elles avaient disposés la tête tout autour, elles les coupent en tous petits morceaux.
 1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
@@ -571,7 +571,7 @@
 13	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
 14	baso	baso	_	_	_	_	_	_	Gloss=finir
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma44
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma44
 # text_en =  Les hommes labourent complètement le jardin, jusqu'à la fin.
 1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl=
 2	tatua	tatua	_	_	_	_	_	_	Gloss=homme
@@ -585,7 +585,7 @@
 10	baso	baso	_	_	_	_	_	_	Gloss=finir
 11	va	va	_	_	_	_	_	_	Gloss=PEN
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma45
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma45
 # text_en =  Elles…, les femmes ramassent les ignames, descendent jeter la peau à l’intérieur du jardin
 1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
@@ -602,7 +602,7 @@
 13	lolo	lolo	_	_	_	_	_	_	Gloss=intérieur
 14	uma	uma	_	_	_	_	_	_	Gloss=jardin
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma46
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma46
 # text_en =  Elles les jettent toutes, et ensuite elles les plantent.
 1	wosagi	wosagi	_	_	_	_	_	_	Gloss=jeter
 2	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
@@ -614,7 +614,7 @@
 8	vaso	vaso	_	_	_	_	_	_	Gloss=planter
 9	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma47
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma47
 # text_en =  Les femmes se coupent un morceau de bois, pour descendre et planter les ignames avec.
 1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl=
 2	tain̄wa	tain̄wa	_	_	_	_	_	_	Gloss=femme
@@ -634,7 +634,7 @@
 16	gini	gini	_	_	_	_	_	_	Gloss=Instr
 17	-a	-a	_	_	_	_	_	_	Gloss=-Obl3pl
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma48
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma48
 # text_en =  Elles enterrent les ignames dans le sol.
 1	Tavigi	Tavigi	_	_	_	_	_	_	Gloss=enterrer
 2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
@@ -644,7 +644,7 @@
 6	lolo	lolo	_	_	_	_	_	_	Gloss=intérieur
 7	tano	tano	_	_	_	_	_	_	Gloss=sol
 
-# sent_id = Dagasnia ira tueta mo toga ge tai na bula-ra uma50
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma50
 # text_en =  C’est fini !
 1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
 2	va!	va!	_	_	_	_	_	_	Gloss=PEN

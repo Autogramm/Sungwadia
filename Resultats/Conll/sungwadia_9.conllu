@@ -1,4 +1,4 @@
-# sent_id = Vetveti dagasnia ira mo van le prison1
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison1
 # text_en =  En 1974, les jeunes ont joué un tour à un vieil homme qui habitait là-bas dans le sud, nommé Ben.
 1	Le=	Le=	_	_	_	_	_	_	Gloss=Loc=
 2	tau	tau	_	_	_	_	_	_	Gloss=année
@@ -22,7 +22,7 @@
 20	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
 21	Ben	Ben	_	_	_	_	_	_	Gloss=np
 
-# sent_id = Vetveti dagasnia ira mo van le prison2
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison2
 # text_en =  Ils montèrent nettoyer un jardin, à Lasqin
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
@@ -32,7 +32,7 @@
 6	mata	mata	_	_	_	_	_	_	Gloss=jardin
 7	Lasqin	Lasqin	_	_	_	_	_	_	Gloss=Topon
 
-# sent_id = Vetveti dagasnia ira mo van le prison4
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison4
 # text_en =  Oh, Ben, il a cassé une bouteille et bloqué notre route.
 1	O	O	_	_	_	_	_	_	Gloss=Interj
 2	Ben	Ben	_	_	_	_	_	_	Gloss=NP
@@ -46,7 +46,7 @@
 10	sala	sala	_	_	_	_	_	_	Gloss=route
 11	-da	-da	_	_	_	_	_	_	Gloss=-P1plincl
 
-# sent_id = Vetveti dagasnia ira mo van le prison5
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison5
 # text_en =  A présent, ils ont dans l'idée de jouer un tour à Ben
 1	Kakaka	Kakaka	_	_	_	_	_	_	Gloss=maintenant
 2	no	no	_	_	_	_	_	_	Gloss=CP
@@ -61,7 +61,7 @@
 11	min	min	_	_	_	_	_	_	Gloss=benef?
 12	Ben	Ben	_	_	_	_	_	_	Gloss=Ben
 
-# sent_id = Vetveti dagasnia ira mo van le prison6
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison6
 # text_en =  Ils allèrent, Lenard et Elton, ils allèrent couper (un bout de ) son kava.
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
@@ -80,7 +80,7 @@
 15	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
 16	malogu	malogu	_	_	_	_	_	_	Gloss=kava
 
-# sent_id = Vetveti dagasnia ira mo van le prison7
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison7
 # text_en =  Ce plant de kava qu'il avait, il était énorme, énorme.
 1	Bula	Bula	_	_	_	_	_	_	Gloss=CP
 2	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
@@ -91,7 +91,7 @@
 7	mas	mas	_	_	_	_	_	_	Gloss=énorme
 8	malogu	malogu	_	_	_	_	_	_	Gloss=kava
 
-# sent_id = Vetveti dagasnia ira mo van le prison8
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison8
 # text_en =  Si tu tenais debout à côté, il te masquait la vue d'Ambae (litt: tu ne pouvais pas trouver Ambae)
 1	Niko=	Niko=	_	_	_	_	_	_	Gloss=S2sg=
 2	tura	tura	_	_	_	_	_	_	Gloss=se.tenir.debout
@@ -104,7 +104,7 @@
 9	Abae	Abae	_	_	_	_	_	_	Gloss=Topon
 10	tea	tea	_	_	_	_	_	_	Gloss=Neg2
 
-# sent_id = Vetveti dagasnia ira mo van le prison9
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison9
 # text_en =  Ils sont allés le couper, ils l'ont apporté, et on l'a bu.
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
@@ -118,7 +118,7 @@
 10	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
 11	ima	ima	_	_	_	_	_	_	Gloss=boire
 
-# sent_id = Vetveti dagasnia ira mo van le prison10
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison10
 # text_en =  Tous les vieux avaient un peu peur
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
@@ -127,7 +127,7 @@
 5	ruaga	ruaga	_	_	_	_	_	_	Gloss=craindre
 6	war	war	_	_	_	_	_	_	Gloss=Compl
 
-# sent_id = Vetveti dagasnia ira mo van le prison14
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison14
 # text_en =  Ils sont venus, et ils ont tenu un procès à Tanmaeto
 1	Sumai	Sumai	_	_	_	_	_	_	Gloss=venir
 2	tor	tor	_	_	_	_	_	_	Gloss=tenir
@@ -135,7 +135,7 @@
 4	kot	kot	_	_	_	_	_	_	Gloss=cour
 5	Tanmaeto	Tanmaeto	_	_	_	_	_	_	Gloss=Topon
 
-# sent_id = Vetveti dagasnia ira mo van le prison15
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison15
 # text_en =   Ils ont parlé, parlé, encore et encore. Lénard a dit que nous avions pris le plant dans le jardin de Gerei.
 1	Laqa	Laqa	_	_	_	_	_	_	Gloss=parler
 2	laqa	laqa	_	_	_	_	_	_	Gloss=parler
@@ -156,7 +156,7 @@
 17	dat	dat	_	_	_	_	_	_	Gloss=Abl
 18	Gerei	Gerei	_	_	_	_	_	_	Gloss=Topon
 
-# sent_id = Vetveti dagasnia ira mo van le prison16
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison16
 # text_en =   Ils ont dit :  oui, ce jardin de Gerei, c’est Ben qui (y) plante la nourriture, elle nous appartient, elle nous nourrit tous.
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	wa	wa	_	_	_	_	_	_	Gloss=Quot
@@ -180,7 +180,7 @@
 20	-gida	-gida	_	_	_	_	_	_	Gloss=-O1plincl
 21	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
 
-# sent_id = Vetveti dagasnia ira mo van le prison17
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison17
 # text_en =  Quand ils ont fini de délibérer, ils ont dit : Bon, … est que vous allez tous aller en prison.
 1	Lalaqa	Lalaqa	_	_	_	_	_	_	Gloss=RedDur.parler
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
@@ -197,7 +197,7 @@
 13	le=	le=	_	_	_	_	_	_	Gloss=Loc=
 14	prisin	prisin	_	_	_	_	_	_	Gloss=prison
 
-# sent_id = Vetveti dagasnia ira mo van le prison19
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison19
 # text_en =  Quand le Salatoga viendra, il vous y emmènera.
 1	Salatoga	Salatoga	_	_	_	_	_	_	Gloss=NP
 2	sumai	sumai	_	_	_	_	_	_	Gloss=venir
@@ -207,13 +207,13 @@
 6	-kamu	-kamu	_	_	_	_	_	_	Gloss=-O3sg
 7	laksugo	laksugo	_	_	_	_	_	_	Gloss=Deix
 
-# sent_id = Vetveti dagasnia ira mo van le prison20
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison20
 # text_en =  Nous avons dit Bien.
 1	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
 2	wa	wa	_	_	_	_	_	_	Gloss=Quot
 3	Wia	Wia	_	_	_	_	_	_	Gloss=bien
 
-# sent_id = Vetveti dagasnia ira mo van le prison21
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison21
 # text_en =   Nous sommes rentrés jusque ici, et il y avait aussi le Père, le Père Jairus et Abigaël, qui venaient se marier le Jour de l’Église.
 1	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
 2	mule	mule	_	_	_	_	_	_	Gloss=rentrer
@@ -236,7 +236,7 @@
 19	le=	le=	_	_	_	_	_	_	Gloss=Loc=
 20	qon̄iwa	qon̄iwa	_	_	_	_	_	_	Gloss=jour.de.l’église
 
-# sent_id = Vetveti dagasnia ira mo van le prison22
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison22
 # text_en =  Nous sommes venus, nous avons attendu là, le bateau est arrivé le soir.
 1	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
 2	sumai	sumai	_	_	_	_	_	_	Gloss=venir
@@ -250,7 +250,7 @@
 10	le=	le=	_	_	_	_	_	_	Gloss=Loc=
 11	qon̄i	qon̄i	_	_	_	_	_	_	Gloss=nuit
 
-# sent_id = Vetveti dagasnia ira mo van le prison23
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison23
 # text_en =   Ensuite nous sommes montés dans le bateau, et nous sommes allées à Santo.
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
@@ -262,7 +262,7 @@
 8	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
 9	Santo	Santo	_	_	_	_	_	_	Gloss=Santo
 
-# sent_id = Vetveti dagasnia ira mo van le prison24
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison24
 # text_en =   Nous sommes allés en prisons, on était quelques uns… nous étions sept au total.
 1	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
 2	toga	toga	_	_	_	_	_	_	Gloss=rester
@@ -275,7 +275,7 @@
 9	lavarua	lavarua	_	_	_	_	_	_	Gloss=sept
 10	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
 
-# sent_id = Vetveti dagasnia ira mo van le prison25
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison25
 # text_en =  Alors nous sept, nous sommes restés trois mois.
 1	Tau	Tau	_	_	_	_	_	_	Gloss=Coord
 2	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
@@ -287,7 +287,7 @@
 8	i	i	_	_	_	_	_	_	Gloss=Num
 9	-tolu	-tolu	_	_	_	_	_	_	Gloss=-trois
 
-# sent_id = Vetveti dagasnia ira mo van le prison26
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison26
 # text_en =  Seul Lénard resta (jusqu'à) sept mois.
 1	I=	I=	_	_	_	_	_	_	Gloss=ArtPers=
 2	Lenard	Lenard	_	_	_	_	_	_	Gloss=NP
@@ -299,7 +299,7 @@
 8	i	i	_	_	_	_	_	_	Gloss=Num
 9	-lavatea	-lavatea	_	_	_	_	_	_	Gloss=-sept
 
-# sent_id = Vetveti dagasnia ira mo van le prison27
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison27
 # text_en =  Ensuite nous sommes rentrés
 1	Tau	Tau	_	_	_	_	_	_	Gloss=Coord
 2	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
@@ -307,7 +307,7 @@
 4	mumlmule	mumlmule	_	_	_	_	_	_	Gloss=Red.rentrer
 5	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
 
-# sent_id = Vetveti dagasnia ira mo van le prison28
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison28
 # text_en =  “Voilà, c’est la fin de notre histoire, à nous qui sommes allés en prison”
 1	kia	kia	_	_	_	_	_	_	Gloss=Dem
 2	-ga	-ga	_	_	_	_	_	_	Gloss=-Cataph

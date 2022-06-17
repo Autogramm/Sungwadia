@@ -1,4 +1,4 @@
-# sent_id = Sursurigi Gatou matan Sigo1
+# sent_id = Sursurigi_Gatou_matan_Sigo1
 # text_en =  Voilà l'histoire du crabe de cocotier et du martin-pêcheur
 1	Kia	Kia	_	_	_	_	_	_	Gloss=Dem
 2	-ga	-ga	_	_	_	_	_	_	Gloss=-Cataph
@@ -8,7 +8,7 @@
 6	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
 7	sigo	sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
 
-# sent_id = Sursurigi Gatou matan Sigo3
+# sent_id = Sursurigi_Gatou_matan_Sigo3
 # text_en =  Il le regarda, le regarda, le regarda, puis dit:
 1	Ia=	Ia=	_	_	_	_	_	_	Gloss=S3sg=
 2	tot=	tot=	_	_	_	_	_	_	Gloss=Prog=
@@ -25,7 +25,7 @@
 13	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
 14	wa	wa	_	_	_	_	_	_	Gloss=Quot
 
-# sent_id = Sursurigi Gatou matan Sigo4
+# sent_id = Sursurigi_Gatou_matan_Sigo4
 # text_en =  Non, l'homme , toutes les créatures  marchent vers l'avant (littéralement: avec leur visage)
 1	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
 2	tatua	tatua	_	_	_	_	_	_	Gloss=homme
@@ -39,7 +39,7 @@
 10	nago	nago	_	_	_	_	_	_	Gloss=visage
 11	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
 
-# sent_id = Sursurigi Gatou matan Sigo5
+# sent_id = Sursurigi_Gatou_matan_Sigo5
 # text_en =  Le crabe de cocotier marche vers l'arrière, et lentement, en plus.
 1	Gatou	Gatou	_	_	_	_	_	_	Gloss=crabe
 2	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
@@ -48,7 +48,7 @@
 5	malabusa	malabusa	_	_	_	_	_	_	Gloss=tranquille
 6	maia	maia	_	_	_	_	_	_	Gloss=aussi
 
-# sent_id = Sursurigi Gatou matan Sigo7
+# sent_id = Sursurigi_Gatou_matan_Sigo7
 # text_en =  Eh, tu marches comme ça, toi.
 1	Wo	Wo	_	_	_	_	_	_	Gloss=Interj
 2	niko=	niko=	_	_	_	_	_	_	Gloss=S2sg=
@@ -56,7 +56,7 @@
 4	doklakala	doklakala	_	_	_	_	_	_	Gloss=ainsi
 5	kea	kea	_	_	_	_	_	_	Gloss=Dem
 
-# sent_id = Sursurigi Gatou matan Sigo8
+# sent_id = Sursurigi_Gatou_matan_Sigo8
 # text_en =  Tu ne marches pas vite
 1	Niko=	Niko=	_	_	_	_	_	_	Gloss=S2sg=
 2	ti	ti	_	_	_	_	_	_	Gloss=Neg
@@ -66,7 +66,7 @@
 6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
 7	gogoi	gogoi	_	_	_	_	_	_	Gloss=aller.vite
 
-# sent_id = Sursurigi Gatou matan Sigo10
+# sent_id = Sursurigi_Gatou_matan_Sigo10
 # text_en =  Si nous courions, je te vaincrais à la course.
 1	Wari	Wari	_	_	_	_	_	_	Gloss=Hyp
 2	gida=	gida=	_	_	_	_	_	_	Gloss=S1plin=
@@ -78,7 +78,7 @@
 8	liwi	liwi	_	_	_	_	_	_	Gloss=vaincre
 9	-ko	-ko	_	_	_	_	_	_	Gloss=-O2sg
 
-# sent_id = Sursurigi Gatou matan Sigo11
+# sent_id = Sursurigi_Gatou_matan_Sigo11
 # text_en =  Il dit Oh, non, tu ne me vaincrais pas à la course.
 1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
@@ -94,7 +94,7 @@
 12	-au	-au	_	_	_	_	_	_	Gloss=-O1sg
 13	tea	tea	_	_	_	_	_	_	Gloss=Neg2
 
-# sent_id = Sursurigi Gatou matan Sigo12
+# sent_id = Sursurigi_Gatou_matan_Sigo12
 # text_en =  Il dit Si. Très bien, nous allons choisir un jour
 1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
@@ -108,7 +108,7 @@
 10	qon̄i	qon̄i	_	_	_	_	_	_	Gloss=jour
 11	tewa	tewa	_	_	_	_	_	_	Gloss=un
 
-# sent_id = Sursurigi Gatou matan Sigo13
+# sent_id = Sursurigi_Gatou_matan_Sigo13
 # text_en =  et nous essaierons de faire la course, et nous verrons bien (nous testerons) qui gagnera.
 1	ka	ka	_	_	_	_	_	_	Gloss=Coord
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor1plincl=
@@ -124,7 +124,7 @@
 12	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
 13	liwi	liwi	_	_	_	_	_	_	Gloss=vaincre
 
-# sent_id = Sursurigi Gatou matan Sigo14
+# sent_id = Sursurigi_Gatou_matan_Sigo14
 # text_en =  Il choisirent un jour, le fixèrent et cela en resta là.
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	ge=	ge=	_	_	_	_	_	_	Gloss=AorPl=
@@ -136,7 +136,7 @@
 8	tau	tau	_	_	_	_	_	_	Gloss=poser
 9	toga	toga	_	_	_	_	_	_	Gloss=rester
 
-# sent_id = Sursurigi Gatou matan Sigo15
+# sent_id = Sursurigi_Gatou_matan_Sigo15
 # text_en =  Le martin-pêcheur rentra chez lui, et s'occupa de sa nourriture (litt: se fit quant à sa nourriture), et ainsi de suite;
 1	Sigo	Sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
@@ -153,7 +153,7 @@
 13	sava	sava	_	_	_	_	_	_	Gloss=quoi
 14	doklakala	doklakala	_	_	_	_	_	_	Gloss=ainsi
 
-# sent_id = Sursurigi Gatou matan Sigo16
+# sent_id = Sursurigi_Gatou_matan_Sigo16
 # text_en =   mais Crabe n'alla pas dormir, jil travailla, il alla voir quelques (autres) crabes
 1	ka	ka	_	_	_	_	_	_	Gloss=Coord
 2	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
@@ -172,14 +172,14 @@
 15	lebata	lebata	_	_	_	_	_	_	Gloss=quelques
 16	gatou	gatou	_	_	_	_	_	_	Gloss=crabe
 
-# sent_id = Sursurigi Gatou matan Sigo17
+# sent_id = Sursurigi_Gatou_matan_Sigo17
 # text_en =  Martin-pêcheur s'est moqué de nous
 1	I=	I=	_	_	_	_	_	_	Gloss=ArtPers=
 2	sigo	sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
 3	mana	mana	_	_	_	_	_	_	Gloss=rire
 4	-gida;	-gida;	_	_	_	_	_	_	Gloss=-O1plincl
 
-# sent_id = Sursurigi Gatou matan Sigo18
+# sent_id = Sursurigi_Gatou_matan_Sigo18
 # text_en =  Aujourd'hui, comme ça, nous allons agir tous ensemble
 1	qon̄	qon̄	_	_	_	_	_	_	Gloss=jour
 2	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
@@ -188,7 +188,7 @@
 5	da	da	_	_	_	_	_	_	Gloss=faire
 6	tunubu	tunubu	_	_	_	_	_	_	Gloss=ensemble
 
-# sent_id = Sursurigi Gatou matan Sigo19
+# sent_id = Sursurigi_Gatou_matan_Sigo19
 # text_en =  Parmi nous, un ira s'installer sur cette pointe-ci , un (autre) sur cette pointe là, un sur cette pointe ainsi, (sur) chacune de ces pointes
 1	Gida=	Gida=	_	_	_	_	_	_	Gloss=S1plinc=
 2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
@@ -212,7 +212,7 @@
 20	kea	kea	_	_	_	_	_	_	Gloss=Dem
 21	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
 
-# sent_id = Sursurigi Gatou matan Sigo20
+# sent_id = Sursurigi_Gatou_matan_Sigo20
 # text_en =  vous (y) allez et restez là-bas.
 1	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl=
 2	vano	vano	_	_	_	_	_	_	Gloss=aller
@@ -220,7 +220,7 @@
 4	toga	toga	_	_	_	_	_	_	Gloss=rester
 5	ala	ala	_	_	_	_	_	_	Gloss=Anaph
 
-# sent_id = Sursurigi Gatou matan Sigo21
+# sent_id = Sursurigi_Gatou_matan_Sigo21
 # text_en =  Ainsi, le jour (venu) nous nous mesurerons avec le martin-pêcheur (littéralement, nous mesurerons le martin-pêcheur avec nous)
 1	Le=	Le=	_	_	_	_	_	_	Gloss=Loc=
 2	qon̄	qon̄	_	_	_	_	_	_	Gloss=jour
@@ -234,7 +234,7 @@
 10	-da	-da	_	_	_	_	_	_	Gloss=-P1pl
 11	sigo	sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
 
-# sent_id = Sursurigi Gatou matan Sigo22
+# sent_id = Sursurigi_Gatou_matan_Sigo22
 # text_en =  Le martin-pêcheur courra tout seul, alors que nous, nous serons ensemble dans cette course.
 1	Sigo	Sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
 2	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
@@ -253,7 +253,7 @@
 15	kia	kia	_	_	_	_	_	_	Gloss=Dem
 16	-ga	-ga	_	_	_	_	_	_	Gloss=-Cataph
 
-# sent_id = Sursurigi Gatou matan Sigo23
+# sent_id = Sursurigi_Gatou_matan_Sigo23
 # text_en =  Le temps passa, et un jour, cette date qu'ils avaient posé pour la course arriva
 1	Totoga	Totoga	_	_	_	_	_	_	Gloss=Red.rester
 2	qon̄	qon̄	_	_	_	_	_	_	Gloss=jour
@@ -270,7 +270,7 @@
 13	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
 14	sumai	sumai	_	_	_	_	_	_	Gloss=venir
 
-# sent_id = Sursurigi Gatou matan Sigo24
+# sent_id = Sursurigi_Gatou_matan_Sigo24
 # text_en =  quand le martin-pêcheur descendit au matin, il vit Crabe, au même endroit.
 1	sigo	sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
 2	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
@@ -287,7 +287,7 @@
 13	tania	tania	_	_	_	_	_	_	Gloss=place
 14	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
 
-# sent_id = Sursurigi Gatou matan Sigo25
+# sent_id = Sursurigi_Gatou_matan_Sigo25
 # text_en =  Il fut très surpris. Eh, crabe, tu t'es beaucoup dépéché, là, de venir t’installer.
 1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
@@ -304,7 +304,7 @@
 13	go=	go=	_	_	_	_	_	_	Gloss=Aor2sg=
 14	toga	toga	_	_	_	_	_	_	Gloss=rester
 
-# sent_id = Sursurigi Gatou matan Sigo26
+# sent_id = Sursurigi_Gatou_matan_Sigo26
 # text_en =  Oh, je t'ai attendu longtemps. (ça fait longtemps que je t’attends)
 1	Wou	Wou	_	_	_	_	_	_	Gloss=Interj
 2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
@@ -312,7 +312,7 @@
 4	-ko	-ko	_	_	_	_	_	_	Gloss=-O2sg
 5	tueta	tueta	_	_	_	_	_	_	Gloss=longtemps
 
-# sent_id = Sursurigi Gatou matan Sigo28
+# sent_id = Sursurigi_Gatou_matan_Sigo28
 # text_en =  Il dit très bien. Il comptèrent jusqu'à trois et partirent
 1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
@@ -328,7 +328,7 @@
 12	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
 13	tekerag	tekerag	_	_	_	_	_	_	Gloss=partir
 
-# sent_id = Sursurigi Gatou matan Sigo29
+# sent_id = Sursurigi_Gatou_matan_Sigo29
 # text_en =  Quand ils partirent, quand (alors que?) le martin-pêcheur partit ainsi, en volant,
 1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
 2	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
@@ -340,7 +340,7 @@
 8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
 9	gaga	gaga	_	_	_	_	_	_	Gloss=voler?
 
-# sent_id = Sursurigi Gatou matan Sigo30
+# sent_id = Sursurigi_Gatou_matan_Sigo30
 # text_en =  le crabe marcha en arrière, dans le mauvais sens, et retourna	dans son trou, et il resta tranquille, il resta (là).
 1	gatou	gatou	_	_	_	_	_	_	Gloss=crabe
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
@@ -356,7 +356,7 @@
 12	toga	toga	_	_	_	_	_	_	Gloss=rester
 13	tau	tau	_	_	_	_	_	_	Gloss=Contin
 
-# sent_id = Sursurigi Gatou matan Sigo31
+# sent_id = Sursurigi_Gatou_matan_Sigo31
 # text_en =  Martin-pêcheur vola, vola, vola, atteignit une pointe et demanda (en direction de la rive) Crabe?,
 1	I=	I=	_	_	_	_	_	_	Gloss=ArtP=
 2	sigo	sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
@@ -373,7 +373,7 @@
 13	sae	sae	_	_	_	_	_	_	Gloss=monter
 14	gatou	gatou	_	_	_	_	_	_	Gloss=crabe
 
-# sent_id = Sursurigi Gatou matan Sigo32
+# sent_id = Sursurigi_Gatou_matan_Sigo32
 # text_en =  le crabe lui répondit Ohé!. Il continua à voler
 1	gatou	gatou	_	_	_	_	_	_	Gloss=crabe
 2	wa	wa	_	_	_	_	_	_	Gloss=Quot
@@ -382,7 +382,7 @@
 5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
 6	gaga	gaga	_	_	_	_	_	_	Gloss=voler
 
-# sent_id = Sursurigi Gatou matan Sigo33
+# sent_id = Sursurigi_Gatou_matan_Sigo33
 # text_en =  Il vola, vola, arriva à une pointe, et cria vers la plage:
 1	Gaga	Gaga	_	_	_	_	_	_	Gloss=voler
 2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
@@ -395,7 +395,7 @@
 9	wulo	wulo	_	_	_	_	_	_	Gloss=crier
 10	sage	sage	_	_	_	_	_	_	Gloss=monter
 
-# sent_id = Sursurigi Gatou matan Sigo34
+# sent_id = Sursurigi_Gatou_matan_Sigo34
 # text_en =  Crabe!  Le crabe dit Ohé!
 1	Gatou?	Gatou?	_	_	_	_	_	_	Gloss=crabe
 2	Gatou	Gatou	_	_	_	_	_	_	Gloss=Crabe
@@ -403,7 +403,7 @@
 4	wa	wa	_	_	_	_	_	_	Gloss=Quot
 5	Wou!	Wou!	_	_	_	_	_	_	Gloss=Interj
 
-# sent_id = Sursurigi Gatou matan Sigo37
+# sent_id = Sursurigi_Gatou_matan_Sigo37
 # text_en =  Et ainsi de suite (litt: avec lui)
 1	Gatou	Gatou	_	_	_	_	_	_	Gloss=crabe
 2	wa	wa	_	_	_	_	_	_	Gloss=Quot
@@ -413,7 +413,7 @@
 6	-ia	-ia	_	_	_	_	_	_	Gloss=-Obl3sg
 7	vivano	vivano	_	_	_	_	_	_	Gloss=Red.aller
 
-# sent_id = Sursurigi Gatou matan Sigo38
+# sent_id = Sursurigi_Gatou_matan_Sigo38
 # text_en =  Le martin-pêcheur volait, volait, ses os devinrent faibles, il monta et descendit au dessus de la plage, tomba, et mourut.
 1	Sigo	Sigo	_	_	_	_	_	_	Gloss=martin.pêcheur
 2	gigaga	gigaga	_	_	_	_	_	_	Gloss=Red.voler
@@ -429,7 +429,7 @@
 12	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
 13	mate	mate	_	_	_	_	_	_	Gloss=mort
 
-# sent_id = Sursurigi Gatou matan Sigo39
+# sent_id = Sursurigi_Gatou_matan_Sigo39
 # text_en =  Les petits crabes vinrent et le mangèrent.
 1	Irana	Irana	_	_	_	_	_	_	Gloss=ArtPl
 2	=gatgatou	=gatgatou	_	_	_	_	_	_	Gloss==Red.crabe
@@ -438,7 +438,7 @@
 5	gani	gani	_	_	_	_	_	_	Gloss=manger
 6	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 
-# sent_id = Sursurigi Gatou matan Sigo40
+# sent_id = Sursurigi_Gatou_matan_Sigo40
 # text_en =  Cette histoire finit ainsi.
 1	Sursurigi	Sursurigi	_	_	_	_	_	_	Gloss=histoire
 2	kea	kea	_	_	_	_	_	_	Gloss=Dem
@@ -447,7 +447,7 @@
 5	wesu	wesu	_	_	_	_	_	_	Gloss=fini
 6	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
 
-# sent_id = Sursurigi Gatou matan Sigo42
+# sent_id = Sursurigi_Gatou_matan_Sigo42
 # text_en =  nous ne devons pas travailler chacun tout seul comme le martin-pêcheur a essayé de faire dans cette course.
 1	gida=	gida=	_	_	_	_	_	_	Gloss=1plinc=
 2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
@@ -469,7 +469,7 @@
 18	rowana	rowana	_	_	_	_	_	_	Gloss=course
 19	kea	kea	_	_	_	_	_	_	Gloss=Dem
 
-# sent_id = Sursurigi Gatou matan Sigo43
+# sent_id = Sursurigi_Gatou_matan_Sigo43
 # text_en =  Les nombreuses petites tâches, il faut les faire ensemble, nous devons suivre notre idée commune.
 1	Valu	Valu	_	_	_	_	_	_	Gloss=chaque
 2	anani	anani	_	_	_	_	_	_	Gloss=Redmultipl.chose
@@ -488,7 +488,7 @@
 15	leo	leo	_	_	_	_	_	_	Gloss=voix
 16	-da	-da	_	_	_	_	_	_	Gloss=-P1plincl
 
-# sent_id = Sursurigi Gatou matan Sigo44
+# sent_id = Sursurigi_Gatou_matan_Sigo44
 # text_en =  Si on pense que chaque homme doit faire son travail seul, que chaque jour, il suit sa propre idée, il va se tuer à la tâche.
 1	Gida=	Gida=	_	_	_	_	_	_	Gloss=S1plincl=
 2	do	do	_	_	_	_	_	_	Gloss=penser
@@ -520,7 +520,7 @@
 28	kea	kea	_	_	_	_	_	_	Gloss=Dem
 29	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
 
-# sent_id = Sursurigi Gatou matan Sigo45
+# sent_id = Sursurigi_Gatou_matan_Sigo45
 # text_en =  cette histoire se termine ainsi.
 1	Sursurigi	Sursurigi	_	_	_	_	_	_	Gloss=histoire
 2	kea	kea	_	_	_	_	_	_	Gloss=Dem

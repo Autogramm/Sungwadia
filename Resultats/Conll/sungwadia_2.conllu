@@ -1,4 +1,4 @@
-# sent_id = Vevsale min na= kad1
+# sent_id = Vevsale_min_na=_kad1
 # text_en =  Albertine, tu sais jouer à ce jeu de cartes ?
 1	Albertin	Albertin	_	_	_	_	_	_	Gloss=Albertin
 2	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
@@ -8,12 +8,12 @@
 6	kad	kad	_	_	_	_	_	_	Gloss=carte
 7	kea?	kea?	_	_	_	_	_	_	Gloss=Dem
 
-# sent_id = Vevsale min na= kad2
+# sent_id = Vevsale_min_na=_kad2
 # text_en =  Pas encore	!
 1	Ti	Ti	_	_	_	_	_	_	Gloss=Neg
 2	-qa!	-qa!	_	_	_	_	_	_	Gloss=-PEN
 
-# sent_id = Vevsale min na= kad3
+# sent_id = Vevsale_min_na=_kad3
 # text_en =  Pas encore ? Ces cartes… il y a 7 familles
 1	Ti	Ti	_	_	_	_	_	_	Gloss=neg
 2	-qa?	-qa?	_	_	_	_	_	_	Gloss=-PEN
@@ -25,7 +25,7 @@
 8	famili	famili	_	_	_	_	_	_	Gloss=famille
 9	lavarua	lavarua	_	_	_	_	_	_	Gloss=sept
 
-# sent_id = Vevsale min na= kad4
+# sent_id = Vevsale_min_na=_kad4
 # text_en =  Les rats, il y a le grand-père, la grand-mère, le papa, la maman, le petit garçon, la petite fille.
 1	A=	A=	_	_	_	_	_	_	Gloss=Art=
 2	garivi	garivi	_	_	_	_	_	_	Gloss=rat
@@ -41,7 +41,7 @@
 12	n̄wera	n̄wera	_	_	_	_	_	_	Gloss=enfant
 13	tain̄wa	tain̄wa	_	_	_	_	_	_	Gloss=fille
 
-# sent_id = Vevsale min na= kad5
+# sent_id = Vevsale_min_na=_kad5
 # text_en =  Ensuite, les lapins c’est pareil, ils sont six au total
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=après
 2	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
@@ -51,7 +51,7 @@
 6	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=en.tout
 7	kea	kea	_	_	_	_	_	_	Gloss=dem
 
-# sent_id = Vevsale min na= kad6
+# sent_id = Vevsale_min_na=_kad6
 # text_en =  Les chats, c'est pareil, les poissons c'est pareil, les chiens c'est pareil, les perroquets c'est pareil, les n̄wadu c'est pareil.
 1	Busi	Busi	_	_	_	_	_	_	Gloss=chat
 2	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
@@ -64,7 +64,7 @@
 9	n̄wadu	n̄wadu	_	_	_	_	_	_	Gloss=??
 10	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
 
-# sent_id = Vevsale min na= kad7
+# sent_id = Vevsale_min_na=_kad7
 # text_en =  Il est comme le rat, mais … il est plus gros
 1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
 2	mwere	mwere	_	_	_	_	_	_	Gloss=être.comme
@@ -77,7 +77,7 @@
 9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
 10	menas	menas	_	_	_	_	_	_	Gloss=gros
 
-# sent_id = Vevsale min na= kad8
+# sent_id = Vevsale_min_na=_kad8
 # text_en =  Ensuite, les chiens tu les reconnais, parce qu'il y a leurs os sur l'image.
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	wiriu	wiriu	_	_	_	_	_	_	Gloss=chien
@@ -95,7 +95,7 @@
 14	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
 15	n̄a	n̄a	_	_	_	_	_	_	Gloss=PEN
 
-# sent_id = Vevsale min na= kad9
+# sent_id = Vevsale_min_na=_kad9
 # text_en =  Ensuite, le poisson tu le reconnais, le chat tu le reconnais.
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	masi	masi	_	_	_	_	_	_	Gloss=poisson
@@ -107,7 +107,7 @@
 8	ete	ete	_	_	_	_	_	_	Gloss=voir
 9	gilagi	gilagi	_	_	_	_	_	_	Gloss=connaître
 
-# sent_id = Vevsale min na= kad10
+# sent_id = Vevsale_min_na=_kad10
 # text_en =  Le lapin, tu vois que ses oreilles sont grandes, longues.
 1	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
 2	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
@@ -119,7 +119,7 @@
 8	menmenas	menmenas	_	_	_	_	_	_	Gloss=Red.gros
 9	babarau	babarau	_	_	_	_	_	_	Gloss=Red.long
 
-# sent_id = Vevsale min na= kad11
+# sent_id = Vevsale_min_na=_kad11
 # text_en =  Ensuite, le rat, tu le reconnais, car il a une queue.
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	garivi	garivi	_	_	_	_	_	_	Gloss=rat
@@ -132,7 +132,7 @@
 9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
 10	ala	ala	_	_	_	_	_	_	Gloss=ExistNeg
 
-# sent_id = Vevsale min na= kad12
+# sent_id = Vevsale_min_na=_kad12
 # text_en =  “Ensuite, quand nous jouons, nous nous asseyons en rond.”
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
@@ -143,7 +143,7 @@
 7	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
 8	dalvita	dalvita	_	_	_	_	_	_	Gloss=autour
 
-# sent_id = Vevsale min na= kad13
+# sent_id = Vevsale_min_na=_kad13
 # text_en =  Nous sommes quatre. Alors je vais...
 1	Gida	Gida	_	_	_	_	_	_	Gloss=I1plincl
 2	i	i	_	_	_	_	_	_	Gloss=Num
@@ -152,7 +152,7 @@
 5	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
 6	ni=…	ni=…	_	_	_	_	_	_	Gloss=Irr
 
-# sent_id = Vevsale min na= kad14
+# sent_id = Vevsale_min_na=_kad14
 # text_en =  “C’est comme… c’est moi qui commence ce jeu.”
 1	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
 2	nau	nau	_	_	_	_	_	_	Gloss=I1sg
@@ -164,7 +164,7 @@
 8	kea	kea	_	_	_	_	_	_	Gloss=Dem
 9	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
 
-# sent_id = Vevsale min na= kad15
+# sent_id = Vevsale_min_na=_kad15
 # text_en =  Ensuite je vais distribuer les cartes à ...
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
@@ -175,7 +175,7 @@
 7	kad	kad	_	_	_	_	_	_	Gloss=carte
 8	min…	min…	_	_	_	_	_	_	Gloss=Dem
 
-# sent_id = Vevsale min na= kad16
+# sent_id = Vevsale_min_na=_kad16
 # text_en =  C’est comme.. je veux donner à Albertine, je lui en donne six
 1	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
 2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
@@ -188,7 +188,7 @@
 9	i	i	_	_	_	_	_	_	Gloss=Num
 10	-lavatea	-lavatea	_	_	_	_	_	_	Gloss=-six
 
-# sent_id = Vevsale min na= kad17
+# sent_id = Vevsale_min_na=_kad17
 # text_en =  Il y en a six pour Agnès, six pour Belle-Soeur Lala, et six pour moi.
 1	Agnes	Agnes	_	_	_	_	_	_	Gloss=NP
 2	no	no	_	_	_	_	_	_	Gloss=CP
@@ -204,7 +204,7 @@
 12	-k	-k	_	_	_	_	_	_	Gloss=-P1sg
 13	lavatea	lavatea	_	_	_	_	_	_	Gloss=six
 
-# sent_id = Vevsale min na= kad18
+# sent_id = Vevsale_min_na=_kad18
 # text_en =  Ensuite, le reste (du paquet), je le pose au milieu, et quand j’ai fini...
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	udu	udu	_	_	_	_	_	_	Gloss=fin
@@ -221,7 +221,7 @@
 13	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
 14	baso	baso	_	_	_	_	_	_	Gloss=finir
 
-# sent_id = Vevsale min na= kad19
+# sent_id = Vevsale_min_na=_kad19
 # text_en =  Moi qui ai pris, je vais commencer
 1	nau	nau	_	_	_	_	_	_	Gloss=I1sg
 2	kea	kea	_	_	_	_	_	_	Gloss=Dem
@@ -230,7 +230,7 @@
 5	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
 6	totqatug	totqatug	_	_	_	_	_	_	Gloss=commencer
 
-# sent_id = Vevsale min na= kad20
+# sent_id = Vevsale_min_na=_kad20
 # text_en =  Je vais regarder mes cartes.
 1	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
 2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
@@ -240,7 +240,7 @@
 6	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
 7	kad	kad	_	_	_	_	_	_	Gloss=carte
 
-# sent_id = Vevsale min na= kad21
+# sent_id = Vevsale_min_na=_kad21
 # text_en =  Si j’ai beaucoup de poissons ou de lapins, je vais demander...
 1	masi	masi	_	_	_	_	_	_	Gloss=poisson
 2	si	si	_	_	_	_	_	_	Gloss=Disj
@@ -252,7 +252,7 @@
 8	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
 9	usi…	usi…	_	_	_	_	_	_	Gloss=demander
 
-# sent_id = Vevsale min na= kad22
+# sent_id = Vevsale_min_na=_kad22
 # text_en =  C’est comme.. Je vais demander à Agnès Je voudrais le grand-père lapin
 1	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
 2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
@@ -266,7 +266,7 @@
 10	tatua	tatua	_	_	_	_	_	_	Gloss=homme
 11	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
 
-# sent_id = Vevsale min na= kad23
+# sent_id = Vevsale_min_na=_kad23
 # text_en =  Si elle n’en a pas, je vais prendre… je vais piocher.
 1	No	No	_	_	_	_	_	_	Gloss=CP
 2	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
@@ -279,7 +279,7 @@
 9	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
 10	vile	vile	_	_	_	_	_	_	Gloss=ramasser
 
-# sent_id = Vevsale min na= kad24
+# sent_id = Vevsale_min_na=_kad24
 # text_en =  Ensuite, c’est le tour d’Albertine. Albertine va demander… Si on est assis tous en rond.
 1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
 2	ka	ka	_	_	_	_	_	_	Gloss=Coord
@@ -294,7 +294,7 @@
 11	to	to	_	_	_	_	_	_	Gloss=rester
 12	dalvita	dalvita	_	_	_	_	_	_	Gloss=autour
 
-# sent_id = Vevsale min na= kad25
+# sent_id = Vevsale_min_na=_kad25
 # text_en =  Elle ne doit pas demander Agnès, nous devons demander tout autour.
 1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
 2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
@@ -309,7 +309,7 @@
 11	dalvita	dalvita	_	_	_	_	_	_	Gloss=autour
 12	kea	kea	_	_	_	_	_	_	Gloss=Dem
 
-# sent_id = Vevsale min na= kad26
+# sent_id = Vevsale_min_na=_kad26
 # text_en =  Elle va me demander, ou demander à Lala
 1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
 2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
@@ -320,7 +320,7 @@
 7	raiva	raiva	_	_	_	_	_	_	Gloss=belle.sœur
 8	Lala	Lala	_	_	_	_	_	_	Gloss=NP
 
-# sent_id = Vevsale min na= kad27
+# sent_id = Vevsale_min_na=_kad27
 # text_en =  On va demander, demander, jusqu’à obtenir (quelque chose)
 1	Usi	Usi	_	_	_	_	_	_	Gloss=demander
 2	war	war	_	_	_	_	_	_	Gloss=vouloir
@@ -328,7 +328,7 @@
 4	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
 5	n̄a	n̄a	_	_	_	_	_	_	Gloss=PEN
 
-# sent_id = Vevsale min na= kad28
+# sent_id = Vevsale_min_na=_kad28
 # text_en =  Ensuite, c’est comme… si on continue, quand ces cartes au milieu sont terminées
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
@@ -345,7 +345,7 @@
 13	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
 14	baso	baso	_	_	_	_	_	_	Gloss=finir
 
-# sent_id = Vevsale min na= kad29
+# sent_id = Vevsale_min_na=_kad29
 # text_en =  Maintenant, on se limite à regarder parmi nos cartes.
 1	kakaka	kakaka	_	_	_	_	_	_	Gloss=maintenant
 2	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
@@ -357,7 +357,7 @@
 8	-da	-da	_	_	_	_	_	_	Gloss=-P1plincl
 9	n̄a	n̄a	_	_	_	_	_	_	Gloss=PEN
 
-# sent_id = Vevsale min na= kad30
+# sent_id = Vevsale_min_na=_kad30
 # text_en =  Nous.. Je veux demander à Belle-Soeur Rin, elle va dire qu’elle en a un
 1	Gida=	Gida=	_	_	_	_	_	_	Gloss=S1plincl=
 2	ti…	ti…	_	_	_	_	_	_	Gloss=Aorpl
@@ -373,7 +373,7 @@
 12	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
 13	ala	ala	_	_	_	_	_	_	Gloss=ExistNeg
 
-# sent_id = Vevsale min na= kad31
+# sent_id = Vevsale_min_na=_kad31
 # text_en =  Quand elle me le donne, quand ma famille de lapins va avoir six (lapins) au total.
 1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
 2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
@@ -391,7 +391,7 @@
 14	lavatea	lavatea	_	_	_	_	_	_	Gloss=six
 15	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=completement
 
-# sent_id = Vevsale min na= kad32
+# sent_id = Vevsale_min_na=_kad32
 # text_en =  Je la pose sur le sol.
 1	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
 2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
@@ -400,7 +400,7 @@
 5	le=	le=	_	_	_	_	_	_	Gloss=Loc=
 6	tano	tano	_	_	_	_	_	_	Gloss=sol
 
-# sent_id = Vevsale min na= kad33
+# sent_id = Vevsale_min_na=_kad33
 # text_en =  Celle-là, je la gagne, c’est mes premières cartes, elles restent là.
 1	Kea	Kea	_	_	_	_	_	_	Gloss=Dem
 2	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
@@ -415,7 +415,7 @@
 11	turmua…	turmua…	_	_	_	_	_	_	Gloss=premier
 12	toga	toga	_	_	_	_	_	_	Gloss=rester
 
-# sent_id = Vevsale min na= kad34
+# sent_id = Vevsale_min_na=_kad34
 # text_en =  Ensuite, c’est comme… si je… si Belle-Soeur Rin appelle tous mes chats...
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
 2	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
@@ -432,7 +432,7 @@
 13	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
 14	busi	busi	_	_	_	_	_	_	Gloss=chat
 
-# sent_id = Vevsale min na= kad35
+# sent_id = Vevsale_min_na=_kad35
 # text_en =  C’est elle qui gagne, elle la prend et la pose sur le sol.
 1	ia	ia	_	_	_	_	_	_	Gloss=I3sg
 2	win	win	_	_	_	_	_	_	Gloss=gagner
@@ -444,7 +444,7 @@
 8	le=	le=	_	_	_	_	_	_	Gloss=Loc=
 9	tano	tano	_	_	_	_	_	_	Gloss=sol
 
-# sent_id = Vevsale min na= kad38
+# sent_id = Vevsale_min_na=_kad38
 # text_en =  “Ensuite, ceux qui se trouvent tout autour, genre si ils en ont une chacun.”
 1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Ensuite
 2	ira	ira	_	_	_	_	_	_	Gloss=I3pl
@@ -460,7 +460,7 @@
 12	kea	kea	_	_	_	_	_	_	Gloss=Dem
 13	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
 
-# sent_id = Vevsale min na= kad39
+# sent_id = Vevsale_min_na=_kad39
 # text_en =  “Alors ils ne gagnent pas.”
 1	ka	ka	_	_	_	_	_	_	Gloss=Coord
 2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
@@ -469,7 +469,7 @@
 5	win	win	_	_	_	_	_	_	Gloss=gagner
 6	tea	tea	_	_	_	_	_	_	Gloss=Neg2
 
-# sent_id = Vevsale min na= kad40
+# sent_id = Vevsale_min_na=_kad40
 # text_en =  “ Ce jeu de carte, il se termine comme ça.”
 1	vevsale	vevsale	_	_	_	_	_	_	Gloss=jeu
 2	be	be	_	_	_	_	_	_	Gloss=Purp
