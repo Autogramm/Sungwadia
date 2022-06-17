@@ -1,0 +1,483 @@
+# sent_id = Vevsale min na= kad1
+# text_en =  Albertine, tu sais jouer à ce jeu de cartes ?
+1	Albertin	Albertin	_	_	_	_	_	_	Gloss=Albertin
+2	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
+3	gilea	gilea	_	_	_	_	_	_	Gloss=savoir
+4	ve.vevsale	ve.vevsale	_	_	_	_	_	_	Gloss=Red.jouer
+5	gina	gina	_	_	_	_	_	_	Gloss=InsTr
+6	kad	kad	_	_	_	_	_	_	Gloss=carte
+7	kea?	kea?	_	_	_	_	_	_	Gloss=Dem
+
+# sent_id = Vevsale min na= kad2
+# text_en =  Pas encore	!
+1	Ti	Ti	_	_	_	_	_	_	Gloss=Neg
+2	-qa!	-qa!	_	_	_	_	_	_	Gloss=-PEN
+
+# sent_id = Vevsale min na= kad3
+# text_en =  Pas encore ? Ces cartes… il y a 7 familles
+1	Ti	Ti	_	_	_	_	_	_	Gloss=neg
+2	-qa?	-qa?	_	_	_	_	_	_	Gloss=-PEN
+3	Irana=	Irana=	_	_	_	_	_	_	Gloss=ArtPl=
+4	kad	kad	_	_	_	_	_	_	Gloss=carte
+5	kea	kea	_	_	_	_	_	_	Gloss=Dem
+6	-la…	-la…	_	_	_	_	_	_	Gloss=-Anaph
+7	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl=
+8	famili	famili	_	_	_	_	_	_	Gloss=famille
+9	lavarua	lavarua	_	_	_	_	_	_	Gloss=sept
+
+# sent_id = Vevsale min na= kad4
+# text_en =  Les rats, il y a le grand-père, la grand-mère, le papa, la maman, le petit garçon, la petite fille.
+1	A=	A=	_	_	_	_	_	_	Gloss=Art=
+2	garivi	garivi	_	_	_	_	_	_	Gloss=rat
+3	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+4	Bua	Bua	_	_	_	_	_	_	Gloss=grand.parent
+5	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+6	bua	bua	_	_	_	_	_	_	Gloss=grand.parent
+7	tain̄wa	tain̄wa	_	_	_	_	_	_	Gloss=femme
+8	tata	tata	_	_	_	_	_	_	Gloss=papa
+9	veve	veve	_	_	_	_	_	_	Gloss=maman
+10	n̄wer	n̄wer	_	_	_	_	_	_	Gloss=enfant
+11	tatua	tatua	_	_	_	_	_	_	Gloss=garçon
+12	n̄wera	n̄wera	_	_	_	_	_	_	Gloss=enfant
+13	tain̄wa	tain̄wa	_	_	_	_	_	_	Gloss=fille
+
+# sent_id = Vevsale min na= kad5
+# text_en =  Ensuite, les lapins c’est pareil, ils sont six au total
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=après
+2	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
+3	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
+4	ira=	ira=	_	_	_	_	_	_	Gloss=I3pl=
+5	lavatea	lavatea	_	_	_	_	_	_	Gloss=six
+6	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=en.tout
+7	kea	kea	_	_	_	_	_	_	Gloss=dem
+
+# sent_id = Vevsale min na= kad6
+# text_en =  Les chats, c'est pareil, les poissons c'est pareil, les chiens c'est pareil, les perroquets c'est pareil, les n̄wadu c'est pareil.
+1	Busi	Busi	_	_	_	_	_	_	Gloss=chat
+2	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
+3	masi	masi	_	_	_	_	_	_	Gloss=poisson
+4	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
+5	wiriu	wiriu	_	_	_	_	_	_	Gloss=chien
+6	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
+7	siviru	siviru	_	_	_	_	_	_	Gloss=perroquet
+8	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
+9	n̄wadu	n̄wadu	_	_	_	_	_	_	Gloss=??
+10	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
+
+# sent_id = Vevsale min na= kad7
+# text_en =  Il est comme le rat, mais … il est plus gros
+1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+2	mwere	mwere	_	_	_	_	_	_	Gloss=être.comme
+3	garivi	garivi	_	_	_	_	_	_	Gloss=rat
+4	va	va	_	_	_	_	_	_	Gloss=PEN
+5	kati	kati	_	_	_	_	_	_	Gloss=Coord
+6	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+7	mo=…	mo=…	_	_	_	_	_	_	Gloss=Rel
+8	kea	kea	_	_	_	_	_	_	Gloss=Dem
+9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+10	menas	menas	_	_	_	_	_	_	Gloss=gros
+
+# sent_id = Vevsale min na= kad8
+# text_en =  Ensuite, les chiens tu les reconnais, parce qu'il y a leurs os sur l'image.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	wiriu	wiriu	_	_	_	_	_	_	Gloss=chien
+3	niko=	niko=	_	_	_	_	_	_	Gloss=S2sg=
+4	ete	ete	_	_	_	_	_	_	Gloss=voir
+5	gilagi	gilagi	_	_	_	_	_	_	Gloss=connaître
+6	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+7	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+8	suri	suri	_	_	_	_	_	_	Gloss=os
+9	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
+10	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+11	toga	toga	_	_	_	_	_	_	Gloss=rester
+12	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+13	totogalen	totogalen	_	_	_	_	_	_	Gloss=photo
+14	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+15	n̄a	n̄a	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = Vevsale min na= kad9
+# text_en =  Ensuite, le poisson tu le reconnais, le chat tu le reconnais.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	masi	masi	_	_	_	_	_	_	Gloss=poisson
+3	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
+4	ete	ete	_	_	_	_	_	_	Gloss=voir
+5	gilagi	gilagi	_	_	_	_	_	_	Gloss=connaître
+6	busi	busi	_	_	_	_	_	_	Gloss=chat
+7	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
+8	ete	ete	_	_	_	_	_	_	Gloss=voir
+9	gilagi	gilagi	_	_	_	_	_	_	Gloss=connaître
+
+# sent_id = Vevsale min na= kad10
+# text_en =  Le lapin, tu vois que ses oreilles sont grandes, longues.
+1	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
+2	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
+3	ete	ete	_	_	_	_	_	_	Gloss=voir
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+5	qoro	qoro	_	_	_	_	_	_	Gloss=oreille
+6	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+7	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+8	menmenas	menmenas	_	_	_	_	_	_	Gloss=Red.gros
+9	babarau	babarau	_	_	_	_	_	_	Gloss=Red.long
+
+# sent_id = Vevsale min na= kad11
+# text_en =  Ensuite, le rat, tu le reconnais, car il a une queue.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	garivi	garivi	_	_	_	_	_	_	Gloss=rat
+3	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
+4	ete	ete	_	_	_	_	_	_	Gloss=voir
+5	gilagi	gilagi	_	_	_	_	_	_	Gloss=connaître
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+7	golo	golo	_	_	_	_	_	_	Gloss=queue
+8	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+10	ala	ala	_	_	_	_	_	_	Gloss=ExistNeg
+
+# sent_id = Vevsale min na= kad12
+# text_en =  “Ensuite, quand nous jouons, nous nous asseyons en rond.”
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
+3	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+4	vevsale	vevsale	_	_	_	_	_	_	Gloss=jouer
+5	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
+6	to	to	_	_	_	_	_	_	Gloss=rester
+7	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+8	dalvita	dalvita	_	_	_	_	_	_	Gloss=autour
+
+# sent_id = Vevsale min na= kad13
+# text_en =  Nous sommes quatre. Alors je vais...
+1	Gida	Gida	_	_	_	_	_	_	Gloss=I1plincl
+2	i	i	_	_	_	_	_	_	Gloss=Num
+3	-vati	-vati	_	_	_	_	_	_	Gloss=-quatre
+4	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+5	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+6	ni=…	ni=…	_	_	_	_	_	_	Gloss=Irr
+
+# sent_id = Vevsale min na= kad14
+# text_en =  “C’est comme… c’est moi qui commence ce jeu.”
+1	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+2	nau	nau	_	_	_	_	_	_	Gloss=I1sg
+3	kea	kea	_	_	_	_	_	_	Gloss=Dem
+4	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+5	totqatug	totqatug	_	_	_	_	_	_	Gloss=commencer
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+7	vevsale	vevsale	_	_	_	_	_	_	Gloss=jeu
+8	kea	kea	_	_	_	_	_	_	Gloss=Dem
+9	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+
+# sent_id = Vevsale min na= kad15
+# text_en =  Ensuite je vais distribuer les cartes à ...
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+3	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+4	asi	asi	_	_	_	_	_	_	Gloss=frapper
+5	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+7	kad	kad	_	_	_	_	_	_	Gloss=carte
+8	min…	min…	_	_	_	_	_	_	Gloss=Dem
+
+# sent_id = Vevsale min na= kad16
+# text_en =  C’est comme.. je veux donner à Albertine, je lui en donne six
+1	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+3	war	war	_	_	_	_	_	_	Gloss=vouloir
+4	lai	lai	_	_	_	_	_	_	Gloss=procurer
+5	min	min	_	_	_	_	_	_	Gloss=Dest
+6	Albertin	Albertin	_	_	_	_	_	_	Gloss=NP
+7	no	no	_	_	_	_	_	_	Gloss=CP
+8	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+9	i	i	_	_	_	_	_	_	Gloss=Num
+10	-lavatea	-lavatea	_	_	_	_	_	_	Gloss=-six
+
+# sent_id = Vevsale min na= kad17
+# text_en =  Il y en a six pour Agnès, six pour Belle-Soeur Lala, et six pour moi.
+1	Agnes	Agnes	_	_	_	_	_	_	Gloss=NP
+2	no	no	_	_	_	_	_	_	Gloss=CP
+3	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+4	lavatea	lavatea	_	_	_	_	_	_	Gloss=six
+5	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
+6	raiva	raiva	_	_	_	_	_	_	Gloss=belle.sœur
+7	Lala	Lala	_	_	_	_	_	_	Gloss=NP
+8	no	no	_	_	_	_	_	_	Gloss=CP
+9	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+10	lavatea	lavatea	_	_	_	_	_	_	Gloss=six
+11	no	no	_	_	_	_	_	_	Gloss=CP
+12	-k	-k	_	_	_	_	_	_	Gloss=-P1sg
+13	lavatea	lavatea	_	_	_	_	_	_	Gloss=six
+
+# sent_id = Vevsale min na= kad18
+# text_en =  Ensuite, le reste (du paquet), je le pose au milieu, et quand j’ai fini...
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	udu	udu	_	_	_	_	_	_	Gloss=fin
+3	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+4	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+5	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+6	tau	tau	_	_	_	_	_	_	Gloss=poster
+7	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+9	tina	tina	_	_	_	_	_	_	Gloss=milieu
+10	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+11	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
+12	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+13	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+14	baso	baso	_	_	_	_	_	_	Gloss=finir
+
+# sent_id = Vevsale min na= kad19
+# text_en =  Moi qui ai pris, je vais commencer
+1	nau	nau	_	_	_	_	_	_	Gloss=I1sg
+2	kea	kea	_	_	_	_	_	_	Gloss=Dem
+3	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+4	lai	lai	_	_	_	_	_	_	Gloss=procurer
+5	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+6	totqatug	totqatug	_	_	_	_	_	_	Gloss=commencer
+
+# sent_id = Vevsale min na= kad20
+# text_en =  Je vais regarder mes cartes.
+1	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+3	ete	ete	_	_	_	_	_	_	Gloss=voir
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+5	no	no	_	_	_	_	_	_	Gloss=CP
+6	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
+7	kad	kad	_	_	_	_	_	_	Gloss=carte
+
+# sent_id = Vevsale min na= kad21
+# text_en =  Si j’ai beaucoup de poissons ou de lapins, je vais demander...
+1	masi	masi	_	_	_	_	_	_	Gloss=poisson
+2	si	si	_	_	_	_	_	_	Gloss=Disj
+3	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
+4	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+5	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+6	mawutina	mawutina	_	_	_	_	_	_	Gloss=nombreux
+7	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+8	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+9	usi…	usi…	_	_	_	_	_	_	Gloss=demander
+
+# sent_id = Vevsale min na= kad22
+# text_en =  C’est comme.. Je vais demander à Agnès Je voudrais le grand-père lapin
+1	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+3	ni	ni	_	_	_	_	_	_	Gloss=Irr
+4	usi	usi	_	_	_	_	_	_	Gloss=interroger
+5	Agnes	Agnes	_	_	_	_	_	_	Gloss=NP
+6	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+7	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+8	taran	taran	_	_	_	_	_	_	Gloss=aimer
+9	bua	bua	_	_	_	_	_	_	Gloss=grand.parent
+10	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+11	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
+
+# sent_id = Vevsale min na= kad23
+# text_en =  Si elle n’en a pas, je vais prendre… je vais piocher.
+1	No	No	_	_	_	_	_	_	Gloss=CP
+2	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
+3	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+4	tigala	tigala	_	_	_	_	_	_	Gloss=ExistNeg
+5	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+6	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+7	lai…	lai…	_	_	_	_	_	_	Gloss=procurer
+8	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+9	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+10	vile	vile	_	_	_	_	_	_	Gloss=ramasser
+
+# sent_id = Vevsale min na= kad24
+# text_en =  Ensuite, c’est le tour d’Albertine. Albertine va demander… Si on est assis tous en rond.
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	ka	ka	_	_	_	_	_	_	Gloss=Coord
+3	ne	ne	_	_	_	_	_	_	Gloss=CP
+4	Albertine	Albertine	_	_	_	_	_	_	Gloss=NP
+5	Albertine	Albertine	_	_	_	_	_	_	Gloss=NP
+6	ni	ni	_	_	_	_	_	_	Gloss=Irr
+7	usi	usi	_	_	_	_	_	_	Gloss=demander
+8	vetar…	vetar…	_	_	_	_	_	_	Gloss=dire
+9	wari	wari	_	_	_	_	_	_	Gloss=Compl
+10	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
+11	to	to	_	_	_	_	_	_	Gloss=rester
+12	dalvita	dalvita	_	_	_	_	_	_	Gloss=autour
+
+# sent_id = Vevsale min na= kad25
+# text_en =  Elle ne doit pas demander Agnès, nous devons demander tout autour.
+1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+3	kare	kare	_	_	_	_	_	_	Gloss=Prohib
+4	wari	wari	_	_	_	_	_	_	Gloss=vouloir
+5	usi	usi	_	_	_	_	_	_	Gloss=demander
+6	Agnes	Agnes	_	_	_	_	_	_	Gloss=NP
+7	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
+8	ti=	ti=	_	_	_	_	_	_	Gloss=Irr=
+9	usi	usi	_	_	_	_	_	_	Gloss=interroger
+10	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+11	dalvita	dalvita	_	_	_	_	_	_	Gloss=autour
+12	kea	kea	_	_	_	_	_	_	Gloss=Dem
+
+# sent_id = Vevsale min na= kad26
+# text_en =  Elle va me demander, ou demander à Lala
+1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+3	usi	usi	_	_	_	_	_	_	Gloss=demander
+4	-nau	-nau	_	_	_	_	_	_	Gloss=-O1sg
+5	si	si	_	_	_	_	_	_	Gloss=Disj
+6	usi	usi	_	_	_	_	_	_	Gloss=demander
+7	raiva	raiva	_	_	_	_	_	_	Gloss=belle.sœur
+8	Lala	Lala	_	_	_	_	_	_	Gloss=NP
+
+# sent_id = Vevsale min na= kad27
+# text_en =  On va demander, demander, jusqu’à obtenir (quelque chose)
+1	Usi	Usi	_	_	_	_	_	_	Gloss=demander
+2	war	war	_	_	_	_	_	_	Gloss=vouloir
+3	usi	usi	_	_	_	_	_	_	Gloss=demander
+4	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
+5	n̄a	n̄a	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = Vevsale min na= kad28
+# text_en =  Ensuite, c’est comme… si on continue, quand ces cartes au milieu sont terminées
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+3	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
+4	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+5	vavano	vavano	_	_	_	_	_	_	Gloss=Red.aller
+6	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+7	kad	kad	_	_	_	_	_	_	Gloss=carte
+8	kea	kea	_	_	_	_	_	_	Gloss=Dem
+9	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+10	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+11	tina	tina	_	_	_	_	_	_	Gloss=milieu
+12	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+13	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+14	baso	baso	_	_	_	_	_	_	Gloss=finir
+
+# sent_id = Vevsale min na= kad29
+# text_en =  Maintenant, on se limite à regarder parmi nos cartes.
+1	kakaka	kakaka	_	_	_	_	_	_	Gloss=maintenant
+2	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl=
+3	toga	toga	_	_	_	_	_	_	Gloss=rester
+4	be	be	_	_	_	_	_	_	Gloss=Purp
+5	ete	ete	_	_	_	_	_	_	Gloss=voir
+6	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+7	no	no	_	_	_	_	_	_	Gloss=CP
+8	-da	-da	_	_	_	_	_	_	Gloss=-P1plincl
+9	n̄a	n̄a	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = Vevsale min na= kad30
+# text_en =  Nous.. Je veux demander à Belle-Soeur Rin, elle va dire qu’elle en a un
+1	Gida=	Gida=	_	_	_	_	_	_	Gloss=S1plincl=
+2	ti…	ti…	_	_	_	_	_	_	Gloss=Aorpl
+3	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
+4	war	war	_	_	_	_	_	_	Gloss=vouloir
+5	usi	usi	_	_	_	_	_	_	Gloss=demander
+6	Raiva	Raiva	_	_	_	_	_	_	Gloss=belle.sœur
+7	Rin	Rin	_	_	_	_	_	_	Gloss=NP
+8	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+9	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+10	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+11	no	no	_	_	_	_	_	_	Gloss=CP
+12	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+13	ala	ala	_	_	_	_	_	_	Gloss=ExistNeg
+
+# sent_id = Vevsale min na= kad31
+# text_en =  Quand elle me le donne, quand ma famille de lapins va avoir six (lapins) au total.
+1	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+3	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+4	lai	lai	_	_	_	_	_	_	Gloss=procurer
+5	min	min	_	_	_	_	_	_	Gloss=Dest
+6	-iau	-iau	_	_	_	_	_	_	Gloss=-Obl1sg
+7	no	no	_	_	_	_	_	_	Gloss=CP
+8	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
+9	famili	famili	_	_	_	_	_	_	Gloss=famille
+10	ga	ga	_	_	_	_	_	_	Gloss=CP
+11	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+12	rabit	rabit	_	_	_	_	_	_	Gloss=lapin
+13	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+14	lavatea	lavatea	_	_	_	_	_	_	Gloss=six
+15	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=completement
+
+# sent_id = Vevsale min na= kad32
+# text_en =  Je la pose sur le sol.
+1	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+3	wosagi	wosagi	_	_	_	_	_	_	Gloss=jeter
+4	su	su	_	_	_	_	_	_	Gloss=descendre
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+6	tano	tano	_	_	_	_	_	_	Gloss=sol
+
+# sent_id = Vevsale min na= kad33
+# text_en =  Celle-là, je la gagne, c’est mes premières cartes, elles restent là.
+1	Kea	Kea	_	_	_	_	_	_	Gloss=Dem
+2	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+3	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+4	win	win	_	_	_	_	_	_	Gloss=gagner
+5	kea	kea	_	_	_	_	_	_	Gloss=Dem
+6	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+7	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+8	no	no	_	_	_	_	_	_	Gloss=CP
+9	-k	-k	_	_	_	_	_	_	Gloss=-P1sg
+10	kad	kad	_	_	_	_	_	_	Gloss=carte
+11	turmua…	turmua…	_	_	_	_	_	_	Gloss=premier
+12	toga	toga	_	_	_	_	_	_	Gloss=rester
+
+# sent_id = Vevsale min na= kad34
+# text_en =  Ensuite, c’est comme… si je… si Belle-Soeur Rin appelle tous mes chats...
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+3	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+4	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+5	wa=	wa=	_	_	_	_	_	_	Gloss=Cad=
+6	….raiva	….raiva	_	_	_	_	_	_	Gloss=belle.sœur
+7	Rin	Rin	_	_	_	_	_	_	Gloss=NP
+8	wa=	wa=	_	_	_	_	_	_	Gloss=Cad=
+9	are	are	_	_	_	_	_	_	Gloss=appeler
+10	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+12	no	no	_	_	_	_	_	_	Gloss=CP
+13	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
+14	busi	busi	_	_	_	_	_	_	Gloss=chat
+
+# sent_id = Vevsale min na= kad35
+# text_en =  C’est elle qui gagne, elle la prend et la pose sur le sol.
+1	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+2	win	win	_	_	_	_	_	_	Gloss=gagner
+3	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+4	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
+5	lai	lai	_	_	_	_	_	_	Gloss=procurer
+6	tau	tau	_	_	_	_	_	_	Gloss=poser
+7	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+9	tano	tano	_	_	_	_	_	_	Gloss=sol
+
+# sent_id = Vevsale min na= kad38
+# text_en =  “Ensuite, ceux qui se trouvent tout autour, genre si ils en ont une chacun.”
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Ensuite
+2	ira	ira	_	_	_	_	_	_	Gloss=I3pl
+3	kea	kea	_	_	_	_	_	_	Gloss=Dem
+4	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+5	toga	toga	_	_	_	_	_	_	Gloss=rester
+6	dalvita	dalvita	_	_	_	_	_	_	Gloss=autour
+7	n̄were	n̄were	_	_	_	_	_	_	Gloss=être.comme
+8	no	no	_	_	_	_	_	_	Gloss=CP
+9	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
+10	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+11	tewtewa	tewtewa	_	_	_	_	_	_	Gloss=RedDistrib.un
+12	kea	kea	_	_	_	_	_	_	Gloss=Dem
+13	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+
+# sent_id = Vevsale min na= kad39
+# text_en =  “Alors ils ne gagnent pas.”
+1	ka	ka	_	_	_	_	_	_	Gloss=Coord
+2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
+3	ti	ti	_	_	_	_	_	_	Gloss=Neg1
+4	-n̄a	-n̄a	_	_	_	_	_	_	Gloss=-PEN
+5	win	win	_	_	_	_	_	_	Gloss=gagner
+6	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+
+# sent_id = Vevsale min na= kad40
+# text_en =  “ Ce jeu de carte, il se termine comme ça.”
+1	vevsale	vevsale	_	_	_	_	_	_	Gloss=jeu
+2	be	be	_	_	_	_	_	_	Gloss=Purp
+3	kad	kad	_	_	_	_	_	_	Gloss=carte
+4	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
+5	u=	u=	_	_	_	_	_	_	Gloss=PftRes=
+6	baso	baso	_	_	_	_	_	_	Gloss=finir
+7	laka	laka	_	_	_	_	_	_	Gloss=Deix
+8	-ga	-ga	_	_	_	_	_	_	Gloss=-Cataph
+9	kea	kea	_	_	_	_	_	_	Gloss=Dem
+

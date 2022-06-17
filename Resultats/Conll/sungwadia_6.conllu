@@ -1,0 +1,319 @@
+# sent_id = Sursurigi Vatqalqalo1
+# text_en =  Il était une fois, Vatqalqalo, qui vivait avec son époux.
+1	Qon̄	Qon̄	_	_	_	_	_	_	Gloss=jour
+2	tewa	tewa	_	_	_	_	_	_	Gloss=un
+3	Vatqalqalo	Vatqalqalo	_	_	_	_	_	_	Gloss=NP
+4	toga	toga	_	_	_	_	_	_	Gloss=rester
+5	min	min	_	_	_	_	_	_	Gloss=Dest
+6	tubu	tubu	_	_	_	_	_	_	Gloss=époux
+7	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+8	Toga	Toga	_	_	_	_	_	_	Gloss=rester
+9	rave	rave	_	_	_	_	_	_	Gloss=mère
+10	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+11	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+12	vano	vano	_	_	_	_	_	_	Gloss=aller
+
+# sent_id = Sursurigi Vatqalqalo3
+# text_en =  J'ai envie de boire du pandanus.
+1	Nau	Nau	_	_	_	_	_	_	Gloss=I1sg
+2	lolo	lolo	_	_	_	_	_	_	Gloss=intérieur
+3	-k	-k	_	_	_	_	_	_	Gloss=-P1sg
+4	imim	imim	_	_	_	_	_	_	Gloss=RedCompl.boire
+5	gire	gire	_	_	_	_	_	_	Gloss=pandanus
+6	kea	kea	_	_	_	_	_	_	Gloss=Dem
+
+# sent_id = Sursurigi Vatqalqalo4
+# text_en =   Il dit  D’accord, allez y
+1	Ia=	Ia=	_	_	_	_	_	_	Gloss=S3sg=
+2	wa	wa	_	_	_	_	_	_	Gloss=Quot
+3	Wia	Wia	_	_	_	_	_	_	Gloss=bien
+4	vano	vano	_	_	_	_	_	_	Gloss=aller
+
+# sent_id = Sursurigi Vatqalqalo5
+# text_en =   Maman a dit que nous devions allons couper du pandanus.
+1	Veve	Veve	_	_	_	_	_	_	Gloss=maman
+2	vetari	vetari	_	_	_	_	_	_	Gloss=dire
+3	kamirua=	kamirua=	_	_	_	_	_	_	Gloss=S1duexcl=
+4	sae	sae	_	_	_	_	_	_	Gloss=monter
+5	tusi	tusi	_	_	_	_	_	_	Gloss=couper
+6	gire	gire	_	_	_	_	_	_	Gloss=pandanus
+
+# sent_id = Sursurigi Vatqalqalo6
+# text_en =   Les deux y vont
+1	Irarua=	Irarua=	_	_	_	_	_	_	Gloss=S3du=
+2	sae	sae	_	_	_	_	_	_	Gloss=monter
+
+# sent_id = Sursurigi Vatqalqalo7
+# text_en =  Elles arrivèrent jusque vers les pandanus, et Vatqalqalo en escalada un.
+1	Sae	Sae	_	_	_	_	_	_	Gloss=monter
+2	sae	sae	_	_	_	_	_	_	Gloss=monter
+3	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+5	gire	gire	_	_	_	_	_	_	Gloss=pandanus
+6	Vatqalqalo	Vatqalqalo	_	_	_	_	_	_	Gloss=NP
+7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+8	venag	venag	_	_	_	_	_	_	Gloss=escalader
+9	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+10	gire	gire	_	_	_	_	_	_	Gloss=pandanus
+
+# sent_id = Sursurigi Vatqalqalo8
+# text_en =  Elle escalada, grimpa, grimpa et coupa, coupa, coupa, coupa.
+1	Sae	Sae	_	_	_	_	_	_	Gloss=monter
+2	venaga	venaga	_	_	_	_	_	_	Gloss=escalader
+3	sae	sae	_	_	_	_	_	_	Gloss=monter
+4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+5	sae	sae	_	_	_	_	_	_	Gloss=monter
+6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+7	sasae	sasae	_	_	_	_	_	_	Gloss=RedDur.monter
+8	tai	tai	_	_	_	_	_	_	Gloss=couper
+9	tai	tai	_	_	_	_	_	_	Gloss=couper
+10	tai	tai	_	_	_	_	_	_	Gloss=couper
+11	tai	tai	_	_	_	_	_	_	Gloss=couper
+
+# sent_id = Sursurigi Vatqalqalo9
+# text_en =  Maman, celle-ci, je ne vais pas pouvoir l'atteindre.
+1	Veve!	Veve!	_	_	_	_	_	_	Gloss=maman
+2	Kea	Kea	_	_	_	_	_	_	Gloss=Dem
+3	-ga	-ga	_	_	_	_	_	_	Gloss=-Cataph?
+4	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
+5	ti	ti	_	_	_	_	_	_	Gloss=Neg1
+6	-gai	-gai	_	_	_	_	_	_	Gloss=-PEN
+7	vano	vano	_	_	_	_	_	_	Gloss=aller
+8	lai	lai	_	_	_	_	_	_	Gloss=ModCap
+9	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+10	suri	suri	_	_	_	_	_	_	Gloss=suivre
+11	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+
+# sent_id = Sursurigi Vatqalqalo10
+# text_en =  Elle est trop éloignée.
+1	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
+2	ran̄ai	ran̄ai	_	_	_	_	_	_	Gloss=très
+3	soai	soai	_	_	_	_	_	_	Gloss=loin
+
+# sent_id = Sursurigi Vatqalqalo12
+# text_en =  Avance sur la branche pour la couper.
+1	Go	Go	_	_	_	_	_	_	Gloss=Aor2sg
+2	van	van	_	_	_	_	_	_	Gloss=aller
+3	suri	suri	_	_	_	_	_	_	Gloss=suivre
+4	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+5	tai	tai	_	_	_	_	_	_	Gloss=couper
+6	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+
+# sent_id = Sursurigi Vatqalqalo13
+# text_en =  Elle s'avança, s'avança, et la branche de pandanus cassa!
+1	Vano	Vano	_	_	_	_	_	_	Gloss=aller
+2	vano	vano	_	_	_	_	_	_	Gloss=aller
+3	tai	tai	_	_	_	_	_	_	Gloss=couper
+4	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+5	gire	gire	_	_	_	_	_	_	Gloss=pandanus
+6	kea	kea	_	_	_	_	_	_	Gloss=Dem
+7	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+8	mavsara	mavsara	_	_	_	_	_	_	Gloss=casser
+
+# sent_id = Sursurigi Vatqalqalo14
+# text_en =  La branche s'effondra, et la mère de Vatqalqalo lui marcha dessus pour la noyer dans la boue.
+1	Mavsara	Mavsara	_	_	_	_	_	_	Gloss=casser
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
+4	rave	rave	_	_	_	_	_	_	Gloss=mère
+5	Vatqalqalo	Vatqalqalo	_	_	_	_	_	_	Gloss=NP
+6	van	van	_	_	_	_	_	_	Gloss=aller
+7	va	va	_	_	_	_	_	_	Gloss=Caus
+8	-ras	-ras	_	_	_	_	_	_	Gloss=-marcher
+9	armwagi	armwagi	_	_	_	_	_	_	Gloss=noyer
+10	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+11	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+12	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+13	lol	lol	_	_	_	_	_	_	Gloss=intérieur
+14	bubuaka	bubuaka	_	_	_	_	_	_	Gloss=marais
+
+# sent_id = Sursurigi Vatqalqalo15
+# text_en =  Ensuite, elle rentra. Elle rentra s'installer avec son gendre.
+1	Tau	Tau	_	_	_	_	_	_	Gloss=Coord
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+4	Mule	Mule	_	_	_	_	_	_	Gloss=rentrer
+5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+6	toga	toga	_	_	_	_	_	_	Gloss=rester
+7	me	me	_	_	_	_	_	_	Gloss=avec
+8	qaliga	qaliga	_	_	_	_	_	_	Gloss=gendre
+9	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+
+# sent_id = Sursurigi Vatqalqalo16
+# text_en =  Vatqalqalo resta étendue là, et son esprit s'en vint.
+1	Vatqalqalo	Vatqalqalo	_	_	_	_	_	_	Gloss=NP
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	eva	eva	_	_	_	_	_	_	Gloss=être.étendu
+4	no	no	_	_	_	_	_	_	Gloss=CP
+5	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
+6	tamate	tamate	_	_	_	_	_	_	Gloss=esprit
+7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+8	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+
+# sent_id = Sursurigi Vatqalqalo17
+# text_en =  Il vint, et la prit, et la lava, la lava, la lava, la baigna encore et encore, et elle se réveilla.
+1	Sumai	Sumai	_	_	_	_	_	_	Gloss=venir
+2	lai	lai	_	_	_	_	_	_	Gloss=procurer
+3	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+4	sae	sae	_	_	_	_	_	_	Gloss=monter
+5	kiro	kiro	_	_	_	_	_	_	Gloss=laver
+6	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+7	kiro	kiro	_	_	_	_	_	_	Gloss=laver
+8	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+9	kiro	kiro	_	_	_	_	_	_	Gloss=laver
+10	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+11	garusi	garusi	_	_	_	_	_	_	Gloss=baigner
+12	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+13	vavano	vavano	_	_	_	_	_	_	Gloss=RedDur.aller
+14	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+15	mamata	mamata	_	_	_	_	_	_	Gloss=se.réveiller
+
+# sent_id = Sursurigi Vatqalqalo18
+# text_en =  Elle dit Qu'est-ce qui m'est arrivé?
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	Nau	Nau	_	_	_	_	_	_	Gloss=I1sg
+5	dagasnia	dagasnia	_	_	_	_	_	_	Gloss=comment
+6	kea?	kea?	_	_	_	_	_	_	Gloss=dem
+
+# sent_id = Sursurigi Vatqalqalo19
+# text_en =  Toi, ta maman t'as marché dessus pour te noyer dans la boue.
+1	Niko	Niko	_	_	_	_	_	_	Gloss=I2sg
+2	no	no	_	_	_	_	_	_	Gloss=CP
+3	-n̄	-n̄	_	_	_	_	_	_	Gloss=-P2sg
+4	veve	veve	_	_	_	_	_	_	Gloss=maman
+5	va	va	_	_	_	_	_	_	Gloss=Caus
+6	-ras	-ras	_	_	_	_	_	_	Gloss=-marcher
+7	armwagigi	armwagigi	_	_	_	_	_	_	Gloss=noyer
+8	-ko	-ko	_	_	_	_	_	_	Gloss=-O2sg
+9	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+10	le=	le=	_	_	_	_	_	_	Gloss=Loc=
+11	lol	lol	_	_	_	_	_	_	Gloss=intérieur
+12	leba	leba	_	_	_	_	_	_	Gloss=boue
+
+# sent_id = Sursurigi Vatqalqalo20
+# text_en =  Elle est redescendue s'installer avec ton mari.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+4	toga	toga	_	_	_	_	_	_	Gloss=rester
+5	min	min	_	_	_	_	_	_	Gloss=Dest
+6	tubu	tubu	_	_	_	_	_	_	Gloss=époux
+7	-n̄a	-n̄a	_	_	_	_	_	_	Gloss=-P2sg
+
+# sent_id = Sursurigi Vatqalqalo21
+# text_en =  Prends ton couteau, suis là.
+1	Lai	Lai	_	_	_	_	_	_	Gloss=procurer
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+3	no	no	_	_	_	_	_	_	Gloss=CP
+4	-n̄	-n̄	_	_	_	_	_	_	Gloss=-P2sg
+5	tevteve	tevteve	_	_	_	_	_	_	Gloss=couteau
+6	sursuri	sursuri	_	_	_	_	_	_	Gloss=Red.suivre
+7	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+
+# sent_id = Sursurigi Vatqalqalo22
+# text_en =  Descends la tuer.
+1	Sugo	Sugo	_	_	_	_	_	_	Gloss=descendre
+2	vagis	vagis	_	_	_	_	_	_	Gloss=frapper
+3	va	va	_	_	_	_	_	_	Gloss=caus
+4	-mate	-mate	_	_	_	_	_	_	Gloss=-mourir
+5	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+
+# sent_id = Sursurigi Vatqalqalo23
+# text_en =  Elle chanta sa chanson, sa complainte
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	lai	lai	_	_	_	_	_	_	Gloss=procurer
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+5	asi	asi	_	_	_	_	_	_	Gloss=chanson
+6	tan̄tan̄i	tan̄tan̄i	_	_	_	_	_	_	Gloss=complainte
+7	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+
+# sent_id = Sursurigi Vatqalqalo24
+# text_en =  Ils ne l'ont pas encore entendue. Elle chante à nouveau:
+1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
+2	ti	ti	_	_	_	_	_	_	Gloss=Neg1
+3	-qa	-qa	_	_	_	_	_	_	Gloss=-PEN
+4	ron̄o	ron̄o	_	_	_	_	_	_	Gloss=entendre
+5	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+6	Lai	Lai	_	_	_	_	_	_	Gloss=procurer
+7	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+
+# sent_id = Sursurigi Vatqalqalo25
+# text_en =  Elle dit Comment cela ?
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	Dagasnia?	Dagasnia?	_	_	_	_	_	_	Gloss=comment
+
+# sent_id = Sursurigi Vatqalqalo26
+# text_en =  Il dit Les entends-tu tous là-haut qui disent ton nom ?
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	ron̄o	ron̄o	_	_	_	_	_	_	Gloss=entendre
+5	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
+6	de	de	_	_	_	_	_	_	Gloss=??
+7	kisae	kisae	_	_	_	_	_	_	Gloss=Deix
+8	mwer	mwer	_	_	_	_	_	_	Gloss=enfant
+9	vet	vet	_	_	_	_	_	_	Gloss=dire
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+11	sasa	sasa	_	_	_	_	_	_	Gloss=nom
+12	-n̄a?	-n̄a?	_	_	_	_	_	_	Gloss=-P2sg
+
+# sent_id = Sursurigi Vatqalqalo27
+# text_en =  “Elle dit “La!”
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	Ka	Ka	_	_	_	_	_	_	Gloss=Interj
+
+# sent_id = Sursurigi Vatqalqalo28
+# text_en =  Quand elle sortit à sa rencontre, elle dit : Viens ma chérie, va retrouver ton époux.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+3	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
+4	lua	lua	_	_	_	_	_	_	Gloss=sortir
+5	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+6	wa	wa	_	_	_	_	_	_	Gloss=Quot
+7	Sumai	Sumai	_	_	_	_	_	_	Gloss=venir
+8	tua	tua	_	_	_	_	_	_	Gloss=chéri
+9	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
+10	vano	vano	_	_	_	_	_	_	Gloss=aller
+11	go	go	_	_	_	_	_	_	Gloss=Aor2sg
+12	toga	toga	_	_	_	_	_	_	Gloss=rester
+13	me	me	_	_	_	_	_	_	Gloss=avec
+14	nia	nia	_	_	_	_	_	_	Gloss=époux
+15	-n̄a	-n̄a	_	_	_	_	_	_	Gloss=-P2sg
+
+# sent_id = Sursurigi Vatqalqalo29
+# text_en =  Vatqalqalo prit son couteau, et la tua avec.
+1	Vatqalqalo	Vatqalqalo	_	_	_	_	_	_	Gloss=NP
+2	lai	lai	_	_	_	_	_	_	Gloss=procurer
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
+4	no	no	_	_	_	_	_	_	Gloss=CP
+5	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+6	tevteve	tevteve	_	_	_	_	_	_	Gloss=couteau
+7	tai	tai	_	_	_	_	_	_	Gloss=couper
+8	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+10	mate	mate	_	_	_	_	_	_	Gloss=mourir
+
+# sent_id = Sursurigi Vatqalqalo30
+# text_en =  Elle se réinstalla avec son époux.
+1	vano	vano	_	_	_	_	_	_	Gloss=aller
+2	toga	toga	_	_	_	_	_	_	Gloss=rester
+3	me	me	_	_	_	_	_	_	Gloss=avec
+4	tubu	tubu	_	_	_	_	_	_	Gloss=époux
+5	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+
+# sent_id = Sursurigi Vatqalqalo31
+# text_en =  L'histoire se termine là.
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	ka	ka	_	_	_	_	_	_	Gloss=Coord
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
+4	weswesu	weswesu	_	_	_	_	_	_	Gloss=finir
+5	laka	laka	_	_	_	_	_	_	Gloss=Deix
+6	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
+

@@ -1,0 +1,2040 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<interlinear-text>
+  <item type="title">Vetveti bei lata</item>
+  <phrases>
+    <phrase>
+      <item num="1"/>
+      <item type="ft">  Bien</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Wia</item>
+              <item type="gls">bon</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="2"/>
+      <item type="ft"> Je vais raconter l'histoire de Bei Lata</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Nau=</item>
+              <item type="gls">S1sg=</item>
+            </morph>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ni=</item>
+              <item type="gls">Irr=</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">vet.veti</item>
+              <item type="gls">Red.dire</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">na=</item>
+              <item type="gls">ArtAc=</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">vetveti</item>
+              <item type="gls">histoire</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">Bei</item>
+              <item type="gls">eau</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">Lata</item>
+              <item type="gls">grand</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="3"/>
+      <item type="ft"> comment elle naît à Qatiwol, part dans le bush,</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">dagasnia</item>
+              <item type="gls">comment</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ia</item>
+              <item type="gls">I3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">mo=</item>
+              <item type="gls">Rel=</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">totqatugi</item>
+              <item type="gls">commencer</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">Qatiwol</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">van</item>
+              <item type="gls">aller</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="8"/>
+              <item type="txt">lolwono</item>
+              <item type="gls">bush</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="4"/>
+      <item type="ft"> puis coule, vient, et débouche ici, chez nous.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">kati</item>
+              <item type="gls">Coord</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ro.roro</item>
+              <item type="gls">Red.couler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="6"/>
+              <item type="txt">rowolua</item>
+              <item type="gls">sortir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">din̄a</item>
+              <item type="gls">atteindre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">taval</item>
+              <item type="gls">chez</item>
+            </morph>
+            <morph>
+              <item num="9"/>
+              <item type="txt">-gida</item>
+              <item type="gls">-O1plincl</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">laka</item>
+              <item type="gls">deix</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="5"/>
+      <item type="ft"> Bon, son histoire commence ainsi.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Wia</item>
+              <item type="gls">bon</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ga</item>
+              <item type="gls">CP</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">-na</item>
+              <item type="gls">-P3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">vetveti</item>
+              <item type="gls">récit</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">totqatug</item>
+              <item type="gls">commencer</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">doklaka</item>
+              <item type="gls">ainsi</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="6"/>
+      <item type="ft"> Un jour, il y eut une grosse pluie, il plut, plut, plut</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Qon̄</item>
+              <item type="gls">jour</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">tewa</item>
+              <item type="gls">un</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">mas</item>
+              <item type="gls">gros</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">usa</item>
+              <item type="gls">pluie</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">usa</item>
+              <item type="gls">pluie</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="7"/>
+              <item type="txt">usa</item>
+              <item type="gls">pluie</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="9"/>
+              <item type="txt">usa</item>
+              <item type="gls">pluie</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="11"/>
+              <item type="txt">usa</item>
+              <item type="gls">pluie</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="7"/>
+      <item type="ft"> cette eau courut, arracha un tronc de sagoutier,</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">bei</item>
+              <item type="gls">eau</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">-la</item>
+              <item type="gls">-Anaph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">rowo</item>
+              <item type="gls">courir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">wut(u)</item>
+              <item type="gls">arracher</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">na=</item>
+              <item type="gls">ArtAc=</item>
+            </morph>
+            <morph>
+              <item num="8"/>
+              <item type="txt">qatai</item>
+              <item type="gls">tronc</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">takura</item>
+              <item type="gls">sagoutier</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">tewa</item>
+              <item type="gls">un</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="8"/>
+      <item type="ft"> l'emporta et coula avec lui, vint, vint, vint,</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">lai</item>
+              <item type="gls">porter</item>
+            </morph>
+            <morph>
+              <item num="2"/>
+              <item type="txt">-a</item>
+              <item type="gls">-O3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">roro</item>
+              <item type="gls">courir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">me</item>
+              <item type="gls">avec</item>
+            </morph>
+            <morph>
+              <item num="6"/>
+              <item type="txt">-a</item>
+              <item type="gls">-O3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="8"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="10"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="11"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="12"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="9"/>
+      <item type="ft"> au sommet de ce sagoutier… de nombreux perroquets se trouvaient au sommet de ce sagoutier</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="2"/>
+              <item type="txt">won</item>
+              <item type="gls">sommet</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">takura</item>
+              <item type="gls">sagoutier</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">-la,…</item>
+              <item type="gls">-Anaph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">mawut</item>
+              <item type="gls">nombreux</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">siviru</item>
+              <item type="gls">perroquet</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">mo=</item>
+              <item type="gls">Rel=</item>
+            </morph>
+            <morph>
+              <item num="9"/>
+              <item type="txt">toga</item>
+              <item type="gls">rester</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="11"/>
+              <item type="txt">won</item>
+              <item type="gls">sommet</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="12"/>
+              <item type="txt">takura</item>
+              <item type="gls">sagoutier</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="10"/>
+      <item type="ft"> Ensuite, cette eau emporte le sagoutier,</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Bastau</item>
+              <item type="gls">ensuite</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">bei</item>
+              <item type="gls">eau</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">-la</item>
+              <item type="gls">-Anaph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">lai</item>
+              <item type="gls">porter</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">na=</item>
+              <item type="gls">ArtAc=</item>
+            </morph>
+            <morph>
+              <item num="7"/>
+              <item type="txt">takura</item>
+              <item type="gls">sagoutier</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">roro</item>
+              <item type="gls">couler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">me</item>
+              <item type="gls">avec</item>
+            </morph>
+            <morph>
+              <item num="10"/>
+              <item type="txt">-a</item>
+              <item type="gls">-O3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="11"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="11"/>
+      <item type="ft"> et continue sa route.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">su.sumai</item>
+              <item type="gls">Red.venir</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="12"/>
+      <item type="ft"> Elle descend et atteind le marais à Gara.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Su.su(go)</item>
+              <item type="gls">Red.descendre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">din̄a</item>
+              <item type="gls">atteindre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">buaka</item>
+              <item type="gls">marais</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">Gara</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="13"/>
+      <item type="ft"> elle a entendu le bruit du casuarina qui.. le vent souffle dedans, il bruisse.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Ron̄o</item>
+              <item type="gls">entendre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">na=</item>
+              <item type="gls">ArtAc=</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">n̄ovi</item>
+              <item type="gls">bruit</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">aru</item>
+              <item type="gls">casuarina</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">mo=</item>
+              <item type="gls">Rel=</item>
+            </morph>
+            <morph>
+              <item num="6"/>
+              <item type="txt">toti…</item>
+              <item type="gls">Prog</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">lan̄i</item>
+              <item type="gls">vent</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">seregi</item>
+              <item type="gls">souffler.dans</item>
+            </morph>
+            <morph>
+              <item num="9"/>
+              <item type="txt">-a</item>
+              <item type="gls">-O3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">tot</item>
+              <item type="gls">Prog</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="11"/>
+              <item type="txt">n̄wan̄wa</item>
+              <item type="gls">bruisser</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="14"/>
+      <item type="ft"> Elle entend et se dit Non, si je vais par là… il y a déjà une rivière qui passe ici…</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">I=</item>
+              <item type="gls">S3sg=</item>
+            </morph>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">ron̄o</item>
+              <item type="gls">entendre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">wa</item>
+              <item type="gls">Quot</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">Tigai</item>
+              <item type="gls">non</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">nau=</item>
+              <item type="gls">S1sg=</item>
+            </morph>
+            <morph>
+              <item num="7"/>
+              <item type="txt">wa=</item>
+              <item type="gls">si=</item>
+            </morph>
+            <morph>
+              <item num="8"/>
+              <item type="txt">sugo</item>
+              <item type="gls">descendre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">laka</item>
+              <item type="gls">Deix</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">…mo=</item>
+              <item type="gls">caus=</item>
+            </morph>
+            <morph>
+              <item num="11"/>
+              <item type="txt">bei</item>
+              <item type="gls">eau</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="12"/>
+              <item type="txt">tewa</item>
+              <item type="gls">une</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="13"/>
+              <item type="txt">tot</item>
+              <item type="gls">Prog</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="14"/>
+              <item type="txt">tau</item>
+              <item type="gls">poser??</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="15"/>
+              <item type="txt">laksugo</item>
+              <item type="gls">deix</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="15"/>
+      <item type="ft"> Et elle repart en arrière.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">ka</item>
+              <item type="gls">Coord</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">talwura</item>
+              <item type="gls">revenir.en.arrière</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">talwura</item>
+              <item type="gls">à.nouveau</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="16"/>
+      <item type="ft"> Elle a fait chemin arrière, et puis elle est venue, venue, et arrivée ici, à Ruos</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Talewura</item>
+              <item type="gls">revenir.en.arrière</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">su.sumai</item>
+              <item type="gls">Red.venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">ka</item>
+              <item type="gls">Coord</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="8"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">din̄a</item>
+              <item type="gls">atteindre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">kika</item>
+              <item type="gls">Deix</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="11"/>
+              <item type="txt">Ruos</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="17"/>
+      <item type="ft"> elle a coulé là, est descendue vers Tavalavale, est venue à Qatnasivrowo, à son sommet</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">roro</item>
+              <item type="gls">couler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">ala</item>
+              <item type="gls">Anaph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">sugo</item>
+              <item type="gls">descendre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">Tavalvale</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">su.sumai</item>
+              <item type="gls">Red.venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">Qatnasivrowo</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="8"/>
+              <item type="txt">won̄a</item>
+              <item type="gls">sommet</item>
+            </morph>
+            <morph>
+              <item num="9"/>
+              <item type="txt">-na</item>
+              <item type="gls">-P3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="18"/>
+      <item type="ft"> Au sommet de cette colline, elle l’a jeté, elle a jeté ce sagoutier</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="2"/>
+              <item type="txt">won</item>
+              <item type="gls">sommet</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">rewo</item>
+              <item type="gls">colline</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">-la</item>
+              <item type="gls">-Anaph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">wosagi</item>
+              <item type="gls">jeter</item>
+            </morph>
+            <morph>
+              <item num="7"/>
+              <item type="txt">-a</item>
+              <item type="gls">-O3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">wosag</item>
+              <item type="gls">jeter</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">na=</item>
+              <item type="gls">ArtAc=</item>
+            </morph>
+            <morph>
+              <item num="10"/>
+              <item type="txt">takura</item>
+              <item type="gls">sagoutier</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="11"/>
+              <item type="txt">let</item>
+              <item type="gls">??</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="19"/>
+      <item type="ft"> Elle l’a jeté puis elle a formé une chute d’eau à Qilorua</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Wosagi</item>
+              <item type="gls">jeter</item>
+            </morph>
+            <morph>
+              <item num="2"/>
+              <item type="txt">-a</item>
+              <item type="gls">-O3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">ka</item>
+              <item type="gls">Coord</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">sarwutu</item>
+              <item type="gls">tomber.en.chute</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">sugo</item>
+              <item type="gls">descendre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">Qilorua</item>
+              <item type="gls">Qilorua</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="20"/>
+      <item type="ft"> Les nombreux perroquets qui se tenaient sur le sagoutier s'échappèrent un par un.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Siviru</item>
+              <item type="gls">perroquet</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">n̄waraga</item>
+              <item type="gls">nombreux</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">mo=</item>
+              <item type="gls">Rel=</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">toga</item>
+              <item type="gls">rester</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="6"/>
+              <item type="txt">wone</item>
+              <item type="gls">sommet</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">takura</item>
+              <item type="gls">sagoutier</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">ge=</item>
+              <item type="gls">Aorpl=</item>
+            </morph>
+            <morph>
+              <item num="9"/>
+              <item type="txt">rowrowo</item>
+              <item type="gls">Red.courir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">ririk</item>
+              <item type="gls">Red.petit</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="21"/>
+      <item type="ft"> Et on a appelé ce bassin les Deux-Bassins</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Kae</item>
+              <item type="gls">Coord.Aorpl</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">are</item>
+              <item type="gls">appeler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">na=</item>
+              <item type="gls">ArtAc=</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">qilo</item>
+              <item type="gls">bassin</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+            <morph>
+              <item num="6"/>
+              <item type="txt">-la</item>
+              <item type="gls">-Anaph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">are</item>
+              <item type="gls">appeler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">war</item>
+              <item type="gls">dire</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">Qilo</item>
+              <item type="gls">bassin</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">Rua</item>
+              <item type="gls">deux</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="22"/>
+      <item type="ft"> On a appelé le … là-haut à son sommet, on l'a appelé Qatnasivrowo (la chute des perroquets qui s'envolent)</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Are</item>
+              <item type="gls">appeler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">na=</item>
+              <item type="gls">ArtAc=</item>
+            </morph>
+            <morph>
+              <item num="3"/>
+              <item type="txt">qatseuse</item>
+              <item type="gls">chute.d'eau</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">kisae</item>
+              <item type="gls">Deix</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="6"/>
+              <item type="txt">won̄a</item>
+              <item type="gls">sommet</item>
+            </morph>
+            <morph>
+              <item num="7"/>
+              <item type="txt">-na</item>
+              <item type="gls">-P3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">are</item>
+              <item type="gls">appeler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">wa</item>
+              <item type="gls">Quot</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">Qatnasivrowo</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="23"/>
+      <item type="ft"> (parce qu'elle?) coule à Qatnasivrowo, et descend ensuite à Qilorua</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">mo=</item>
+              <item type="gls">caus?=</item>
+            </morph>
+            <morph>
+              <item num="2"/>
+              <item type="txt">roro</item>
+              <item type="gls">couler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">Qatnasivrowo</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="5"/>
+              <item type="txt">sugo</item>
+              <item type="gls">descendre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">Qilorua</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="24"/>
+      <item type="ft"> Ensuite, cette eau coule, s'en vient, s'en vient, et atteind la crique, ici,et s'en va dans la mer.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Baso</item>
+              <item type="gls">finir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">bei</item>
+              <item type="gls">eau</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">-la</item>
+              <item type="gls">-Anaph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">ti=</item>
+              <item type="gls">Aor3sg=</item>
+            </morph>
+            <morph>
+              <item num="6"/>
+              <item type="txt">roro</item>
+              <item type="gls">couler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">su.sumai</item>
+              <item type="gls">Red.venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">din̄a</item>
+              <item type="gls">atteindre</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="9"/>
+              <item type="txt">kika</item>
+              <item type="gls">Deix</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">ka</item>
+              <item type="gls">??</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="11"/>
+              <item type="txt">kerebei</item>
+              <item type="gls">crique(fond.eau)</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="12"/>
+              <item type="txt">van</item>
+              <item type="gls">aller</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="13"/>
+              <item type="txt">varea</item>
+              <item type="gls">dehors</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="14"/>
+              <item type="txt">le=</item>
+              <item type="gls">Loc=</item>
+            </morph>
+            <morph>
+              <item num="15"/>
+              <item type="txt">tasi</item>
+              <item type="gls">mer</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="25"/>
+      <item type="ft"> ce récit de la rivière, c’est celui là, de comment elle commence là-haut à Qatewoli, et coule jusqu’à ressortir ici.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Vetveti</item>
+              <item type="gls">récit</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">bei</item>
+              <item type="gls">eau</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="4"/>
+              <item type="txt">ia</item>
+              <item type="gls">I3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">kea</item>
+              <item type="gls">Dem</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">mo=</item>
+              <item type="gls">Rel=</item>
+            </morph>
+            <morph>
+              <item num="7"/>
+              <item type="txt">dagasnia</item>
+              <item type="gls">comment</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="8"/>
+              <item type="txt">mo=</item>
+              <item type="gls">Rel=</item>
+            </morph>
+            <morph>
+              <item num="9"/>
+              <item type="txt">totqatug</item>
+              <item type="gls">commencer</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="10"/>
+              <item type="txt">laksae</item>
+              <item type="gls">Deix</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="11"/>
+              <item type="txt">qatewoli</item>
+              <item type="gls">Topon</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="12"/>
+              <item type="txt">roro</item>
+              <item type="gls">couler</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="13"/>
+              <item type="txt">sumai</item>
+              <item type="gls">venir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="14"/>
+              <item type="txt">lua</item>
+              <item type="gls">sortir</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="15"/>
+              <item type="txt">laka</item>
+              <item type="gls">ici</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item num="26"/>
+      <item type="ft"> Voilà donc l'histoire de la rivière.</item>
+      <words>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="1"/>
+              <item type="txt">Ia</item>
+              <item type="gls">I3sg</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="2"/>
+              <item type="txt">va</item>
+              <item type="gls">PEN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="3"/>
+              <item type="txt">kia</item>
+              <item type="gls">Dem</item>
+            </morph>
+            <morph>
+              <item num="4"/>
+              <item type="txt">-ga</item>
+              <item type="gls">-Cataph</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="5"/>
+              <item type="txt">va</item>
+              <item type="gls">PEN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="6"/>
+              <item type="txt">vetveti</item>
+              <item type="gls">récit</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item num="7"/>
+              <item type="txt">Bei</item>
+              <item type="gls">eau</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+  </phrases>
+</interlinear-text>
