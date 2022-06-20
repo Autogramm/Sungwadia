@@ -1,0 +1,1993 @@
+
+Corpus Sungwadia (première partie : 3 lignes)
+
+-------------------------------------------
+Waroro (warMA)
+(cahier 2, pp. 170-189)
+MarcAru
+
+1 Qon̄	tewa,	tatua	i-tewa	min-a	tain̄wa	i-rua.
+jour	un	homme	Num-un	Dest-Art	femme	Num-deux
+"Il était une fois un homme et sa femme."
+2 Natu-ra	i-rua.
+enfant-P3pl	Num-deux	
+"Ils avaient deux enfants."
+3 Ira=	toga,	totoga,	i=	natu-ra	i-rua	vet	min	i=	no-ra	veve
+S3pl	rester	RedDur.rester	ArtP	enfant-P3pl	Num-deux	dire	Dest	ArtP	CP-P3pl	maman
+" Un jour, les deux enfants dirent à leur mère"
+4 vetar	ira=	ni=	sugo	le=	tasi	ni=	sarsaroa	qorogi.
+dire	S3pl	Irr	descendre	Loc	mer	Irr	RedDetrans.ramasser	coquillage
+"qu'ils descendaient vers la mer ramasser des coquillages."
+5 No-ra	veve	vetar	"Kamu=	wa=	sugo,	ladoa	kamu=	ni=	saqe	na=	tatua.
+CP-P3pl	maman	dire	S2pl	Cadr	descendre	veiller	S2pl	Irr	trouver	ArtAc	homme
+"Leur mère leur dit: "si vous descendez, attention à ne pas rencontrer quelqu'un."
+6 Ira=	vetar	"Wia."
+S3pl	dire	bon
+"Ils dirent "d'accord"."
+7 Ira=	sugo	saro	na=	qorogi.	
+S3pl	descendre	ramasser	ArtAc	coquillage
+"Ils descendirent ramasser des coquillages."
+8 Sarsar	na=	qorogi,	gete	ti=	ura	kae	lai	sumai,	din̄a	le=	varea
+Red.ramasser	ArtAc	coquillage	panier	Aor	plein	Coord.Aorpl	procurer	venir	atteindre	Loc	village
+"Elles ramassèrent des coquillages, leur panier s'emplit, puis elles le rapportèrent au village."
+9 Totoga	ti=	gangani	baso,	kae	toga.
+RedDur.rester	Aor	RedDetrans.manger	finir	Coord.Aorpl	rester
+"Ils mangèrent et le temps passa."
+10 Totoga	le=	tuara	qoni,	ira=	vet	min	no-ra	veve	vetar	ira=	ni=	sugo	talwura	le=	tasi,	sar	na=	qorogi.
+RedDur.rester	Loc	autre	jour	S3pl	dire	Dest	CP-P3pl	maman	dire	S3pl	Irr	descendre	à.nouveau	Loc	mer	ramasser	ArtAc	coquillage
+"Le temps passa, et un autre jour, elles dirent à leur mère qu'elles descendaient à nouveau en bord de mer pour ramasser les coquillages."
+11 no-ra	veve	vetar	"Kamu=	wa=	sugo	ete	goro	kamu=	wa= 	saqe	na=	tatua.
+CP-P3pl	maman	dire	S2pl	Cadr	descendre	surveiller	S2pl	Cadr	trouver	ArtAc	homme
+"Leur mère répondit "si vous y aller, regardez si vous rencontrez quelqu'un.""
+12 Ira=	vetar	"Wia."
+S3pl	dire	bon
+"Elles dirent "d'accord"."
+13 Ira=	sugo	din̄a	le=	tasi,	sarsar	na=	qorogi	sugo,
+S3pl	descendre	atteindre	Loc	mer	Red.chercher	ArtAc	coquillage	descendre
+"Elles descendirent au bord de mer, cherchèrent des coquillages"
+14 sugo	le=	n̄orai	tewa,	kae	saqe	na=	waroro.
+descendre	Loc	pointe	un	Coord.Aor	trouver	ArtAc	turbo.vert
+"et en descendant vers une pointe, elles trouvèrent un turbo vert."
+15 Lai	na=	waroro	tau	sae	le=	won	vatu,	kae	sar	na=	qorogi	sugo.
+procurer	ArtAc	turbo.vert	poser	monter	Loc	sommet	pierre	Coord.Aor	ArtAc	coquillage	descendre
+" Elles prennent le turbo vert, le posent au sommet d’un rocher, et continue à ramasser des coquillages".
+16 Sugo,	sugo,	tuagae	ti=	vet	mini=	tasi	ti=	vetar
+descendre	descendre aîné	Aor	dire	Dest	cadet	Aor	dire
+" Elles descendent, descendent, et l’aînée dit à la cadette :"
+17 "Tarisa.	Gete	ura,	gida=	ti=	mule	talwura."	
+suffire	panier	plein	S1plincl	Aor	rentrer	à.nouveau
+"Ca suffit. Le panier est plein, rentrons."
+18 Ira=	ge=	mule	sumai,	sumai,	ira=	ge=	sumai,	
+S3pl	Aorpl	rentrer	venir	venir	S3pl	Aorpl	venir
+"Elles s’en retournent, s’en retournent"
+19 ka	wa=	ete	sae	le=	n̄orai,	saqe	na=	tatua.
+Coord	Cadr	voir	monter	Loc	pointe	trouver	art homme
+"Mais quand elles arrivèrent au niveau de la pointent, elles aperçurent un homme"
+20 Baso,	kae	sae,	sae,	din̄a	tavalu-na,	
+finir	Coord.Aor	monter	monter	atteindre	côté-P3sg
+"Alors elle le rejoignirent»
+21 kae	usi-a	vetar:	"Niko=	sumai	bea?"
+Coord.Aorpl	interroger-O3sg	dire	S2sg	venir	où
+"et lui demandèrent: "D'où viens-tu?"
+22 Ia=	ti=	wa	"I,	nau=	tagoso	gin-kamurua.	Kamurua=	sumai	bea?"
+S3sg	Aor3sg	Quot	Interj	S1sg	sursauter	Instr-Obl2du	S2du	venir où
+"Il dit "Hi, vous m'avez surpris! D'où venez-vous?"
+23 Irarua=	vetar	"Tigai,	kamirua=	sursur	tasi	sarsar	qorogi."
+S3du	dire	non	S1exdu	Red.suivre	mer	Red.chercher	coquillage
+"Elles répondirent: "Non, on suit la plage pour trouver des coquillages."
+24 Bastau	ira=	usi-a	war	"niko=	sumai	bea?"
+Coord	S3pl	interroger	Compl	S2sg	venir	où
+"Ensuite elles lui demandèrent: "Tu viens d'où?"
+25 Ia=	ti=	vetar	"Nau=	toga	laka	n̄a."
+S3sg	Aor	dire	S1sg	rester	Deix	PEN
+"Il dit: "Je vis juste ici.""
+26 Bastau	irarua=	usi-a	vetar	"Niko=	tigai	saqe	tea	na=	ga-mi	waroro?"
+Coord	S3du	interroger-O3sg	dire	S2sg	Neg1-PEN	trouver	Neg2	ArtAc	CP-P1ex	turbo.vert
+"Ensuite, elles lui demandèrent: "Tu n'as pas vu notre turbo vert?"
+27 Ia=	ti=	vetar	"Tigai!	nau=	ti=saqe	tea	na=	ga-mu	waroro."
+S3sg	Aor3sg	dire	non	S1sg	Neg1	trouver	Neg2	ArtAc	CP-P2pl	turbo.vert
+"Il répondit "Non, je n'ai pas vu votre turbo.vert.""
+28 Bastau	ira=	usi-a	talwura	vetar
+Coord	S3pl	interroger-O3sg	à.nouveau	dire
+"Alors elles lui demandèrent à nouveau :"
+29 "Niko=	ti=	saqe	tea	na=	ga-mi	waroro,	kami=	tau	toga	laka?"
+S2sg	Neg1	trouver	Neg2	ArtAc	CP-P1ex	turbo.vert	S1plexcl	poser	rester	Deix
+"Tu n’as pas trouvé notre turbo vert ? on l’avait posé là."
+30 Bastau	i=	ti=	veti	war	"Ga-mu	waroro	kea-la,	nau=	kea	ga-mu	waroro."
+Coord	S3sg	Aor	dire	Compl	CP-P2pl	turbo.vert	Dem-Anaph	I1sg	Dem	CP-P2pl	turbo.vert
+"Ensuite il leur dit "Votre turbo vert, c'est moi, votre turbo.vert""
+31 Bastau	ira=	tutura,	tatua	ti=	usi-ra	vetar:	"Kamurua=	bakbaka?"
+Coord	S3pl	se.lever	homme	Aor	interroger-O3pl	dire	S2du	être.marié
+"Ensuite, il leur demanda "Etes-vous mariées?"
+32 Bastau	irarua=	ti=	vetar	tigai, irarua=	ti-gai	bakbaka	tea.
+Coord	S3du	Aor	dire	non	S3du	Neg1-PEN	être.marier	Neg2
+"Alors elles dirent que non, qu'elles n'étaient pas mariées."
+33 Bastau	irarua=	ti=	usi-a	vetar	"niko=	bakbaka?	
+Coord	S3du	Aor	interroger-O3sg	dire	S2sg	être.marié
+"Alors elles lui demandèrent "Es-tu marié?"
+34 I=	ti=	vetar	"Tigai.	Nau=	ti-n̄a	bakbaka	tea."
+S3sg	Aor	dire	non	S1sg	Neg1-PEN	être.marié	Neg2
+"Il répondit "Non, je ne suis pas marié du tout."
+35 Bastau	ira=	veti	war	"Doqala	mule	sage	varea."
+Coord	S3pl	dire	Compl	ainsi	rentrer	monter	village
+"Alors elles lui dirent, puisque c'est comme ça, montons au village."
+36 Bastau	i=	ti=	vetar	"Nau=	ruaga	i=	no-mu	tata	ti=vi=	mero	me-nau."
+Coord	S3sg	Aor	dire	S1sg	craindre	ArtP	CP-P2pl	papa	Evit	se.fâcher	avec-O1sg
+"Alors il leur dit "J'ai peur que votre papa m'en veuille."
+37 Irarua	ti=	vetar	"Tigai.	Ira=	ni=	ti-gai	mero	me-ko	tea.
+S2du	Aor	dire	non	S3pl	Irr	Neg1-PEN	se.fâcher	avec-O2sg	Neg2
+"Elles dirent "Non, ils ne seront pas fâchés."
+38 Sumai,	gida=	ti=	sae."
+venir	S1plincl	Aor1plincl	monter
+"Viens, allons-y.""
+39 I=	ti=	vetar	"Wia."
+S3sg	Aor3sg	dire	bien
+"Il dit: "D'accord.""
+40 Ira=	ge=	sae,	sasae	le=	bebe	varea,
+S3pl	Aorpl	monter	RedDur.monter	Loc	alentours	village
+"Ils montèrent, montèrent, jusqu'aux abords du village."
+41 kae	taunigi-a,	kae	sasae	din̄a	le=	varea,
+Coord.Aorpl	cacher-O3sg	Coord.Aor	RedDur.monter	atteindre	Loc	village
+"puis elles le cachèrent, et elles se rendirent au village."
+42 tau	na=	gete	qorogi	sugo.	
+poser	ArtAc	panier	coquillages	descendre
+"Elles posèrent le panier de coquillages."
+43 Baso	kae	toga.
+finir	Coord.Aor	rester
+"Puis elles attendirent."
+44 Totoga,	i=	tewa	vet	min	no-ra	veve,	vetar
+RedDur.rester Num-un	dire	Dest	CP-P3pl	mère	dire
+"Au bout d'un moment, l'une dit à leur mère:
+45 "Veve,	kami=	sugo	sarsar	qorogi,	kae	saqe	na=	tatua.
+maman	 S1plex	descendre	Red.chercher	coquillage Coord.Aor	trouver	ArtAc homme
+"Maman, nous sommes descendues chercher des coquillages, et nous avons rencontré un homme."
+46 bastau	i=	no-ra	veve	vetar	"ka	ti	bea?"
+Coord	ArtP	CP-P3pl	maman	dire	Coord	Aor	où
+"Alors leur maman dit: "Et il est où?""
+47 Ira=	ti=	vetar	"laksugo,	Kami=	u=	taunigi-a"
+S3pl	Aor3sg	dire	Deix	S1plex	PftRes	cacher-O3sg
+"Elles dirent "Là-bas, nous l'avons caché""
+48 Bastau	i=	no-ra	veve	vet	min-ira	wari	"Kare	taunigi	tea	na=	tatua.
+ensuite	ArtP	CP-P3pl	maman	dire	Dest-Obl3pl	Comp Prohib	cacher	Neg2	ArtAc	homme
+"Alors leur maman leur dit "?? ne pas cacher l'homme."
+49 Kamurua=	sugo	ge=	lai	sumai."
+S2du	descendre	Aor	procurer	venir
+"Allez le chercher."
+50 Ira=	ge=	rowo	sugo.
+S3pl	Aorpl	courir	descendre
+"Elles y allèrent en courant."
+51 Sugo	tewa tor na= taval lima-na, tewa tor na= taval lima-na,
+descendre	un tenir ArtAc autre.côté main-P3sg un tenir ArtAc autre.côté main-P3sg
+"Ils descendirent, l'une tenait une main, l'autre tenait l'autre main."
+52 kae	rowo	manmana	sumai.
+Coord.Aorpl	courir	Red.Ger.rire	venir
+"et ils s'en revinrent en courant et riant."
+53 Sae	sumai	din̄a	le=	varea;	
+monter	venir	atteindre	Loc	village
+"Ils rentrent et atteignent le village"
+54 no-ra	veve	vet	min-ira	vetar	
+CP-P3pl	maman	dire	Dest-Obl3pl	dire
+"Leur maman leur dit:"
+55 "Vale-mu	kivano,	kamurua=	vano	ge=	toga ala	me-a."
+maison-P2pl	Deix	S2du	aller	Aorpl	rester	LocAnaph	avec-O3sg
+"Votre maison est là-bas, vous habiterez là avec lui."
+56 Bastau,	ira=	ge=	vano	dina	le=	vale,
+ensuite	S3pl	Aorpl	aller	atteindre	Loc	maison
+"Ils vont dans la maison."
+57 ia=	vet	min-ira	vetar	"gida=	wa=	toga,	gida=	wa=	mero,
+I3sg	dire	Dest-Obl3pl	dire	S1plincl	Cadr	rester	S1plincl	Cadr	se.fâcher
+"Il leur dit: "Si nous restons ensemble, si (un jour) vous vous mettez en colère,"
+58 kamu=	kare	veti	tea	na=	waroro.	
+S2pl	Prohib	dire	Neg2	ArtAc	turbo.vert
+"Vous ne devrez pas parler du turbo vert."
+59 Kamurua=	wa=	veti	na=	waroro,	nau=	ni=	talwura	sugo	le=	tasi.
+S2du	Cadr	dire	ArtAc	turbo.vert	S1sg	Irr	recommencer	descendre	Loc	mer
+"Si vous parlez du turbo vert, je retourne dans la mer."
+60 Irarua=	vetar	"Wia." Ira=	toga.
+S2du	dire	bon	S3pl	rester
+"Elles dirent "d'accord"". Et ils s'en tinrent là.
+61 Totoga,	qon̄	tewa,	irarua=	mero,	ti=	vagis	tuara,	
+RedDur.rester	jour	un	S3du	se.fâcher	Aor	frapper	autre	
+"Un jour, elles étaient en colère, il frappa l’une,"
+62 ti=	vagis	tuara,	irarua=	n̄ara,	kae	toga.
+Aor	frapper	autre	S2du	pleurer	Coord.Aor	rester
+"il frappa l’autre, les deux pleurèrent, et cela en resta là."
+63 Totoga,	qon̄	tewa,	ira=	ge=	mero	doqala,	i=	ti=	vagis	tuara,
+RedDur.rester	jour	un	S3pl	Aor	se.fâcher	ainsi	S3sg	Aor3sg	frapper	autre
+"Un jour, elles se fachèrent à nouveau, il frappa l’une"
+64 i=	ti=	vagisi	tuara,	irarua=	n̄ara,	kae	toga.
+Aor3sg	frapper	autre	S3du	pleurer	Coord.Aor	rester
+"il frappa l’autre, les deux pleurèrent, et cela en resta là."
+65 Totoga,	ia	kea	na=	tasi	ete	wari	ia	kea	na=	tuagae	dodomgoro	suria	kea	na=	tasi.
+RedDur.rester	I3sg	Dem	Art	cadet	voir	Compl	I3sg	Dem	Art	aîné	jalouser	suivre-O3sg	Dem	Art	cadet
+“Un peu plus tard, la cadette se rendit compte que l’aînée était jalouse d’elle."
+66 I=	ti=	wa=	vagisi-a	talwura,	i=	ti=	wa=	n̄ara	ka	ti=	vet	min-ia	vetar:
+S3sg	Aor3sg	Cadr	frapper-O3sg	à.nouveau	S3sg	Cadr	pleurer	Coord	Aor3sg	dire	Dest-Obl3sg	dire
+"Il allait la frapper à nouveau, elle allait pleure, quand elle lui dit :"
+67 "Niko	kea,	vagvagis	gadiri,	na=	ga-mi	waroro.
+I2sg	Dem	Red.frapper	souffrir	Art	CP-P1plex	turbo.vert
+"Toi, là, qui nous frappent et nous fait mal, tu n’es que notre turbo vert !"
+68 I=	ti=	veti	wari	"Ka!	Mo=	nau=	mo=	ta=	vet	min-ikamu,	veti	war	gida=	wa=	mero,	kamurua=	kare	veti	tea	na=	waroro.
+S3sg	Aor3sg	dire	Compl	Interj	Rel	S1sg	Rel	Pft	dire	Dest-Obl2pl	dire	Compl	S1plincl	Cadr	se.fâcher	S2du	prohib	dire	Neg2	ArtAc	turbo.vert
+“Il dit “AH! je vous avais bien dit que même si nous disputions, vous ne deviez pas dire que j’étais un turbo vert !"
+69 Kamu=	ge=	veti	na=	waroro,	kakaka	nau=	ni=	mule	talwura.	
+S2pl	Aorpl	dire	ArtAc	turbo.vert	maintenant	S1sg	Irr	rentrer	à.nouveau
+"Vous l’avez dit, alors je dois m’en retourner chez moi."
+70 Ira=	ge=	vetar	"Tigai"
+S3pl	Aorpl	dire	non
+"Elles dirent "non"."
+71 Ia	kea	no-da	wuri-a	gase-da	n̄a,	
+I3sg	Dem	CP-P1plincl	compléter-O3sg	seul-P1plincl	PEN	
+"Cela reste entre nous seuls"
+72 veve	mata-n	tata,	ira=	u=	ti=	ron̄o	tea.
+maman	avec-P3psg	papa	S3pl	PftRes	Neg1	entendre	Neg2
+"Papa et Maman, ils n’ont rien entendu !"
+73 I=	ti=	vet	war	"Tigai,	nau=	mo=	ta=	veti,	
+S3sg	Aor3sg	dire	Compl	non	S1sg	Rel	Pft	dire
+“Il dit “Non, car je vous avais prévenues”
+74 kamu=	ti=	ron̄o	tea.	Kakaka,	nau=	ni=	mule	talwura.
+S2pl	Neg1	entendre	Neg2	maintenant	S1sg	Irr	rentrer	à.nouveau
+«Vous n’avez pas écouté. Maintenant je m’en vais."
+75 Bastau,	irarua=	ti-n̄a	da	lai-a	tea.
+ensuite	S3du	Neg1-PEN	faire	ModCap-O3sg	Neg2
+"Et elles ne purent rien y faire."
+76 I=	ti=	veti	war	"nau=	ni=	tan̄tan̄i	sugo	laka."
+S3sg	Aor3sg	dire	Compl	S1sg	Irr	chanter.complainte	descendre	Deix
+"Il dit : "je vais changer ma complainte en descendant."
+77 Ka	ga-n	tan̄tan̄i	doklaka.
+Coord	CP-P3sg	complainte	ainsi
+"Et sa complainte faisait ainsi.."
+78 "ni	rono	na=	buna	mo=	roro,	galiau	gina	leo	wia	(x2)
+NO GLOSSING
+NO TRANSLATION
+79 I	waroro	nana	mule	varea	nana	mate	sarea	lao.	(x2)"
+NO GLOSSING
+NO TRANSLATION
+80 Bastau	irarua=	sugo	ge=	tori-a,	irarua=	vetar	"Kare	mule	tea!"
+ensuite	S3du	descendre	AorPl	tenir-O3sg	S3pl	dire	Prohib	rentrer	Neg2
+"Alors elles le suivirent, le prirent par le bras, lui dirent "ne t’en vas pas !""
+81 I=ti=	vet	war	"nau=	mo=	ta=	veti	min-kamurua,	
+S3sg	Aor3sg	dire	Compl	S1sg	Rel	Pft	dire	Dest-Obl2du
+“Il dit “moi je vous avais prévenues”
+82 kamurua=	ti=	ron̄o	tea,	nau=	ni=	mule	n̄a	talwura."
+S2pl	Neg1	entendre	Neg2	S1sg	Irr	rentrer	PEN	à.nouveau
+«Vous n’avez pas écouté.  Je m’en vais, là."
+83 Bastau,	ti=	vetar	"nau=	ni=	tan̄tan̄i	sugo	laka,	sugo	rowo	lua	le=	tasi."
+ensuite	Aor3sg	dire	S1sg	Irr	chanter.complainte	descendre	Deix	courir	sortir	Loc	mer
+"Alors, il dit "Je vais chanter ma complainte en descendant, en débouchant vers la mer."
+84 Ka	ti	tan̄tan̄i	talwura.
+Coord	chanter.complainte	à.nouveau
+"Il chanta à nouveau."
+85 "ni	rono	na=	buna	mo=	roro,	galiau	gina	leo	wia	(x2)	
+NO GLOSSING
+NO TRANSLATION
+86 I	waroro	nana	mule	varea	nana	mate	sarea	lao.	(x2)"
+NO GLOSSING
+NO TRANSLATION
+
+87 Sugo	dina	le=	tasi,	ete	sugo	le=	lol	tasi,	
+descendre	atteindre	Loc	mer	voir	descendre	Loc	intérieur	mer
+"Il descendit vers la mer, regarda dans l’eau"
+88 ti=	saqe	tea	na=	vatu	waroro.
+Neg1	trouver	Neg2	ArtAc	pierre	turbo.vert
+"Mais il ne trouva pas le rocher du turbo vert."
+89 Bastau	ia=	ti=	wasu	na=	male	roi-na,	sogogi	min	tuara,	ti=	sogogi	min	tuara,	ia=	ti=	vet	mini-ra	wa	:
+ensuite S3sg	Aor3sg	arracher	ArtAc	pagne	??-P3sg	offrir	Dest	autre	Aor3sg	offrir	Dest	autre
+Ensuite, il arrache son pagne, le divise en deux et en offre la moitié à chacune
+90 "Nau=	wa=	sugo,	kamurua=	toga,	kamurua=	dodomsaqe	waroro,	kamu=	ni=	ete	na=	nago-ku	le=	mal	roi-ku	kea.
+S1sg	Cadr	descendre	S2du	rester	S2du	se.souvenir	turbo.vert	S2pl	Irr	voir	ArtAc	visage-P1sg	Loc	pagne	??-P1sg	Dem
+" Lorsque je descendrai (dans la mer), vous deux vous restez, vous vous souviendrez de Turbo vert, vous verrez mon visage dans mon pagne»
+91 Ka	ti	wutuagi	sugo	ti=	sede	lol	tasi.
+Coord	sauter	descendre	Aor3sg	entrer	intérieur	mer
+“Et ensuite il sauta dans l’eau.”
+92 Totoga	sumai	i=	ti=	waroro	wurwuri,	kati	baso.
+RedDur.rester	venir	S3sg	Aor3sg	turbo.vert	complètement	Coord	finir
+“Il y resta et Red.vint entièrement turbo vert. Et ce fut/c’est fini.”
+
+-------------------------------------------
+Vevsale min na= kad	 (vevLL, vevRB) Lala Lui, Rincilla Bani.
+
+93 Albertin,	nik=	gilea	ve.vevsale	gina	kad	kea	?
+Albertin	S2sg	savoir	Red.jouer	InsTr	carte	Dem
+"Albertine, tu sais jouer à ce jeu de cartes ?"
+94 Ti-qa!
+Neg-PEN
+"Pas encore	!"
+95 Ti-qa?	Irana=	kad	kea-la…	irana=	famili	lavarua
+neg-PEN	ArtPl	carte	Dem-Anaph	ArtPl	famille	sept
+"Pas encore ? Ces cartes… il y a 7 familles"
+96 A=	garivi,	ia	Bua	tatua,	bua	tain̄wa,	tata,	veve,	n̄wer	tatua, n̄wera	tain̄wa.
+Art	rat	I3sg	grand-parent	homme	grand-parent	femme	papa	maman	enfant	garçon enfant	fille
+"Les rats, il y a le grand-père, la grand-mère, le papa, la maman, le petit garçon, la petite fille."
+97 Bastau,	rabit	doqala,	ira=	lavatea	wurwuri	kea.
+après	lapin	ainsi	I3pl	six	en	tout	dem
+"Ensuite, les lapins c’est pareil, ils sont six au total"
+98 Busi	doqala,	masi	doqala,	wiriu	doqala,	siviru	doqala,	n̄wadu	doqala.	
+chat	ainsi	poisson	ainsi	chien	ainsi	perroquet	ainsi	??	ainsi
+"Les chats, c'est pareil, les poissons c'est pareil, les chiens c'est pareil, les perroquets c'est pareil, les n̄wadu c'est pareil."
+99 n̄wadu,	nik=	ete	gilagi	mo=	i=	mo=	menas,
+S2sg	voir	savoir	S3sg	gros
+le n̄wadu tu le reconnais parce qu’il est gros.
+100 i=	mwere	garivi	va	kati	i=	mo=	…..	kea	mo=	menas.
+S3sg	être.comme	rat	PEN	Coord	S3sg	Rel	Dem	Rel	gros
+"Il est comme le rat, mais … il est plus gros"
+101 Bastau,	wiriu	niko=	ete	gilagi	mo=	n̄were	suri-ra	mo=	toga	le=	totogalena	n̄a.	
+ensuite	chien	S2sg	voir	connaître	Rel	être.comme	os-P3pl Rel	rester	Loc	photo-O3sg	PEN
+"Ensuite, les chiens tu les reconnais, parce qu'il y a leurs os sur l'image." 
+102 Bastau	masi	nik=	ete	gilagi,	busi	nik=	ete	gilagi,	
+ensuite	poisson	S2sg	voir	connaître	chat	S2sg	voir	connaître
+"Ensuite, le poisson tu le reconnais, le chat tu le reconnais."
+103 rabit,	nik=	ete	na=	qoro-na	mo=	menmenas,	babarau.
+lapin	S2sg	voir	ArtAc	oreille-P3sg	Rel	Red.gros	Red.long
+"Le lapin, tu vois que ses oreilles sont grandes, longues."
+104 Bastau,	garivi,	nik=	ete	gilagi	na=	golo-na	mo=	ala.	
+ensuite	rat	S2sg	voir	connaître	ArtAc	queue-P3sg	Rel	ExistNeg
+"Ensuite, le rat, tu le reconnais, car il a une queue."
+105 Bastau	gida=	wa=	vevsale,	gida=	to	sugo	dalvita.
+ensuite	S1plincl	Cadr	jouer	S1plincl	rester	descendre	autour.
+“Ensuite, quand nous jouons, nous nous asseyons en rond.”
+106 Gida	i-vati.	Baso	nau=	ni=…
+I1plincl	Num-quatre	finir	S1sg	Irr
+"Nous sommes quatre. Alors je vais..."
+107 n̄were	nau	kea-la	totqatug	na=	vevsale	kea-la.
+être.comme	I1sg	Dem-Anaph	commencer	ArtAc	jeu	Dem-Anaph
+“C’est comme… c’est moi qui commence ce jeu.”
+108 Bastau	nau=	ni=	asi-ra	na=	kad	min…
+ensuite	S1sg	Irr	frapper-O3pl	ArtAc	carte	Dem
+"Ensuite je vais distribuer les cartes à ..."
+109 n̄were	nau=	war	lai	min	Albertin,	no-na	i-lavatea,	
+être.comme	S1sg	vouloir	procurer	Dest	NP	CP-P3sg	Num-six
+"C’est comme.. je veux donner à Albertine, je lui en donne six"
+110 Agnes	no-na	lavatea,	i=	raiva	Lala	no-na	lavatea,	no-k	lavatea.
+NP	CP-P3sg	six	ArtP	belle.sœur	NP	CP-P3sg	six	CP-P1sg	six
+"Il y en a six pour Agnès, six pour Belle-Soeur Lala, et six pour moi."
+111 Bastau	udu-na	nau=	ni=	tau	sugo	le=	tina-na,	bastau	nau=	wa=	baso
+ensuite	fin-P3sg	S1sg	Irr	poster	descendre	Loc	milieu-P3sg	ensuite	S1sg	Cadr	finir
+"Ensuite, le reste (du paquet), je le pose au milieu, et quand j’ai fini..."
+112 nau	kea	mo=	lai		ni=	totqatug,	
+I1sg	Dem	Rel	procurer	Irr	commencer
+"Moi qui ai pris, je vais commencer"
+113 nau=	ni=	ete	na=	no-ku	kad,	
+S1sg	Irr	voir	ArtAc	CP-P1sg	carte 
+"Je vais regarder mes cartes."
+114 masi	si	rabit	ia	wa=	mawutina,	nau=	ni=	usi…..	
+poisson	Disj	lapin	I3sg	Cadr	nombreux	S1sg	Irr	demander
+«Si j’ai beaucoup de poissons ou de lapins, je vais demander..."
+115 n̄were	nau=	ni	usi	Agnes	vetar	«	nau=	taran	bua	tatua	rabit	».	
+être.comme	S1sg	Irr	interroger	NP	dire	S1sg	aimer	grand.parent	homme	lapin
+"C’est comme.. Je vais demander à Agnès "Je voudrais le grand-père lapin""
+116 No-n	wa=	tigala,	nau=	ni=	lai…	nau=	ni=	vile.	
+CP-P3sg	Cadr	ExistNeg	S1sg	Irr	procurer	S1sg	Irr	ramasser
+"Si elle n’en a pas, je vais prendre… je vais piocher."
+117 Baso,	ka	ne	Albertine.	Albertine	ni	usi	vetar….	wari	gida=	to	dalvita,
+finir	Coord	CP	NP	NP	Irr	demander	dire	Compl	S1plincl	rester	autour
+"Ensuite, c’est le tour d’Albertine. Albertine va demander… Si on est assis tous en rond."
+118 i=	ni=	kare	wari	usi	Agnes,	gida=	ti=	usi	n̄were	dalvita	kea,	
+S3sg	Irr	Prohib	vouloir	demander	NP	S1plincl	Irr	interroger	être.comme	autour	Dem-Anaph
+"Elle ne doit pas demander Agnès, nous devons demander tout autour."
+119 i=	ni=	usi-nau	si	usi	raiva	Lala.	
+S3sg	Irr	demander-O1sg	Disj	demander	belle.sœur	NP
+"Elle va me demander, ou demander à Lala"
+120 Usi	war	usi	din̄a	n̄a.
+demander	vouloir	demander	atteindre	PEN
+"On va demander, demander, jusqu’à obtenir (quelque chose)"
+121 Bastau	n̄were	gida=	wa=	vavano,	n̄were	kad	kea-la	le=	tina-na	wa=	baso,
+ensuite	être.comme	S1plincl	Cadr	Red.aller	être.comme	carte	Dem-Anaph	Loc	milieu-P3sg	Cadr	finir
+"Ensuite, c’est comme… si on continue, quand ces cartes au milieu sont terminées"
+122 kakaka	gida=	toga	be	ete	le=	no-da	n̄a.
+maintenant	S1plincl	rester	Purp	voir	Loc	CP-P1plincl	PEN
+"Maintenant, on se limite à regarder parmi nos cartes."
+123 Gida=ti…	Nau=	war	usi	Raiva	Rin	i=	ni=	vetar	no-na	ala,	
+S1plincl	Aorpl	S1sg	vouloir	demander	belle.sœur	NP	S3sg	Irr	dire	CP-P3sg	ExistNeg
+"Nous.. Je veux demander à Belle-Soeur Rin, elle va dire qu’elle en a un"
+124 i=	ni=	wa=	lai	min-iau,	no-ku	famili	ga-na	rabit	wa=	lavatea	wurwuri,	
+S3sg	Irr	Cadr	procurer	Dest-Obl1sg	CP-P1sg	famille	CP-P3sg	lapin	Cadr	six	completement	
+"Quand elle me le donne, quand ma famille de lapins va avoir six (lapins) au total."
+125 nau=	ni=	wosagi	su	le=	tano.	
+S1sg	Irr	jeter	descendre	Loc	sol
+"Je la pose sur le sol."
+126 Kea-la	nau=	win	kea-la,	n̄were	no-k	kad	turmua…	toga.
+Dem-Anaph	S1sg	gagner	Dem-Anaph	être.comme	CP-P1sg	carte	premier	rester
+"Celle-là, je la gagne, c’est mes premières cartes, elles restent là."
+127 Bastau	n̄were,	nau=	ni=	wa=	….raiva	Rin	wa=	are	wurwuri	na=	no-ku	busi,	
+ensuite	être.comme	S1sg	Irr	Cad	belle.sœur NP	Cad	appeler	complètement	ArtAc	CP-P1sg	chat
+"Ensuite, c’est comme… si je… si Belle-Soeur Rin appelle tous mes chats..."
+128 ia	win,	i=	ni=	lai	tau	sugo	le=	tano.	
+I3sg	gagner	S3sg	Irr	procurer	poser	descendre	Loc	sol
+"C’est elle qui gagne, elle la prend et la pose sur le sol."
+129 Bastau	n̄were	nau=	wa…	no-ku	wa=..	nau=	winim	na=	kad	tolu	kea-la,
+Coord	être.comme	S1sg	Cadr	CP-P1sg	Cadr	S1sg	gagner-Tr	ArtAc	carte	trois	Dem-Anaph
+"Ensuite, quand je.. quand mes… je gagne ces trois cartes là."
+130 Kakaka	nau=	winim	wurwuri-ra	kea	mo=	toga	dalvita.
+maintenant	S1sg	vaincre	compléter-O3pl	Dem	Rel	rester	être autour
+"Maintenant, je bats/ vaincs tous ceux qui sont assis en cercle."
+131 Bastau,	ira	kea	mo=	toga	dalvita	n̄were	no-ra	wa=	tewtewa	kea-la,
+Ensuite	I3pl	Dem	Rel	rester	autour	être.comme	CP-P3pl	Cadr	RedDistrib.un	Dem-Anaph
+“Ensuite, ceux qui se trouvent tout autour, genre si ils en ont une chacun.”
+132 ka	ira=	ti-n̄a	win	tea.	
+Coord	S3pl	Neg1-PEN	gagner	Neg2
+“Alors ils ne gagnent pas.”
+133 vevsale	be	kad,	i=	u=	baso	laka-ga	kea.
+jeu	Purp	carte	S3sg	PftRes	finir	Deix-Cataph	Dem
+“ Ce jeu de carte, il se termine comme ça.”
+
+-------------------------------------------
+Vevsale irua	(veiBT, veiLL)
+Deux jeux.
+
+Belinda Tamle, Lala Lui,14/04/2007
+
+134 Vevsale	tewa	doklaka.	Sasa-na	«Waswasu	viso».	
+jeu	un	ainsi	nom-P3sg	Red.tirer	NEsp	
+"Un des jeux se passe comme suit. Son nom est "Arrache le nafiso"."
+135 Niko=	ni=	tau	na=	bisu-n̄a	turtur	varsalai,	bastau	ko=	waswas	sae	ni=sugo,	sae	ni=	sugo.
+S2sg	Irr	poser ArtAc	doigt-P2sg	Red.debout	aligné	ensuite	S2sg	tirer	monter	Irr descendre	monter	Irr	descendre
+"Tu vas mettre tes index à la verticale, alignés, ensuite tu les agites de haut en bas, de haut en bas."
+136 A=	ulosi-na	tigala.	
+Art	fin-P3sg	ExistNeg	
+" Il n'y a pas de fin (à ce jeu)."	
+137 A=	ga-na	asi	van	doklaka.
+Art	CP-P3sg chanson	aller	ainsi
+"Sa chanson fait comme ça:"
+138 «Wasu,	wasuwasu	viso,	visoa	bea,	visoa	ulu,	[ruwetewete],	saroa	na=	bulan̄a	toa	go	reve le= was.	(x2).	
+NO GLOSSING
+NO TRANSLATION
+139 Baso	va. »
+finir	PEN
+« C’est fini. »
+140 Tuara	vevsale	talwura	«	salsali	malobe».	
+autre	jeu	à.nouveau		Red.secouer	??
+"Le jeu suivant est «salsali malobe»." 
+141 «Salsali	malobe»,	i=	u=	n̄were	«waswasu	viso»	va,	
+Red.secouer		??	S3sg	Pft	être.comme	Red.arracher	NEsp	PEN
+"«Salsali malobe», c'est juste comme «Waswasu viso»"
+142 niko=toga	sugo	le=…	toga	sugo	varvarsalai,	
+S2sg	rester	descendre	Loc	rester	descendre	aligner	
+"Tu t'assieds à…tu t'assieds en rang, "
+143 tau	na=	bisu-n̄a	tau	 varvar.salai,	bastau	tewa	ni=	sali-a.	,	
+poser	ArtAc	doigt-P2sg	poser	aligner	ensuite	un	Irr	secouer-O3sg	
+"Tu alignes tes index. Ensuite l'un va les agiter."
+144 Salia	va.vano	baso,	niko	kea	 ira=	mo=	sal	na=	bisu-n̄a,	niko=ni= tor	na=	qoro	valu-n̄a	kea 	i=	mo=	toga	virtagi-ko.
+secouer	Red.aller	finir	I2sg	Dem	S3pl	Rel	secouer	ArtAc	doigt-P2sg	S2sg	tenir	ArtAc	oreille	ami-P2sg	Dem	S3sg	Rel	rester	côté-O2sg	
+""Il agite, il agite, ensuite, toi, dont on secouait les doigts, tu saisis l'oreille de celui de tes amis qui se tient à côté de toi.""
+145 Bastau	baso	wa=	sali	wurwuri	baso,	
+ensuite	finir	Cadr	secouer	complètement	finir	
+"Ensuite, quand on a terminé de secouer »
+146 niko=	ron̄o	tewa	vetar,	qatan̄ai=	bule…	
+S2sg	entendre	un	Quot	tronc-P3sg	S3sg	CP	dire	
+« Tu entends que l’un d’entre eux dit « le ??? de... »	
+147 Lala	wa	=	ala	le=	sekel	kea-la,	niko=	ni=	wa=,	Lala	ni=	wa=,	gida=	wurwuri	ni=	wa	«Mmmmm»
+Lala	Cadr Anaph		Loc	circle	Dem-Anaph	S2sg	Irr	dire	NP	Irr	Quot	S1plincl	complètement	Irr	Quot	Onomat	
+"S’il y a Lala dans ce cercle, tu vas dire, Lala va dire, on va tous dire  «Mmmmm».""
+148 Bastau	wa=	baso,	vavano wurwuri,	wa=	te=	baso,
+ensuite	quand	finir	Red.aller complètement	quand	Pft	fini	
+"Ensuite, quand c’est fini, quand on est tous passés"
+149 gida=	ni=	vetar	«sevsev	qoroi,sevsev	qoroi».	
+S1plincl	Irr	dire	??	oreille	??	oreille
+"on dit tous "sevsev qoroi, sevsev qoroi"
+150 Gida=	wurwuri	robata	na=	qoro-da.	Asi-na	 doklaka:
+I1plincl	complètement	frapper.du.plat.de.la.main	ArtAc	oreille-P1plexcl	chanson-P3sg ainsi	
+"On se frappe tous les oreilles. Sa chanson (=celle du jeu) est ainsi:"
+151 «Sali	salsal	malobe	sei,	malobe	ratasidu	wara,	Rosale	Bulo bulo	bulo	tankawo	tankawo,	Ngworongu	le=	lele.	(x2). »
+NO GLOSSING
+NO TRANSLATION
+152 Baso	va!
+finir	PEN
+“C’est fini”
+-------------------------------------------
+Dagasnia ira tueta mo toga ge tai na bula-ra uma (cahier 2, pp. 76-90)
+Julia Weris,	
+(umaJW)
+
+153 Kakaka,	nau=ni=watwata	suri	na=	dagasnia	ira	tueta	mo=toga	ge=	tai	na=	bula-ra	uma.
+maintenant	S1sg	Irr	discuter	suivre	ArtAc	comment	I3pl	avant	Rel	rester	Aorpl	couper	ArtAc	CP-P3pl	jardin
+"Maintenant, je vais raconter comment les gens d'avant faisaient leur jardin."
+154 Qariki,	kami=	tai	na=	uma	ti=	doqala,	kati	ti-gai	n̄were-a	tea	tueta	ira=	te=	tai-a.	
+aujourd'hui	S1plex	couper	ArtAc	jardin	Neg1	ainsi	Coord	Neg1-PEN	être.comme-O3pl	Neg2	avant	S3pl	Pft	couper-O3sg
+"Aujourd'hui, nous faisons nos jardin comme ça, mais pas comme ce qu'ils faisaient avant."
+155 Tueta	ira=	u=	rasu,	ge=	ete	na=	uma.
+avant	S3pl	PftRes	marcher	Aorpl	voir	ArtAc	jardin
+"Autrefois, ils se promenaient, et repéraient un emplacement."
+156 Turmua,	bastau,	ge=	vei=	tai-a.
+être.premier	ensuite, AorPl	Evit	couper-O3sg
+"Ensuite avant de le couper, "
+157 Etea	n̄were	u=	saroia,	saroi	na=	uma,	
+voir-O3sg	être.comme	PftRes	observer-O3sg	observer	ArtAc	jardin	
+"Ils le regardaient, l'observaient même, observaient le jardin."
+158 bastau,	ge=	vei=	sumai,	ka	ti=	toqatug	be	tai-a.
+ensuite	Aorpl	Evit	venir	Coord	Aor	commencer	Purp	commencer-O3sg
+"Ensuite, ils venaient juste et commençaient à le couper."
+159 Ira=	u=	tai-a	na=	beara	turmua,	vavano	ti=	dalvita.	
+S3pl	pftrest	couper-O3sg	ArtAc	bordure	être.premier	RedDur.aller	Aor	faire.le.tour
+"Ils s'occupaient d'abord de la bordure, coupaient tout autour."
+160 Bastau,	mule	sugo	le=	varea;	taval	marani,	sage,	toqatug	tai-a.	
+ensuite	rentrer	descendre	Loc	village	autre	matin	monter	commencer	couper-O3sg
+"Ensuite, ils rentraient au village; le lendemain, ils montaient et commençaient à le couper."
+161 tai	na=	uma	kea-la. Tai-a,	le=	lolo-na	vavano	ti=	baso.
+couper	ArtAc	jardin	Dem-Anaph	couper-O3sg	Loc	intérieur-P3sg	RedDur.aller	Aor	finir
+"Ils défrichaient ce jardin. Ils le défrichaient, ils finissaient l'intérieur."
+162 Baso,	ira=	ge=	mule	sugo	le=	varea,	toga.	
+finir	S3pl	Aorpl	rentrer	descendre	Loc	village rester
+"Après, ils rentraient au village se reposer."
+163 Taval	marani	ira=	sage,	ge=	tai	na=	geiga.
+autre	matin	S3pl	monter	Aorpl	couper	ArtAc	arbre
+"Le lendemain matin, ils remontaient, et coupaient les arbres."
+164 Tai	na=	geiga	sugo,	ti=	baso,	lidu	wurwuria	na=	geiga	ti=	baso,	kae	mule	sugo	toga.
+couper	ArtAc	arbre	descendre	Aor	finir	débiter	compléter	ArtAc	arbre	Aor	finir	Coord.Aorpl	rentrer	descendre	rester
+"Ils abattaient les arbres, ils les débitaient complètement, puis rentraient se reposer."
+165 Toga	be	i=	ni=	koru,	bastau	ira=	nevi	sage	ni=	sulua.
+rester	Purp	S3sg	Irr	sec	ensuite	S3pl	evit??	monter	Irr	brûler
+"Ils attendaient que ce soit sec, avant de monter brûler tout ça."
+166 Ira=	toga	be	lebata	qon̄i,	ira=ge=	toga	be	wik	i-rua,
+S3pl	rester	Purp	quelque	jour	S3pl	Aorpl	rester	Purp	semaine	Num-deux
+"Ils attendaient quelques jours, ils attendaient deux semaines
+167 rua	lai,	be	ira=	ni=	sage	ni=	sulu	na=	bula-ra	uma	kea-la.
+deux	??	Purp	S3pl	Irr	monter	Irr	bruler	ArtAc	CP-P3pl	jardin	Dem-Anaph
+"??, pour qu'ils montent brûler leur jardin."
+168 Ira=	ge=	sulu-a,	ira=	toga	wik	i-rua	baso,	ira=	ge=	sulu-a	na=	bula-ra	uma.	
+S3pl	Aorpl	brûler-O3sg	S3sg	rester	semaine	Num-deux	finir	S3pl	Aorpl	brûler ArtAc	CP-P3pl	jardin
+"Ils le brûlaient, ils attendaient deux semaines et puis ils le brûlaient."
+169 Sulu-a	ti=	baso,	ira=	ge=	mule	sugo	toga	le=	isara	talwura.	
+brûler-O3sg	Aor3sg	finir	S3pl	Aorpl	rentrer	descendre	rester	Loc	chez.soi-P3pl	à.nouveau
+"Ils le brûlaient, et ensuite, ils rentraient se reposer chez eux de nouveau."
+170 Baso,	ira=	ge=	sage	talwura.
+ensuite	S3pl	Aorpl	monter	à.nouveau
+"Ensuite ils montaient à nouveau"
+171 taval	marani	ira=	ge=	vilea,	vile	na=	bula-ra	uma.	
+autre	matin	S3pl	Aorpl	ramasser-O3sg	ramasser ArtAc	CP-P3pl	jardin
+"L lendemain, ils ramassaient tout ça, ils ramassaient ce qui restait dans le jardin."
+172 Vile	wurwuri	na=	bula-ra	uma	ka-ti	baso,	kae	vile	van	le=	qatai	geiga,	be	ira=	ni=	sulu-a.
+ramasser	compléter	ArtAc	CP-P3pl	jardin	Coord	finir	Coord.Aorpl	ramasser	aller	Loc	souche	arbre	Purp	S3pl	Irr	brûler-O3sg
+"Ils ramassaient tous les débris du jardin, puis ils allaient vers les souches des arbres, pour les brûler."
+173 Dan̄dan̄waua	vile	na=	oro,	gana	siri-a,	le=	lolo-na,	
+RedDur.faire.correctement	ramasser	ArtAc	débris	???	balayer-O3sg	Loc	intérieur-O3sg
+"Ils ramassaient bien tous les débris, ?? le balayaient àl'intérieur."
+174 baso,	ka	ge=	toga	manoga	toga	be	ira=ni=	sae	ni=	lawo-a.
+finir	Coord	Aorpl	rester	prêt	Purp	S3pl	Irr	monter	Irr	labourer-O3sg
+"Ensuite, le jardin était prêt pour qu'ils viennent le labourer."
+175 nau=	ni=	veti	vano	na=	baso	doklaka.	
+S1sg	Irr	dire	aller	finir	ainsi
+"Je vais finir de raconter comme ça."
+176 kea-ga	nau=	ni=	lai	na=	asi-na.	Asi	uma	kea-la.	
+Dem-Cataph	S1sg	Irr	procurer	ArtAc	chanson-P3sg	chanson	jardin	Dem-Prox
+"Voilà que je vais chanter la sa chanson. La chanson du jardin est comme ça:"
+177 "Saroi	na=	uma,	toto	beara.	Uma	uma	wono,	tai	tai	sulua,	tason̄we	na=	aso,	gorasi na=	damu,	Uma	ti=	baso	vagatewa.	Lawo,	lawo,	aloa	roroqai,	qon̄	ta	gogoi.	Qatioro vaso	tavig,	masitagalata,	uma	ti=	baso	vagatewa.".
+NO GLOSSING
+NO TRANSLATION
+178 irana=	tatua,	ni=	sage	ni=	tai	na=	aso,	be	lawo,	
+ArtPl	homme	Irr	monter	Irr	couper	ArtAc	bois	Purp	labourer
+"Les hommes vont monter couper des bouts de bois pour labourer."
+179 irana=	tain̄wa	sura	sae	be	ira=	ni=	teve-ra	na=	damu	
+ArtPl	femme	suivre	monter	Purp	S3pl	Irr	couper-O3pl	ArtAc	igname 
+"Les femmes suivent pour couper les ignames,
+180 be	ira=	ni=	da	ni=	vaso	na=	bula-ra	uma.
+purp 	S3pl	Irr	faire	Irr	planter	ArtAc	CP-P3pl	jardin
+"pour planter leur jardin."
+181 Irana=	tatua	tai	na=	geiga,	[wutu	na]	toqatug	be	wutu	na=	uma.
+ArtPl	homme	couper	ArtAc	arbre	casser.la.terre	ArtAc	commencer	Purp	casser.la.terre	ArtAc	jardin
+"Les hommes coupent des morceaux de boix, et commencent à casser la terre du jardin.
+182 Toqatug	le=	kere	uma,	wutwutu	ti=	sage,	sage	din̄a	le=	qati	uma.
+commencer	Loc	fin	jardin	Red.casser.la.terre	Aor	monter	monter	atteindre	Loc	tête?	jardin
+"Ils commencent par le bout/la fin du jardin, et cassent la terre en remontant vers le début du jardin."
+183 Bastau	irana=	tain̄wa	,	[lai	na],	ira=	sage,	[lai	na=]	vile	na=	bula-ra	damu.	
+ensuite	ArtPl	femme	procurer	ArtAc	S3pl	monter	procurer	ArtAc	ramasser	ArtAc	CP-P3pl	igname
+"Ensuite, les femmes, elles montent, ramassent leur ignames."	
+184 Vano	le=	beara	bula-ra	uma,	kae	tai	na=	do	karisa,	mina	do	sesebu.	
+aller	Loc	bordure	CP-P3pl	jardin	Coord.Aorpl	couper	ArtAc	feuille garia	avec 	ArtObl	feuille Nesp
+"Elle s'approchent de la bordure du jardin, et elles coupent des feuilles de garia et de sesebu.
+185 Kae	tau	na=	dau	sugo,	teve	na=	bula-ra	damu,	tau	na=	qatu-na	dalvita.	
+Coord.Aor	poser	ArtAc	feuille	descendre	couper	ArtAc	CP-P3pl	igname	poser	ArtAc	tête-P3sg	faire.le.tour
+"Ensuite elles posent les feuilles par terre, coupent au couteau leurs ignames, et en posent les têtes tout autour."
+186 Baso	kae	teve	wokala	na=	damu.	
+finir	Coord.Aorpl	couper	fendre	ArtAc	igname
+"Ensuite, elles fendent leur ignames".
+187 Bastau	kae	siri,	siri	na=	damu.	
+ensuite	Coord.Aorpl	peler	peler ArtAc	igname
+"Ensuite, elles pèlent les ignames."
+188 Teteragi	na=	no-ra	dau,	be	siri	na=	loko,	na=	loko	damu.
+étaler	ArtAc	CP-P3pl	feuille	Purp	peler	ArtAc	laplap	ArtAc	laplap	igname
+"Elles étalent leur feuilles, pour peler leur laplap d'ignames."
+189 Tau	sugo	le=	dau	kea-la.
+poser	descendre	Loc	feuille	Dem-Anaph
+"Elles le déposent sur les feuilles."
+190 Tau	sugo	le=	dau,	bastau,	ira=	u=	sisiri,	siri	wurwur	na=	damu	baso,	
+poser	descendre	Loc	feuille	ensuite	S3pl	PftRes	RedDur.peler	peler	compléter ArtAc igname finir
+"Elles le déposent sur les feuilles, elles râpent, râpent, râpent complètement leurs ignames."
+191 kae	luqe	na=	no-ra	loko,	lebata	ira=	u=	…	kea	mo=	tigai	wia	tea,	
+Coord.Aorpl	ArtAc	CP-P3pl	laplap	quelque	S3pl	PftRes	Dem	Rel	Neg1-PEN	bon	Neg2
+"Ensuite, elles couvrent leur laplap. Les quelques (ignames) qui n'étaient pas bonnes,
+192 be	ira=	ni=	siri,	ira=u=	teve	na=	qeresina,
+Purp	S3pl	Irr	peler	S3pl	PftRes	couper	ArtAc	extrémité-P3sg
+"pour être pelés, elles en coupent l'extrémité."
+193 bastau	tai	na=	no-ra	wariri,	wariri	na=	damu	kea-la.	
+ensuite 	couper	ArtAc	CP-P3pl	??	enfoncer.en.tournant	ArtAc	ignames	Dem-Anaph
+"Ensuite, elles coupent leur..??, puis enfoncent ces ignames dans la terre en un mouvement tournant."
+194 Wariri,	tau	na=	loko	sugo	le=	dau,	van	baso,
+enfoncer.en.tournant	poser	ArtAc	laplap	descendre	Loc	feuille	aller	finir
+"Elles les enfoncent en tournant, posent le laplap sur les feuilles, et ensuite…"
+195 ira=	ge=	lai	na=	damu	kea-la	mo=	te=	siri-ra,	
+S3pl	Aorpl	procurer	ArtAc	igname	Dem-Anaph	Rel	Pft	peler-O3pl
+"Elles apportent les ignames qu’elles ont rapées."
+196 baso,	kae	taitai	ririki	gini-ra	sugo	le=	lolo	no-ra	damu,	
+finir	Coord.Aorpl	RedMultipl.couper	RedMultipl.petit	Instr-Obl3pl	descendre	Loc	intérieur	CP-P3pl	igname
+197 ira=	mo=	tau	na=	qatu-na	ti=	dalvita,	taitai	ririki	gini-a	ti=	baso,
+S3pl	Rel	poser	ArtAc	tête-P3pl	Aor	faire.le.tour	RedMultipl.couper	RedMultipl.petit	Instr-Obl3sg	Aor	finir
+"Ensuite elles coupent en tous petits morceaux l'intérieur des ignames dont elles avaient disposés la tête tout autour, elles les coupent en tous petits morceaux."
+198 irana=	tatua	ge=	lawo	wurwuri	na=	uma	ti=	baso,	baso	va,	
+ArtPl	homme	Aor	labourer	compléter	art.ac	jardin	Aor	finir	finir	PEN
+"Les hommes labourent complètement le jardin, jusqu'à la fin."
+199 ira=	ge=,	irana=	tain̄wa	vile	na=	damu,	sugo	wosagi	na=	vinu	le=	lolo	uma.	
+S3pl	Aorpl	ArtPl	femme	ramasser	ArtAc	ignames	descendre	jeter	ArtAc	peau	Loc	intérieur	jardin
+"Elles…, les femmes ramassent les ignames, descendent jeter la peau à l’intérieur du jardin "
+200 wosagia	wurwuria	ti=	baso,	kae	vasoa.	
+jeter-O3sg	compléter-O3sg	Aor	fini	Coord.Aorpl	planter-O3sg
+"Elles les jettent toutes, et ensuite elles les plantent."
+201 irana=	tain̄wa	tai	na=	no-ra	geiga,	be	ira=	ni=	sugo	ni=	vaso	na=	damu	gini-a.
+ArtPl	femme	couper	ArtAc	CP-P3pl	arbre	Purp	S3pl	Irr	descendre	Irr	enterrer	ArtAc	igname	Instr-Obl3pl
+"Les femmes se coupent un morceau de bois, pour descendre et planter les ignames avec."
+202 Tavigi	na=	damu	sugo	le=	lolo	tano.	
+enterrer	ArtAc	igname	descendre	Loc	intérieur	sol
+"Elles enterrent les ignames dans le sol."
+203 Wa	tigai	ia	va	kia-ga	na=	mo=	tarana	wari	nau=	ni=	veti,	be	dagasnia	le=	masqala	kea-la	mo=	tai	da	na=	uma.
+Interj	I3sg	PEN	Dem-Prox	S1sg	Rel	aimer	Compl	S1sg	Irr	dire	Purp	comment	Loc	endroit	Dem-Anaph	Rel	couper	faire	ArtAc	jardin	finir	PE
+"Eh bien, voilà ce que je voulais raconter, comment on faisait le jardin à cette époque-là."
+204 Baso	va!.
+finir	PEN
+"C’est fini !"
+
+-------------------------------------------
+Qon̄	tewa	ne	Belinda
+(qtBBT)
+Belinda Tamle	(08-08-2008)
+
+Remarques générales:
+utilisation généralisée (à toutes les personnes) de la forme Aoriste ti=, normalement utilisée uniquement à la troisième personne du singulier uniquement.
+
+205 Qariki	le=	naba	8	august,	nau=	mamat	le=	roqon̄	
+aujourd'hui	Loc	numéro	8	août	S1sg	se.réveiller	Loc	matin	
+"Aujourd'hui, le 8 août, je me suis réveillée le matin"
+206 ka	ti=	lua	dan	Patricia	mata-n	Agnes,	
+Coord	Aor	sortir	Abl	NP	avec-P3sg	NP	
+" et puis je suis sortie en laissant Patricia et Agnès"
+207 su(go)	din̄	le=	vale,
+descendre	atteindre	Loc	maison
+"je suis descendue à la maison,"
+208 tau	nok	veve	ti=	vetara	«	Belinda,	kuki	».	
+Coord	CP-P1sg	maman	Aor	dire	NP	cuisiner
+"et puis ma maman m'a dit "Belinda, tu cuisines.""
+209 Nau=	ti=	lai	na=	qeta	ti=	sibe,	ka	ti=	tau	le=	avi,	ka	ti=	kirkiro.
+S1sg	Aor	procurer	ArtAc	taro	Aor	éplucher	Coord	Aor	Loc	feu	Coord	Aor	RedMoy.laver
+"J'ai apporté les taros, je les ai épluchés, je les ai mis à cuire sur le feu, et puis je suis allée me laver"
+210 Kirkiro	ka	ti	sugo	leleasa,	qeta	ti=	manoga,	
+RedMoy.laver	Coord	Aor	descendre	RedMoy.changer	taro	Aor3sg	prêt
+"Je me suis lavée, je suis Red.scendue me changer, et les taros étaient cuits (furent prêts)."
+211 Nau=	ti=	gangani,	bastau	ka	ti=	van	le=	skul.
+S1sg	Aor	Red.ntrans.manger	Coord	Coord	Aor	aller	Loc	école
+"J'ai mangé, et puis ensuite, je suis allée à l'école."
+212 Vano	ete-ra	na=	mwera	mo=	toga	le=	skul.	
+aller, voir-O3pl	ArtAc	enfant	Rel	rester	Loc	école
+"Sur le chemin, j'ai vu les enfants à l'école (qui étaient à l'école).
+213 Kami=	ti=	skul	skul	skul	din̄	le=	half	past	nine,	bastau	nau=	vetar,	
+S1plexcl	Aor	école	école	école	atteindre	Loc	9h30	Coord	S1sg	dire
+"Nous avons travaillé (litt: école), travaillé, travaillé, jusqu'à 9h30, et puis j'ai dit:
+214 «	Ale,	gida	wurwuri	vano	le=	bei	van	kirkiro.	
+Interj	I1plincl	compléter	aller	Loc	eau	aller	RedMoy.laver
+"Allez, on va tous au tuyau pour se débarbouiller."
+215 kami=	wurwuri	sumai,	kirkiro,	bastau	kae	vano	gangani.	
+S1plexcl	compléter	aller	RedMoy.laver	ensuite	Coord.Aorpl	aller	RedDetrans.manger
+"Nous y sommes tous allés, ils se sont débarbouillés, et puis ils sont allés manger."
+216 Gangani	bastau,	vano	talwura,	skul	talwura,	skulskul	baskat	baso	kea.	
+Red.étrans.manger	ensuite	aller	à.nouveau	école	à.nouveau	école	école	Coord	finir	Dem	
+"Ils ont mangé, et puis on est retournés (à l'école), on a travaillé à nouveau, travaillé, travaillé, et puis l'école a été finie."
+217 Mary	ti=	mule	ti=	sugo,	nau	mata-ku	Lala	sae	toga	le=	val	kava.	
+NP	Aor	rentrer	Aor	descendre	I1sg	avec-P1sg	NP	monter	rester	Loc	maison	tôle
+"Marie est rentrée (vers le nord), et Lala et moi on est allées se mettre dans l'abri à toit de tôle"
+218 Totoga,	tarak	ti=	sumai,	lai	ri…	sumai,	ira=	ti=	laqlaqa	bastau,	
+RedDur.rester	4x4	Aor	venir	procurer	ArtPAc	venir	S2pl	Aor	RedDetrans.parler	ensuite
+"On est restées là, un pick-up est arrivé, il amenait les gens du…, ils se sont mis à parler."
+219 nau=	vet	min	Lala	vetar,	«	Lala,	nau	qariki,	nau=	ni=	ras	sososuna.	»
+S1sg	dire	Dest	NP	dire	NP	I1sg	aujourd'hui	S1sg	Irr	marcher	pêcher
+"J'ai dit à Lala "Lala, moi, aujourd'hui, je vais aller pêcher )""
+220 I=	ti=	vetar	«	nik=	mata-n̄	sei	?	»	
+S3sg	Aor	dire	S2sg	avec-P2sg	qui
+"Toi et qui?"
+221 Nau=	vetar	«	Nau,	i=	Rincilla,	Patricia,	Vaelet,	kami=	tau	no-mi	plan	be	kami=	ni=	ras	sosouna.	»
+S1sg	dire	I1sg	ArtP	NP	NP	NP	S1plexcl	poser	CP-P1plexcl	plan	Purp	S1plex	Irr	marcher	pêcher
+"J'ai dit: "Moi, Rincilla, Patricia et Vaelet, on a prévu d'aller pêcher."
+222 Lala	ti=	vetar	«	Kamu=	rasu	sae	le=	uta,	si	le=	aka	?	»
+NP	Aor	dire	S1plex	marcher	monter	Loc	rive	ou	Loc	pirogue
+"Lala a dit "Vous allez longer la côte à pied, ou bien pêcher en pirogue?"
+223 Nau=	vetar	«	Tigai,	kami=	ni=	van	le=	aka	kea	»
+S1sg	dire	non	S1plex	Irr=	aller	Loc	pirogue	Dem	
+"J'ai dit "Non, on y va en pirogue.""
+224 Na=ne=sugo	laksugo	kuk	led	mai
+S1sg	Aor1sg	descendre	Deix	cuisiner	plomb	aussi	
+"Je suis descendue pour fondre mes plombs"
+225 ka	nau=	mo=	usi	Nickolson	vetar	nau=	ni=	tai	led	dan	Nickolson,	Nickolson	taroa.	
+Coord	S1sg	Rel	demander	NP	dire	S1sg	Irr	couper	plomb	Abl	NP	NP	refuser
+"Parce que j’avais demandé à Nickolson de prendre du plomb qui lui appartenait, Nickolson a refusé."
+226 Nau=	ti=	mero	kati	kami=	totoga,	saqe	Cooper	mo=	sumai.	
+S1sg	Aor	se.fâcher	Coord 1splex	RedDur.rester	trouver	NP	Rel	venir
+"J'étais en colère contre lui; Et puis au bout d'un moment, j'ai vu Cooper arriver."
+227 Nau=	vetar	«	Cooper,	kami=	ni=	tai	na=	led	dan	le=	..	no-n̄	led	ka	ni=	kuki	ka	ni=	van	sosouna.
+S1sg	dire	NP	S1plex	Irr	couper	ArtAc	plomb	Abl	Loc	CP-P2sg	plomb	Coord	Irr	cuire	Coord	Irr	aller	pêcher
+"J'ai dit: "Cooper, on voudrait couper du plomb dans… de ton plomb, et puis le fondre et aller pêcher.""
+228 I=	ti=vetar	«	Weto	!	Kamu=	te=	taitai	bula-k	led,	led	kea	vavai	mo=	toga.	»
+S3sg	Aor3sg	dire	Interj	S2pl	Pft	couper	CP-P1sg	plomb	plomb	Dem	petit	Rel	rester
+"Il a dit "Eh oh! Vous avez déjà bien entamé mon plomb, ce plomb, il n'en reste qu'un petit peu!"
+229 Nau=	vetar	«	E,	nau=	wa=	reve	na=	masi	sumai,	niko=	ni=	gani.	»	
+"S1sg	dire	Interj	S1sg	Cadr	tirer	ArtAc	poisson	venir	S2sg	Irr	manger
+"J'ai dit: "Eh, si je prends un poisson, tu pourras en manger."
+230 I=	ti=	vetar	«	Ale	».	Ka	ti	lai	na=	tevtev,	ka	ti	tai	na=	led.	
+S3g	Aor	aller	Interj	Coord	Aor	procurer	ArtAc	couteau	Coord	Aor	couper	ArtAc	plomb
+"Il a dit "D'accord." Et il a apporté un couteau, et il a coupé le plomb."
+231 Tai	na=	led	bastau	nau=	ti=	vetar.	
+couper	ArtAc	plomb	Coord	S1sg	Aor3sg	dire
+"On a coupé le plomb et puis j'ai dit."
+232 «Rincilla,	kamu=	toga	laka,	nau=	sae	tai	lamoe	sumai	be	kuk	led.	»	I=	ti=	vetar	«	Ale	».	
+NP	S2pl	rester	ici	S1sg	monter	couper	bambou	venir	Purp	cuire	plomb	S3sg	Aor	dire	Interj	
+"Rincilla, vous restez là, je vais monter couper un bambou pour fondre le plomb." Elle a dit "d'accord".
+
+233 I=	ti=	toga,	Cooper	tai	na=	led	min-ira,	na=	ti=	sae	tai	lamoe	ti=	sugo.	
+S3sg	Aor	rester	NP	couper	ArtAc	plomb	Dest-Obl3pl	S1sg	Aor	montrer	couper	bambou	Aor	descendre
+"Elle est restée, Cooper leur a taillé un bout de plomb, et moi je suis montée couper un bambou, et suis Red.scendue."
+234 Cooper	ti=	kuk	na=	led.	Kuk	bastau,kami=	ge=	taitai=	riki	gini-ra	bastau.	
+NP	Aor	cuire	ArtAc	plomb	cuire	finir	S1plex	Aor	Red.rester	petit	Instr-Obl3pl	finir
+"Cooper a fondu les plombs. Ils les a fondus, puis on les a coupés en petits morceaux."
+235 Bula-ku	tolu,	bul	Vaelet	tolu,	bule	Raiva	Rin	tolu.	
+CP-P1sg	trois	CP	NP	trois	CP	NP	trois
+"Trois pour moi, trois pour Vaelet, trois pour ma belle-sœur Rin."
+236 Bastau	kami=	ti=	vano.	I=	Cooper	ti=	wa:	
+finir	S1plex	Aor	aller	ArtP	NP	Aor	quot
+"Ensuite, on est parties. Cooper a dit:"
+237 «	E	irana=	mawuti	tain̄wa	kisae	ka,	
+interj.	ArtPl	nombreux	femme	Deix	??
+"Eh, il y a plein de femmes, là-bas!"
+238 Kamu=	wa=	sae	laka	ira=	mo=	ni=	saqe-kamu	,	kamu=	ti=	reve	lai	tea	na=	masi.
+S2pl	Cadr	monter	Deix	S3pl	Rel	Irr	trouver-O2pl	S2pl	Neg1	tirer	Modpot	Neg2	ArtAc	poisson
+"Si vous allez là-bas, elles vont vous voir, vous ne pourrez pas prendre de poisson."
+239 Kamu=	tusa.	»	Kami=	ti=	vetar	«	O,	kami=	ni=	tusa.	»	
+S2pl	contourner.largement	S1plex	Aor	dire	oui	S1plex	Irr	contourner.largement
+""Passez au large." Nous avons dit "Oui, on passera au large.""
+240 Baskat	Cooper	ti=	lai	na=	tevtev,	van	doklaka	ti=	rasu.	
+Coord	NP	Aor	procurer	ArtAc	couteau	aller	ainsi	Aor3sg	marcher
+"Ensuite, Cooper a pris le couteau, et il est parti."
+241 Nau	mata-k	raiva	Rin,	i=	Vealet,	kami=	ti=	sugo,	ti=	saro	gatou.	
+I1sg	avec-P1sg	belle-soeur	NP	ArtP	NP	S1plex	Aor	descendre	Aor3sg	chercher	crabe-hermite
+"Moi et Belle-sœur Rin, Vaelet, on est allées chercher/ramasser des crabes-hermites."
+242 Saro	gatou,	na=	ti=	wus	na=	vatu	doklaka,	saqe	na=	mas	gatou.
+chercher	crabe-hermite	S1sg	Aor	soulever	ArtAc	pierre	ainsi	trouver	ArtAc	gros	crabe-h.
+"Je cherchais des crabes-hermite, j'ai soulevé une pierre comme ça, j'ai trouvé un énorme crabe."
+243 Nau=	ti=	wa=	olo	vano	doklaka,	war	tori-a,	gatou	laka	ti=	dule	bisu-ku.	na=	ti=	n̄ara	ti=	vetar	«Awelele!».
+S1sg	Aor	quand	tendre.la.main	aller	ainsi	vouloir	tenir-O3sg	crabe-hermite	Deix	Aor	se.pendre.à	doigt-P1sg	S1sg	Aor	pleurer	Aor	dire	Interj
+"Quand j'ai tendu la main comme ça, que j'ai voulu le prendre, le crabe-hermite s'est accroché à mon doigt. Je me suis mise à pleurer, et j'ai crié «Aie aie aie!»"
+244 Bastau	ka	ti=	sumai,	do	war	Vaelet	mata-n	raiva	Rin	ni=	toga	ira=	ni=	lai	souna	na=	liwo	gatou	kea-la	dan-nau.	
+ensuite	Coord	Aor	venir	penser	Compl	NP	avec-P3sg	NP	Aor	rester	S3pl	Irr	prendre	enlever	ArtAc	dent	crabe-hermite	Dem-Anaph	Orig-Obl1sg
+"Et puis après, je suis revenue, je pensais que Vaelet et Raiva Rin seraient là, et qu'elles pourraient m'enlever cette pince de crabe."
+245 Ira=	mo=	tigala,	ira=mo=	laka	radu	le=	qatai	isa,	toga	ti=	wuwusa	le=	qatai	isa.
+S3pl	Rel	ExistNeg	S3pl	Rel	Deix	loin	Loc	tronc	NEsp	rester	Aor	Red.retourner.pierre	Loc	tronc	NEsp	
+"Mais elles n’étaient pas là, elles étaient là-bas, très loin, sous le prunier de Cythère, elles étaient occupées à soulever des pierres sous le prunier de Cythère."
+246  Nau=	ti=	n̄ara	ti=	rowo	vano	le=	tan	kuk,	vano	ti=	lai	na=	avi,
+S1sg	Aor	pleurer	Aor	courir	aller	Loc	place	cuisiner	aller	Aor	prendre	ArtAc	feu
+"J'ai pleuré, et j'ai couru vers le foyer, et j'ai pris du feu,"
+247 sulu	na=	gatou	laka,	gatou	tekerag	na=	liwo-na	dan	bisu-ku,	
+brûler	ArtAc	crabe-hermite	Deix	crabe-hermite	lâcher	ArtAc	dent-P3sg	Orig	doigt-P1sg	
+" j'ai brulé le crabe, le crabe a desserré sa pince de mon doigt."
+248 kati	nau=	te=	ron̄o	wia
+Coord	S1sg	Pft	sentir	bien
+"Et après je me suis sentie mieux"
+249 bastau	kati	lai	na=	dawen,	ti=	lai	na=	liwo	gatou	kea-la,
+ensuite	Coord	prendre	ArtAc	hache	Aor	prendre	ArtAc	pince	crabe-h	Dem-Anaph
+"et puis après, j'ai pris une hache, et j'ai pris cette pince de crabe"
+250 ti=	amarem-ua	ti=	mamama	wose-a	ti=	mamama,
+Aor	marteler-O3sg	Aor	écraser	frapper.avec.une.pierre-O3sg	Aor	écraser
+‘et je l'ai martelée, j'ai tapé dessus jusqu'à ce qu'elle soit écrasée."
+251 baskat	baso,	Floria	mata-n	Owen,	Stendri	ti=	man.mana-g=nau.
+Coord	finir	NP	avec-P3sg	NP	NP	Aor	Red.rire-tr=O1sg
+"Et puis, après, Floria et Owen, Stendri se sont moqués de moi."
+252 Nau=	vetar	«	Man,	kamu=	mana	be	sava	?	
+S1sg	dire	Interj	S2pl	rire	Purp	quoi
+"J'ai dit "Oh, vous riez pour quoi!"
+253 War	kamu,	kamu=	ni=	ron̄o	kea-la,	kamu=	memes-kamu	kea-la.	»	
+Hyp	I2pl	S2pl	Irr	sentir	Dem-Anaph	S2pl	RedDuriner-O2pl	Dem-Anaph
+"Si c'était vous, vous ressentiriez cela, vous vous feriez pipi dessus, tiens!"
+254 Ira=	ti=	mana.	baskat	ira	i-rua	kea-la	ti=	sumai,	kami=	ti=	vano.	
+S3pl	Aor	rire	Coord	I3pl	Num-deux	Dem-Anaph	Aor	venir	S1plex	Aor	aller
+"Ils ont rigolé. Après, les deux autres sont arrivées, et on est parties ensemble."
+255 Van	din̄a	Matogu,	reve	na=	aka.
+aller	atteindre	Topon	tirer	ArtAc	pirogue
+"On est allées à Matogu, on a tiré les pirogues."
+256 nau=	toga	le=	aka	ge	Vev	Beta,	i=	Vaelet	mata-n	raiva	Rin	toga	le=	…	
+S1sg	rester	Loc	pirogue	CP	maman	NP	ArtP	NP	avec-P3sg	belle-sœur	NP	rester	Loc
+"Moi j'étais dans la pirogue de Maman Béta, et Vaelet et belle-sœur Rin était dans.."
+257 e,	tigai,	ira	sina	toga	le=	ake	Vev	Beta.	
+Interj	non	I3pl	Foc	rester	Loc	pirogue	maman	np
+"Euh, non, c'est elles qui étaient dans la pirogue de Maman Beta."
+258 Nau=	toga	le=	ake	Tat’	Ismael,	gase-ku.	
+S1sg	rester	Loc	pirogue	papa	NP	seul-P1sg
+"J'étais dans la pirogue de Tat'Ismael, toute seule."	
+259 Bastau	kami=	ti=	vano	ira=	tot	n̄wau,	
+ensuite	S1plexc	Aor	aller	S3pl	??	lent
+"Ensuite, on y est allées. Elles étaient lentes"
+260 nau=	ti=	sua,	van	turmua,	van	din̄a,	
+S1sg	Aor	pagayer	aller	en.premier	aller	atteindre	
+"J’ai pagayé, je suis partie devant, j’ai atteint (le point où je voulais aller). »
+261 Vaelet	mata-n	Raiva	Rin	ti=	sumai,	ira=	van	din̄a,
+NP	avec-P3sg	belle-sœur	NP	Aor	venir	S3pl	aller	atteindre
+“Vaelet et belle-sœur Rin sont venues., elles sont arrivées.”
+262 Vaelet	vetar	«	E,	nau=	ete	war	niko	kea	toga	le=	kere-na	kea,	
+NP	dire	Interj	S1sg	voir	Compl	I2sg	Dem	rester	Loc	arrière-P3sg	dem
+“Vaelet a dit “Eh, je vois que c’est toi qui est assise à l’arrière”
+263 toga	le=	qatu-na	kika,	sua	le=	kere-na.	»
+rester	loc	tête-P3sg	Deix	pagayer	Loc	
+"euh, que tu es assise à l’avant, là, viens pagayer à l’arrière"
+264 	Ira=	sua	talwura,	sae	le=	uta,	sae	kati	toga	sugo	sorisa,
+S3pl	pagayer	à.nouveau	monter	Loc	rivage	monter	Coord	rester	descendre	changer
+"Elles sont reparties en pagayant, vers la rive, et elles ont échangé."
+265 i=	Vaelet	toga	le=	qatu-na,	raiva	Rin	toga	le=	kere-na,	
+ArtP	NP	rester	Loc	tête-P3sg	belle-sœur	NP	rester	Loc	arrière-P3sg
+"Vaelet était assise à l’avant, Belle-sœur Rin était à l’arrière"
+266 ira=	ti=	sua	ti=	vano	talwura	van	din̄a	sosouna,
+S3pl	Aor	pagayer	Aor	aller	à.nouveau	aller	atteindre pêcher
+"Elles sont revenues en pagayant pour pêcher."
+267 ti-n̄	n̄wau	tea	nau=	reve	no-ku	te=	tolu,	
+Neg1-PEN	long	Neg2	S1sg	tirer	CP-P1sg	Pft	troisi
+"En très peu de temps, j’avais déjà pếché trois poissons."
+268 bastau	i=	Vaelet	ti=	vetar	no-n	gatou	baso.	
+ensuite	ArtP	NP	Aor3sg	dire	CP-P3sg	crabe-hermite	finir
+"Ensuite, Vaelet a dit qu’elle n’avait plus d’appats."
+269 raiva	Rin	lai	Vaelet,	sae	taua.	
+belle-sœur Rin	procurer	NP	monter	poser-O3sg
+"Belle-sœur Rin a été déposer Vaelet sur la rive."
+270 Kae	wa	ti	Vaelet	gale,	i=	mo=	ti=	gilea	tea	sosouna	le=	aka,	i=	war	lulua.
+Coord.Aorpl	??	NP	mentir	S3sg	Rel	Neg1	savoir	Neg2	pêcher	Loc	pirogue	S3sg	vouloir	vomir
+“En fait, Vaelet mentait, c’est juste qu’elle ne sait pas pêcher en pirogue, elle avait envie de vomir.”
+271 Ka	ti	raiva	Rin	sae	tau-a,	tau-a	le=	uta,	kamirua	n̄a=	toga.
+Coord.Aorsg	belle-sœur	NP	monter	poser-O3sg	poser-O3sg	Loc	rive	S1duexcl	PEN	rester
+"Alors Belle-sœur Rin a été la déposer, elle l’a déposée sur la rive, et nous sommes juste restées toutes les deux."	
+272 baskat	nau=	sosouna,	na=	ti=	wa=	ete	sae	doklaka,	Vaelet	ti=	wa	«	E,	nau=	mule	!	»	
+Coord	S1sg	pêcher	S1sg	Aor	Cadr	regarder	monter	ainsi	NP	Aor	Quot	Interj	S1sg	rentrer
+"Ensuite, j’ai pêché, quand j’ai regardé vers la rive comme ça, Vaelet a dit "Eh, je rentre !""
+273 Nau=	vetar,	«	Wia,	go=	mule	vavano	ka,	niko=	mo=	tin̄	fit	tea	be	sosouna	le=	aka.	»
+S1sg	dire	bon	Aor2sg	rentrer	Red.venir	Deix	S2sg	Rel	Neg1-PEN	doué	Neg2	Purp	pêcher Loc	pirogue
+“Je lui ai dit “C’est ça, rentre à la maison, vu que t’es nulle pour pécĥer en pirogue!””
+274 I=	ti=	lai	na=	no-n	gete	kea,	ka	ti=	mule	mai.
+S3sg	Aor	procurer	ArtAc	CP-P3sg	panier	Dem	Coord	Aor	rentrer	aussi
+"Elle a pris son panier, et elle est repartie aussi sec."
+275 Bastau,	Raiva	Rin	gase-na	toga	le=	tuara	aka,	nau=	toga	le=	tuara	aka.	
+ensuite	belle-sœur	NP	seul-P3sg	rester	Loc	autre	pirogue	S1sg	rester	Loc	autre	pirogue
+"Ensuite, belle-sœur Rin est restée seule dans une pirogue, et moi dans l’autre."
+276 Nau=	ti=	wa,	laqalaqa	me	Vaelet	bastau,	nau=	ti=	wa=	wosag	nok	bea	sugo	talwura,	mas	ravevmartatan̄wera	laka	sumai	toga	le=	nok	string.
+S1sg 	Aor 	Cadr	RedDetrans.parler	avec	NP	gros	NEsp	Deix	venir	rester	Loc	CP-P1sg	ligne
+"Un énorme ravevmartatan̄wera est venu se prendre à ma ligne! "
+277 Nau=	ti=	reve	ti=	reve,	ti=	reve	kat	tau	sae	le=	aka.	
+S1sg	Aor	tirer	Aor	tirer	Aor	tirer	Coord	poser	monter	Loc	pirogue
+"J'ai tiré, tiré, tiré, et puis je l'ai posé dans la pirogue."
+278 Bastau	kami=	tot	sosouna	vavano,	nau=	ti=	ete		war	«	E,	qon̄	kea,	gidarua	mule	?	»
+ensuite	S1plexcl	Prog	pêcher	RedDur.aller	S1sg	Aor	voir	Compl	interj 	nuit	Dem	S1duincl	rentrer
+"Ensuite, on a continué à pêcher, et puis j'ai levé les yeux et j'ai dit "Eh, la nuit tombe, là , on rentre!"
+279 I=	ti=	vetar	«	Da.	»
+S3sg	Aor	dire	"interj."
+"Elle a dit. "Allez.""
+280 Bastau	nau=	ti=	usi-a	ti=	vetar	«	Niko=	ti=	reve	no-n̄a	visa	?	»
+ensuite	S1sg	Aor	interroger-O3sg	Aor	dire	S2sg	Aor	tirer	CP-P2g	combien
+"Ensuite je lui ai demandé : "Combien en as-tu pris?"
+281 I=	vetar	no-na	i-torteen,	san̄wul	tewa	dan̄wan	tolu.
+S3sg	dire	CP-P3sg	Num-treize	treize
+"Elle a dit qu'elle en avait (pris) treize."
+282 Bastau	i=	ti=	usi-nau	vetar	«	no-n̄	visa	?	»	
+Coord	S3sg	Aor	interroger-O1sg	dire	CP-P2sg	combien
+"Ensuite, elle m'a demandé "Combien en as-tu pris?"
+283 Nau=	vetar	«	No-ku	sawul	tewa	dan̄wan	tavalima.	»	
+S1sg	dire	CP-P1sg	 quinze
+"J'ai dit "J'en ai pris quinze.""
+284 I=	vetar,	«ale,	gidarua	mule.	»	Nau=	vetar,	«	Ale	».	
+S3sg	dire	Interj	S1duincl	rentrer	S1sg	dire	interj.
+"Elle a dit "Allez, on rentre". J'ai dit "D'accord."
+285 Bastau	kamirua=	ti=	sae	din̄a	le=	uta,	reve	na=	nomi	rua	aka	sae	
+Coord	S1duex	Aor	monter	atteindre	Loc	rive	tirer	ArtAc	CP-P1duex	pirogue	monter
+"Ensuite nous avons rejoint la rive, nous avons hissé nos pirogues
+286 bastau	gari	no-mirua	masi,	bastau	kae	mule	mai.
+Coord	écailler	CP-P1duex	poisson	Coord	Coord.Aor	rentrer	aussitôt
+"Et puis nous avons écaillé nos poissons, et puis je suis rentrée aussitôt"
+287 Mule	sumai	din̄a,	na=	ti=	kuk	na=	nok	masi,
+rentrer	venir	atteindre	S1sg	Aor	cuire	ArtAc	CP-P1sg	poisson
+288 ka	ti	gangani	baskat	mule	sumai	le=	vale.
+Coord	Aor	RedDetrans.manger	Coord	rentrer	venir	Loc	maison
+"Je suis rentrée, j'ai cuisiné mes poissons, et puis j'ai mangé, et je suis rentrée à la maison."
+289 Baso	va.
+finir	PEN
+"La fin."
+-------------------------------------------
+Sursurigi	Vatqalqalo (cahier 2, pp. 63-70)
+Vepi Leo
+vat
+290 Qon̄	tewa,	Vatqalqalo	toga	min	tubu-na.	Toga,	rave-na	ti=	vano.	
+jour	un	NP	rester	Dest	époux-P3sg	rester	mère-P3sg	Aor3sg	aller
+"Il était une fois, Vatqalqalo, qui vivait avec son époux."
+291 Vet	min	i=	qaliga	"gidarua=	ti=	sae	tusi	gire.
+dire	Dest-ArtP	bru?	S1duincl	Aor1plincl	monter	casser 	pandanus
+"Un jour sa mère dit à sa bru1 "Nous allons aller couper du pandanus, toi et moi."
+292 	Nau	lolo-k	imim	gire	kea".	
+I1sg	intérieur-P1sg	RedCompl.boire	pandanus	Dem ???
+"J'ai envie de boire du pandanus."
+293 Ia= wa « Wia, vano »
+S3sg	Quot	bien	aller
+« Il dit « D’accord, allez y » »
+294 Veve		vetari		kamirua=	sae	tusi	gire. »	
+maman	dire		S1duexcl	monter	couper	pandanus
+« Maman a dit que nous devions allons couper du pandanus. »
+295 Irarua=	sae.
+S3du	monter
+« Les deux y vont »
+296 Sae,	sae,	din̄a	le=	gire,	Vatqalqalo	ti=	venag	na=	gire.	
+monter	monter	atteindre	Loc	pandanus	NP	Aor3sg	escalader	ArtAc	pandanus
+"Elles arrivèrent jusque vers les pandanus, et Vatqalqalo en escalada un."
+297 Sae	venaga	sae	ti=	sae	ti=	=	sasae,	tai,	tai,	tai,	tai.	
+monter	escalader	monter	Aor3sg	monter	Aor3sg	RedDur.monter	couper	couper	couper	couper
+"Elle escalada, grimpa, grimpa et coupa, coupa, coupa, coupa."
+298 "Veve!	Kea-ga	nau=	ti-gai	vano	lai	tea	suri-a.	
+maman	Dem-Cataph?	S1sg	Neg1-PEN	aller	ModCap	Neg2	suivre-O3sg
+"Maman, celle-ci, je ne vais pas pouvoir l'atteindre."
+299 mo=	ran̄ai	soai."	
+Rel	très	loin
+"Elle est trop éloignée."
+300 "Mo=	niko=	ti=	ron̄o	tea	mo=	aru	min	a	gire	mo=vagaliwliwi?	
+Rel	S2sg	Neg1	entendre	Neg2	Rel	casuarina	Dest	Art	pandanus	Rel	être.en.compétition
+Tu ne sais donc pas que le casuarina et le pandanus sont en compétition?"
+301 Aru	mo=tusa,	gire	ti=	motu	tea	
+casuarina 	Rel	casser	pandanus	Neg1	Rel	casser	Neg2
+"Car le casuarina est cassant, alors que le pandanus ne l'est pas"
+302 	Go	van	suri-a	tai-a".	
+Aor2sg	aller	suivre-O3sg	couper-O3sg
+"Avance sur la branche pour la couper".
+303 Vano,	vano	tai-a,	gire	kea-la	mavsara.
+aller	aller	couper-O3sg	pandanus	Dem-Anaph	casser
+"Elle s'avança, s'avança, et la branche de pandanus cassa!"
+304 Mavsara	sugo,	i=	rave	Vatqalqalo	van	va-ras	armwagi-a	sugo	le=	lol	bubuaka
+casser	descendre	ArtP	mère	NP	aller	Caus-marcher	noyer-O3sg	descendre	Loc	intérieur	marais
+"La branche s'effondra, et la mère de Vatqalqalo lui marcha dessus pour la noyer dans la boue."
+305 Tau	ti=	mule.	Mule	sugo,	toga	me	qaliga-na.	
+Coord 	Aor3sg	rentrer	rentrer	descendre	rester	avec	gendre-P3sg
+"Ensuite, elle rentra. Elle rentra s'installer avec son gendre."
+306 Vatqalqalo	ti=	eva,	no-n	tamate	ti=	sumai.	
+NP	Aor3sg	être.étendu	CP-P3sg	esprit	Aor3sg	venir
+"Vatqalqalo resta étendue là, et son esprit s'en vint."
+307 Sumai,	laia	sae,	kiro-a,	kiro-a,	kiro-a,	garusi-a	vavano,	ti=	mamata.
+venir	procurer-O3sg	monter	laver-O3sg laver-O3sg	laver-O3sg	baigner-O3sg	RedDur.aller	Aor3sg	se.réveiller
+"Il vint, et la prit, et la lava, la lava, la lava, la baigna encore et encore, et elle se réveilla."	
+308 I=	ti=	wa	"Nau	dagasnia	kea?"
+S3sg	Aor3sg	Quot	I1sg	comment	dem
+"Elle dit "Qu'est-ce qui m'est arrivé?""	
+309 "Niko,	no-n̄	veve,	va-ras	armwagigi-ko	sugo	le=	lol	leba.
+I2sg	CP-P2sg	maman	Caus-marcher	noyer-O2sg	descendre	Loc	intérieur	boue
+"Toi, ta maman t'as marché dessus pour te noyer dans la boue."
+310 I=	ti=	sugo	toga	min	tubu-n̄a.
+S3sg	Aor3sg	descendre	rester	Dest	époux-P2sg
+"Elle est redescendue s'installer avec ton mari."
+311 Lai	na=	no-n̄	tevteve,	sursuri-a.	
+procurer	ArtAc	CP-P2sg	couteau	Red.suivre-O3sg
+"Prends ton couteau, suis là."	
+312 Sugo	vagis	va-mate-a.
+descendre	frapper	caus-mourir-O3sg
+"Descends la tuer."
+313 I=	ti=	lai	na=	asi,	tan̄tan̄i-na	.	
+S3sg	Aor3sg	procurer	ArtAc	chanson	complainte-P3sg	
+"Elle chanta sa chanson, sa complainte
+314 "Ngwaliga	dago	mai	abea. Ngwaliga	dago	mai	asiwo.
+NO GLOSSING
+NO TRANSLATION
+315 Eva	gorovin̄go,	Eva	gorovin̄go	manku	susu,	susuria	Ngalana	ti	wia.	Susu	tagasigasi	ti wia.Varasi	tavinagi	Vatn̄gwaln̄gwalo".
+NO GLOSSING
+NO TRANSLATION
+316 ira=	ti-qa	ron̄o	tea.	Lai	talwura:
+S3pl	Neg1-PEN	entendre	Neg2	procurer	à.nouveau
+"Ils ne l'ont pas encore entendue. Elle chante à nouveau: "
+317 "Ngwaliga	dago	mai	abea.
+NO GLOSSING
+NO TRANSLATION
+318 Ngwaliga	dago	mai	asiwo.
+NO GLOSSING
+NO TRANSLATION
+319 Eva	gorovin̄go,	Eva	gorovin̄go	manku	susu,	susuria	Ngalana	ti	wia
+NO GLOSSING
+NO TRANSLATION
+320 Susu	tagasigasi	ti	wia.Varasi	tavinagi	Vatn̄gwaln̄gwalo	".	
+NO GLOSSING
+NO TRANSLATION
+321 I=	ti=	wa	"kamu=	sae	me-ri	raven̄a.	Niko	dagasnia	gini-ra?"	
+S3sg	Aor3gs	Quot	S2pl	monter	avec-ArtP	mère-P2sg	S2sg	comment	obl-Obl3pl
+NO TRANSLATION
+322 I=	ti=	wa	"Dagasnia?".	
+S3sg	Aor3sg	Quot	comment
+"Elle dit "Comment cela ?""
+323 I=	ti=	wa	"ron̄o-ra	de	kisae	mwer	vet	na=	sasa-n̄a	?	
+S3sg	Aor3sg	Quot	entendre-O3pl	??	Deix	enfant	dire	ArtAc	nom-P2sg
+"Il dit "Les entends-tu tous là-haut qui disent ton nom ?"
+324 I=	ti=	wa	"Tigai,	wa	ron̄o	tau."
+S3sg	Aor3sg	Quot	non	Cadr	entendre	Contin?
+NO TRANSLATION
+325 "	Ngwaliga	dago	mai	abea.	Ngwaliga	dago	mai	asiwo.	Eva	gorovin̄go,	Eva	gorovin̄go manku	susu,	susuria	Ngalana	ti	wia.	
+NO GLOSSING
+NO TRANSLATION
+326 Susu	tagasigasi	ti	wia.Varasi	tavinagi	Vatn̄gwaln̄gwalo".	
+NO GLOSSING
+NO TRANSLATION
+327 I=	ti=	wa	"Ka".
+S3sgaAor3sg	Quot	Interj	
+“Elle dit “La!”
+328 I=	ti=	wa=	lua	sumai,	wa	"Sumai	tua-ku,	vano	go	toga	me	nia-n̄a."
+S3sg	Aor3sg	Cadr	sortir	venir	Quot	venir	chéri-P1sg	aller	Aor2sg	rester	avec	époux-P2sg
+"Quand elle sortit à sa rencontre, elle dit : "Viens ma chérie, va retrouver ton époux.""
+329 Vatqalqalo	lai	na=	no-na	tevteve,	tai-a,	ti=	mate.	
+NP	procurer	ArtAc	CP-P3sg	couteau	couper-O3sg	Aor3sg	mourir
+"Vatqalqalo prit son couteau, et la tua avec."
+330 vano	toga	me		tubu-na.
+aller	rester	avec	époux-P3sg
+"Elle se réinstalla avec son époux."
+331 Baso	ka	ti=	weswesu	laka-la.
+finir	Coord	Aor3sg	finir	Deix-Anaph
+"L'histoire se termine là."
+
+-------------------------------------------
+Sursurigi Gatou matan Sigo (Reprendre gloses)
+gatJK
+
+332 Kia-ga	sursurigi	gatou	mata-n	sigo
+Dem-Cataph	histoire	crabe.de.cocotier	avec-P3sg	martin.pêcheur
+"Voilà l'histoire du crabe de cocotier et du martin-pêcheur"
+333 Qon̄	tewa,	sigo	u=	to	le=	won	re	geiga,	roqon̄	rik.	
+jour	un	martin.pêcheur	PftRes	rester	Loc	sommet	branche	arbre	matin	petit
+Un jour, le martin-pêcheur était perché au sommet d'un arbre, au petit matin."
+334 I=	ti=	ete	sugo	le=	tano,	ge=	ete	gatou 	mo=	tot=	sugwagi 	ti=	vano.	
+3sg	Aor3sg	voir	Loc	sol	AorPl	voir	crabe	Rel	Prog	marcher.en.arrière	Aor3sg	aller
+"Il vit, en bas sur le sol, le crabe de cocotier qui marchait en arrière"
+335 Ia=	tot=	mata-gi-a	ti=	mata-gi-a	ti=	ete,	ka	ti=	wa
+S3sg	Prog	oeil-Tr-O3sg	Aor3sg	regarder-Tr-O3sg	Aor3sg	voir	Coord	Aor3sg Quot
+"Il le regarda, le regarda, le regarda, puis dit:"
+336 "Tigai,	tatua,	aniani	ririki	wurwuri	rasu	vano	min	a=	nago-ra.
+non	homme	Red.choses	Red.petit	complètement	marcher	aller	avec	Art	visage-P3pl	
+""Non, l'homme , toutes les créatures  marchent vers l'avant (littéralement: avec leur visage)"
+337 Gatou	rasu	ti=	sugwagi	malabusa	maia.
+crabe	marcher	Aor3sg	marcher.en.arrière	tranquille	aussi
+"Le crabe de cocotier marche vers l'arrière, et lentement, en plus.""
+338 I=	ti=	ete	sugo	ti=	malmala	mana-gi-a.	
+S3sg	Aor3sg	voir	Aor3sg	un.peu	rire-Tr-O3sg
+"Il le regarde, en bas, et se moque un peu de lui."
+339 "Wo	niko=	rasu	doklakala	kea.	
+Interj	S2sg	marcher	ainsi	Dem
+"Eh, tu marches comme ça, toi."
+340 Niko=	tigai	rasu	tea	ti=	gogoi."
+S2sg	Neg-PEN	marcher	Neg	Aor3sg	aller.vite
+"Tu ne marches pas vite""
+341 I=	gatou	ti=	veti	sae	min-ia	wa	"Ow	niko=	dodon	war	nau=	ti-gai	rasu	tea	gogoi?	
+ArtP	crabe	Aor3sg	dire	monter	avec-Obl3sg	Quot	Interj	S2sg	penser	S1sg	Neg1-PEN 	marcher	Neg2	vite	
+"Crabe lui dit (en levant la tête): "Oh, tu crois que je ne marche pas vite? (que je ne sais pas marcher vite)"
+342 Wari	gida=	ni=	rowo,	nau=	ni=	rowo	liwi-ko."	
+Hyp	S1plin	Irr	courir	S1sg	Irr	courir	vaincre-O2sg
+"Si nous courions, je te vaincrais à la course."
+343 I=	ti=	wa	"Ow,	tigai,	niko=	ni=	ti-n̄a	rowo	liwi-au	tea."	
+S3sg	Aor3sg	Quot	Interj	non	S2sg	Irr	Neg1-PEN	courir	vaincre-O1sg	Neg2
+"Il dit "Oh, non, tu ne me vaincrais pas à la course.""
+344 I=	ti=	wa	"Tigai.	Wia,	gida=	ni=	tau	na=	qon̄i	tewa,	
+S3sg	Aor3sg	Quot	non	bien	S1plincl	Irr	poser	ArtAc	jour	un
+"Il dit "Si. Très bien, nous allons choisir un jour"
+345 ka	ti=	da-ete	rowo,	ka	ti=	da-ete	wari	sei	ni=	liwi."
+Coord	Aor1plincl	faire-voir	courir	Coord	Aor1plincl	faire-voir	Compl	qui 	Irr   vaincre
+"et nous essaierons de faire la course, et nous verrons bien (nous testerons) qui gagnera.""
+346 Ira=	ge=	tau	na=	qon̄	tewa,	veti	tau	toga.	
+S3pl	AorPl	poser	ArtAc	jour	un	dire	poser	rester
+"Il choisirent un jour, le fixèrent et cela en resta là."
+347 Sigo	ti=	mule	vano,	toti	da	suri	na=	ga-na	sinaga,	si	sava	doklakala,	
+martin.pêcheur  Aor3sg 	rentrer	aller	Prog	faire	suivre	ArtAc	CP-P3sg	nourriture	ou	quoi	ainsi
+"Le martin-pêcheur rentra chez lui, et s'occupa de sa nourriture (litt: se fit quant à sa nourriture), et ainsi de suite;"
+348 ka	i=	gatou	ti-n̄a	maturu	tea,	da	masin̄a,	vano	ti=	ete-ra	na=	lebata	gatou.
+Coord	ArtP	crabe	Neg-PEN	dormir	Neg2	faire	travail	aller	Aor3sg	voir-O3pl	ArtAc	quelques	crabe
+" mais Crabe n'alla pas dormir, jil travailla, il alla voir quelques (autres) crabes"
+349 I= sigo mana-gida;
+ArtPers martin.pêcheur rire-O1plincl
+"Martin-pêcheur s'est moqué de nous"
+350 qon̄	doklaka,	gida=	 ni=	da	tunubu.	
+jour	ainsi	S1plincl	Irr	faire	ensemble
+"Aujourd'hui, comme ça, nous allons agir tous ensemble""
+351 Gida=	ni=	...tewa	ni=	sae	toga	le=	n̄orai	kisage,	tewa	le=	n̄orai	kea,	tewa	le=	n̄orai	doklaka,	val	n̄orai	kea-la
+S1plinc	Irr	un	Irr	monter	rester	Loc	pointe	Deix	un	Loc	pointe	Deix	un	Loc	pointe 	ainsi	chaque	pointe	Dem-Anaph
+"Parmi nous, un ira s'installer sur cette pointe-ci , un (autre) sur cette pointe là, un sur cette pointe ainsi, (sur) chacune de ces pointes"
+352 kamu=	vano	ge=	toga	ala.	
+S2pl	aller	AorPl	rester	Anaph
+"vous (y) allez et restez là-bas."
+353 Le=	qon̄	tewa	doklaka,	gida=	ni=	vaga-liwliwi	mata-da	sigo.
+Loc	jour	un	ainsi	S1plincl	Irr	Récip-Red.gagner	avec-P1pl	martin.pêcheur
+"Ainsi, le jour (venu) nous nous mesurerons avec le martin-pêcheur (littéralement, nous mesurerons le martin-pêcheur avec nous)"
+354 Sigo	i=	ni=	rowo	gase-na,	ka	gida,	gida=	ni=	bul-gida	 le=	rowana	kia-ga."	
+martin.pêcheur	S3sg	Irr	courir	seul-P3sg	Coord	I1plincl	S1plincl	Irr	ensemble-O1plinc Loc	course	Dem-Cataph
+"Le martin-pêcheur courra tout seul, alors que nous, nous serons ensemble dans cette course."
+355 Totoga,	qon̄	tewa,	masqala	kea-la	mo=	tau	wari	ira	ni=	rowo	ti=	sumai,	
+Red.rester	jour	un	époque	Dem-Anaph	Rel	poser	Compl	S3pl	Irr	courir	Aor3sg	venir	
+"Le temps passa, et un jour, cette date qu'ils avaient posé pour la course arriva "
+356 sigo	wa=	sugo	le=	roqon̄i,	ge=	ete	gatou	mo=	ta=	toga	le=	tania-na.	
+martin.pêcheur	Cadr	descendre	Loc	matin	Aorpl	voir	crabe	Rel	Pft	rester	Loc place-P3sg
+"quand le martin-pêcheur descendit au matin, il vit Crabe, au même endroit."
+357 I=	ti=	qoqagi	ran̄ai	"Ow,	gatou,	niko=	u=	gogoi	ran̄ai	n̄a,	go=sumai	go=	toga."
+S3sg	Aor3sg	surpris	très	Interj	crabe	S2sg	PftRes	vite	très	Aor2sg	venir	Aor2sg	rester
+"Il fut très surpris. "Eh, crabe, tu t'es beaucoup dépéché, là, de venir t’installer. »
+358 Wou, nau= ragegi-ko tueta.
+Interj S1sg attendre-O2sg longtemps
+""Oh, je t'ai attendu longtemps." (ça fait longtemps que je t’attends)"
+359 War	niko=	ni=	sumai,	gida=	ta=	totqatug	ta=	rowo.
+Si	S2sg	Irr	venir	S1plinc	commencer	courir
+"Si tu étais venu, on aurait déjà commencé à courir »
+360 I=	ti=	wa	"Wia."	Ira=	ge=	qatviro	valu	din̄a	tolu,	ka	ti=	tekerag.	
+S3sg	Aor3sg	Quot	bien	S3pl	Aorpl	??	compter	atteindre	trois	Coord 	Aor3sg	partir
+"Il dit "très bien." Il comptèrent jusqu'à trois et partirent
+361 Ira=	wa=	tekeragi,	sigo	wa=	tekeragi	doklaka	ti=	gaga,
+S3pl	 Cadr	partir	martin.pêcheur	Cadr	partir	ainsi	Aor3sg	voler?
+"Quand ils partirent, quand (alors que?) le martin-pêcheur partit ainsi, en volant,"
+362 gatou	ti=	sugwagi	tawu	talwura	vano	le=	lulu-na	toga 	malabusa	toga	tau.	
+crabe	Aor3sg	marcher.en.arrière	vers.l'arrière	à.nouveau	aller	Loc	trou-P3sg	rester	 tranquille	rester	Contin
+"le crabe marcha en arrière, dans le mauvais sens, et retourna	dans son trou, et il resta tranquille, il resta (là)."
+363 I=	sigo	ti=	gaga,	ti=	gaga	vano	din̄a	le= n̄orai	tewa	usi	sae	gatou,
+ArtP	martin.pêcheur	Aor3sg	voler	Aor3sg	voler	aller	atteindre	Loc pointe une 	demander	monter	crabe 
+"Martin-pêcheur vola, vola, vola, atteignit une pointe et demanda (en direction de la rive) "Crabe?","
+364 gatou	wa	"wou",	i=	ti=	gaga.
+crabe	Quot	Interj	S3sg	Aor3sg	voler
+"le crabe lui répondit "Ohé!". Il continua à voler"
+365 Gaga	ti=	vavano,	vano	le=	n̄orai	tewa,	ti=	wulo	sage	
+voler Aor3sg RedDur.aller aller Loc pointe un Aor3sg crier monter
+"Il vola, vola, arriva à une pointe, et cria vers la plage:"
+366 "Gatou?" 	Gatou	ti=	wa	"Wou!".
+crabe	Crabe	Aor3sg	Quot	Interj
+""Crabe!"  Le crabe dit "Ohé!""
+367 Kakaka	i=	ti=	qoqagi	"Ow	gatou	vet	gar-wia	n̄a,	wari	ira=	u=	rowo-lai,	ia=	u=	rowo-lai.	
+maintenant	S3sg	Aor3sg	surpris	Interj	crabe	dire	vérité	Compl	S3pl	PftRes	courir-apporter	S3sg	PftRes	courir-apporter
+"A ce moment, il fut surpris. "Oh, le crabe disait la vérité, là, ils peuvent courir, il  est capable de courir""
+368 Ka		ti=	da-ete	gaga	ti=	vano	le=	tuara	n̄orai,	vano	din̄a	le=	tuara	n̄orai	kea-la,	are	sage	"Gatou	!", 
+Coord	faire-voir	voler	Aor3sg	aller	Loc	autre	pointe	aller	atteindre 	Loc	autre	pointe	Dem-Anaph	appeller	crabe
+"Alors il essaya de voler, et d'aller jusqu'à la pointe suivante, il atteignit cette pointe suivante, et appela d'en haut "Crabe!", et le crabe dit "Ohé!""
+369 Gatou	wa 	"Wou!" Doqala	gini-ia	vivano.	
+crabe	Quot	 Interj	Ainsi	avec-Obl3sg	Red.aller
+"Et ainsi de suite (litt: avec lui)"
+370 Sigo	gigaga,	suri-na	ti=	galgalo,	sae	sugo	le=	one,	wadan̄e	ti=	mate.	
+martin.pêcheur	Red.voler	os-P3sg	Aor3sg	faible	monter	descendre	Loc	plage 	tomber	Aor3sg	mort
+"Le martin-pêcheur volait, volait, ses os devinrent faibles, il monta et descendit au dessus de la plage, tomba, et mourut."
+371 Irana	=gatgatou	ririk	sumai	gani-a.
+ArtPl	Red.crabe	Red.petit	venir	manger-O3sg
+"Les petits crabes vinrent et le mangèrent."
+372 Sursurigi	kea	ti=	n̄wera	wesu	doklaka.	
+histoire	Dem	Aor3sg	comme	fini	ainsi
+"Cette histoire finit ainsi."
+373 Ka	dodomana	suri-a	wari	gida=	ni=	da	masin̄a	bulbulu,
+Coord	pensée	suivre-O3sg	S1plinc	Irr	faire	travail	ensemble
+"Sa morale est que nous travaillons (devons travailler) tous ensemble,"
+374 gida=	ni=	kare	da	na=	masin̄a	gasgase-da	tea	mwere	sigo	mo=	da-ete	be	da	le=	rowana	kea.	
+1plinc	Irr	Prohib	faire	ArtAc	travail	Red.seul-P1plincl	Neg2	comme	martin.pêcheur	Rel=	faire-voir	Purp	faire	Loc	course	Dem
+"nous ne devons pas travailler chacun tout seul comme le martin-pêcheur a essayé de faire dans cette course."
+375 Valu	anani		rik		tari,	gida=	ni=	bul	gida,	be	dan-ia,	gida=	ni=	suri	leo-da.	
+chaque	Redmultipl.chose	petite  nombreux	I1plincl	Irr	ensemble-O1plincl	Purp	faire-O3sg	S1plincl	Irr	suivre voix-P1plincl
+"Les nombreuses petites tâches, il faut les faire ensemble, nous devons suivre notre idée commune."
+376 Gida=	do	wari	tatua	tewtewa	da	na=	sava	masin̄a	tea	gase-na,		val	qon̄i	i=	ti=	sur	leo-na	tea,	i=	ni=	mate	gin	no-na	masin̄a	kea-la.
+S1plincl	penser	Compl	homme	RedDistrib.un	faire	ArtAc	quoi	travail	NSpec	seul-P3sg	chaque	jour	S3sg	Aor3sg	suivre	voix-P3sg	NSpec S3sg	Irr	mourir	Instr	CP-P3sg	travail	Dem-Anaph
+"Si on pense que chaque homme doit faire son travail seul, que chaque jour, il suit sa propre idée, il va se tuer à la tâche."
+377 Sursurigi	kea	baso	doklaka
+histoire	Dem	finir	ainsi
+"cette histoire se termine ainsi."
+
+-------------------------------------------
+Vetveti bei lata (BeiEV)
+
+
+378 Wia
+bon
+" Bien "
+379 Nau=	ni=	vet.veti	na=	vetveti	Bei	Lata,
+S1sg	Irr	Red.dire	ArtAc	histoire	eau	grand
+"Je vais raconter l'histoire de Bei Lata" 	
+380 dagasnia	ia	mo=	totqatugi	Qatiwol,	van	le=	lolwono,
+comment	I3sg	Rel	commencer	Topon	aller	Loc	bush
+"comment elle naît à Qatiwol, part dans le bush,"
+381 ka	ti	ro.roro	ti=	sumai	ti=	rowolua	din̄a	taval-gida	laka.
+Coord	Red.couler	Aor3sg	venir	Aor3sg	sortir	atteindre	chez-O1plincl	deix
+"puis coule, vient, et débouche ici, chez nous."
+382 Wia	ga-na	vetveti	totqatug	doklaka.	
+bon	CP-P3sg	récit	commencer	ainsi
+"Bon, son histoire commence ainsi."
+383 Qon̄	tewa,	mas	usa,	usa	ti=	usa,	ti=	usa,	ti=	usa,
+jour	un	gros	pluie	pluie	Aor3sg	pluie	Aor3sg	pluie	Aor3sg	pluie
+"Un jour, il y eut une grosse pluie, il plut, plut, plut"
+384 bei	kea-la	ti=	rowo,	wut(u)	na=	=	qatai	takura	tewa,	
+eau	Dem-Anaph	Aor3sg	courir	arracher	ArtAc	tronc	sagoutier	un
+"cette eau courut, arracha un tronc de sagoutier,"
+385 lai-a	ti=	roro	me-a	ti=	sumai	ti=	sumai	ti=	sumai,
+porter-O3sg	Aor3sg	courir	avec-O3sg	Aor3sg	venir	Aor3sg	venir	Aor3sg	venir
+"l'emporta et coula avec lui, vint, vint, vint,"
+386 le=	won	takura	kea-la,…	mawut	siviru	mo=	toga	le=	won	takura.	
+Loc	sommet	sagoutier	Dem-Anaph	nombreux	perroquet	Rel	rester	Loc	sommet	sagoutier	
+"au sommet de ce sagoutier… de nombreux perroquets se trouvaient au sommet de ce sagoutier"
+387 Bastau,	bei	kea-la	lai	na=	takura	roro	me-a	sumai.	
+ensuite	eau	Dem-Anaph	porter	ArtAc	sagoutier	couler	avec-O3sg 	venir
+"Ensuite, cette eau emporte le sagoutier, "
+388 Sumai	ti=	sumai	ti=	su.sumai.	
+venir	Aor3sg	venir	Aor3sg	Red.venir
+"et continue sa route."
+389 Su.su(go)	din̄a	buaka	Gara,
+Red.descendre	atteindre	marais	Topon
+"Elle descend et atteind le marais à Gara."
+390 Ron̄o	na=	n̄ovi	aru	mo=	toti…	lan̄i	seregi-a,	tot	n̄wan̄wa.	
+entendre	ArtAc	bruit	casuarina	Rel	Prog	vent	souffler.dans-O3sg	Prog	bruisser
+"elle a entendu le bruit du casuarina qui.. le vent souffle dedans, il bruisse."
+391 I	=	ti=	ron̄o	wa	"Tigai,	nau=	wa=	sugo	laka,	…	mo=	bei	tewa	tot	tau	laksugo"
+S3sg	Aor3sg	entendre	Quot	non	S1sg	si	descendre	Deix	caus	eau	une	Prog	poser?? deix
+"Elle entend et se dit "Non, si je vais par là… il y a déjà une rivière qui passe ici…"
+392 ka	ti=	talwura	talwura.
+Coord	Aor3sg	revenir.en.arrière	à.nouveau
+"Et elle repart en arrière."
+393 Talewura	ti=	sumai,ti=	su.sumai,	ka	ti=	sumai	din̄a	kika	Ruos,
+revenir.en.arrière	Aor3sg	venir	Aor3sg	Red.venir	Coord	Aor3sg	venir	atteindre	Deix	Topon
+"Elle a fait chemin arrière, et puis elle est venue, venue, et arrivée ici, à Ruos"
+394 roro	ala,	sugo	Tavalvale,	su.sumai	Qatnasivrowo	le=	won̄a-na,
+couler	Anaph	descendre	Topon	Red.venir	Topon	Loc	sommet-P3sg
+"elle a coulé là, est descendue vers Tavalavale, est venue à Qatnasivrowo, à son sommet"
+395 le=	won	rewo	kea-la,	wosagi-a,	wosag	na=	takura	let.	
+Loc	sommet	colline	Dem-Anaph	jeter-O3sg	jeter	ArtAc	sagoutier	??	
+"Au sommet de cette colline, elle l’a jeté, elle a jeté ce sagoutier "
+396 Wosagi-a	ka	ti=	sarwutu	sugo	Qilorua.
+jeter-O3sg	Coord	Aor3sg	tomber.en.chute	descendre	Qilorua
+"Elle l’a jeté puis elle a formé une chute d’eau à Qilorua "
+397 Siviru	n̄waraga	mo=	toga	le=	wone	takura	ge=	rowrowo	ririk.	
+perroquet	nombreux	Rel	rester	Loc	sommet	sagoutier	Aorpl	Red.courir	Red.petit
+"Les nombreux perroquets qui se tenaient sur le sagoutier s'échappèrent un par un."
+398 Kae	are	na=	qilo	kea-la,	are	war	Qilo	Rua.
+Coord.Aorpl	appeler	ArtAc	ac	bassin	Dem-Anaph	appeler	dire	bassin	deux
+"Et on a appelé ce bassin "les Deux-Bassins""
+399 Are	na=	qatseuse	kisae	le=	won̄a-na,	are	wa	Qatnasivrowo.
+appeler	ArtAc	chute d'eau	Deix	Loc	sommet-P3sg	appeler	Quot	Topon
+"On a appelé le … là-haut à son sommet, on l'a appelé Qatnasivrowo (la chute des perroquets qui s'envolent)"
+400 mo=	roro	Qatnasivrowo,	ti=	sugo	Qilorua.
+caus?	couler	Topon	Aor3sg	descendre	Topon
+"(parce qu'elle?) coule à Qatnasivrowo, et descend ensuite à Qilorua"
+401 Baso	bei	kea-la	ti=	roro	su.sumai,	din̄a	kika	ka	kerebei,	van	varea	le=	tasi.
+finir	eau	Dem-Anaph	Aor3sg	couler	Red.venir	atteindre	Deix	??	crique (fond.eau)	aller	dehors	Loc	mer
+"Ensuite, cette eau coule, s'en vient, s'en vient, et atteind la crique, ici,et s'en va dans la mer."
+402 Vetveti	bei	kea,	ia	kea	mo=	dagasnia	mo=	totqatug	laksae qatewoli	roro	sumai	lua laka.	
+récit	eau	Dem	I3sg	Dem	Rel	comment	Rel	commencer	Deix	Topon	couler	venir	sortir	ici
+"ce récit de la rivière, c’est celui là, de comment elle commence là-haut à Qatewoli, et coule jusqu’à ressortir ici."
+403 Ia	va	kia-ga	va	vetveti	Bei.
+I3sg	PEN	Dem-Cataph	PEN	récit	eau
+"Voilà donc l'histoire de la rivière."
+-------------------------------------------
+Vetveti dagasnia ira mo van le prison (PriJW)
+Johnson Wesu
+
+
+404 Le=	tau	74,	ira=	na=	lumagavi	lai	na=	rin̄oana	tewa	suri	na=	tamaragai	tewa	mo=	toga	laksae,	sasa-na	i=	Ben.	
+Loc	année	74	S3pl	ArtAc	jeune	prendre	ArtAc	mouvement	un	Dest	ArtAc	vieux	un	Rel	rester	Deix	nom-P3sg	ArtP	np
+"En 1974, les jeunes ont joué un tour à un vieil homme qui habitait là-bas dans le sud, nommé Ben."
+405 Ira=	ge=	sae	ume	na=	mata,	Lasqin.
+S3pl	Aorpl	monter	nettoyer	ArtAc	jardin	Topon
+"Ils montèrent nettoyer un jardin, à Lasqin"
+406 Ume	na=	mata,	i=	Ben	ti=	dodom	goro	sur	na=	natu-na,	ka	ti=	lai	na=	botel,	ti=	sumai	ti=	deresa,	gora	na=	sala.
+nettoyer	ArtAc	jardin	ArtP	NP	Aor3sg	jalouser	Dest	ArtAc	enfant-P3sg	Coord	Aor3sg	prendre	ArtAc	bouteille	Aor3sg	venir	Aor3sg	casser	bloquer	ArtAc	route
+"Ils nettoyaient leur jardin; Ben était/fut jaloux à propos de sa fille, alors il prit une bouteille, vint la casser et bloquer la route " (en éparpillant le verre cassé)
+407 Ira=	totoga	vano	le=	te	qon̄i,	ge=	ete:
+S3pl	Red.rester	aller	Loc	NSpec	jour	Aorpl	voir	
+Ils … , et ils y allèrent une autre fois, et virent:
+408 «O,	Ben	i=	u=	deresi	na=	botel,	goro	na=	sala-da. »
+Interj	NP	S3sg	Pft	casser	ArtAc	bouteille	bloquer	ArtAc	route-P1plincl
+«Oh, Ben, il a cassé une bouteille et bloqué notre route.»
+409 Kakaka	no-ra	dodomana	wari	ira=	da	na=	ani	tewa	min	Ben.
+maintenant	CP-P3pl	pensée	Compl	S3pl	faire	ArtAc	chose	une	benef?	Ben
+"A présent, ils ont dans l'idée de jouer un tour à Ben"
+410 Ira=	ge=	vano,	i=	Lenard	mata-n	Elton,	ira=	ge=	vano	tai	na=	bula-na	malogu
+S3pl	Aorpl	aller	ArtP	NP	avec-P3sg	NP	S3pl	Aorpl	aller	couper	ArtAc	CP-P3sg	kava
+"Ils allèrent, Lenard et Elton, ils allèrent couper (un bout de ) son kava."
+411 Bula-na	malogu	kea,	mas	malogu,	mas	malogu
+CP-P3sg	kava	Dem	énorme	kava	énorme	kava
+"Ce plant de kava qu'il avait, il était énorme, énorme." 
+412 Niko=	tura	tavalu-na,	nik=	ti=	saqe	lai	Abae	tea.	
+S2sg	se.tenir.debout	à.côté.de-P3sg	S2sg	Neg1	trouver	Modpot	Topon	Neg2
+"Si tu tenais debout à côté, il te masquait la vue d'Ambae" (litt: tu ne pouvais pas trouver Ambae)	
+413 Ira=	ge=	vano	tai-a,	ge=	lai	sumai,	kami=	ge=	ima.
+S3pl	Aorpl	aller	couper-O3sg	Aorpl	prendre	venir	S1plex	Aorpl	boire
+"Ils sont allés le couper, ils l'ont apporté, et on l'a bu."
+414 Ira=	na=	tamtaragai	malmal	ruaga 	war,
+S3pl	ArtAc	Red.vieux	un.peu	craindre	Compl	
+"Tous les vieux avaient un peu peur
+415 dodoma	war	Ben	ti=	vi=	galegi	na=	malogu	kea-la.
+penser	Compl	NP	Aor3sg	Evit	empoisonner	ArtAc	kava	Dem-Anaph
+ils pensaient/ craignaient que Ben n'aie empoisonné ce kava."
+416 kami=	wa	 «Tigai,	i=	ti=	galegi	tea.
+1plex	dire	non	S3sg	Neg1	empoisonner	Neg2
+Nous avons dit «Non, il ne l'a pas empoisonné.
+417 I	=	ni=	galegi-a,	i=	ni=	galegi-da	na=	varea	odolu	ta	mate.	
+S3sg	Irr	empoisonner-O3sg	S3si	Irr	empoisonner-O1plincl	ArtAc	village	total	Aor1plin	mort
+S'il l'empoisonnait, il tuerait par le poison la totalité du village.
+418 I=	ni=	toga	tau	bea?»
+S3sg	Irr	rester	cont	où
+Où est-ce qu'il vivrait? »"
+419 Te	qon,	kami=	te=	imi-a	baso,	taval	marani,	nau=	ne	vano	tai.	
+Nspec	jour	S1plex	Pft	boire-O3sg	finir	S1sg	Aor1sg	aller	couper
+"Un autre jour, on avai tout bu, le lendemain matin, je suis allé en couper."
+420 Vano	taia	lai	sumai	ge=	ima,	doqala	gini-a	vavano,	
+aller	couper-O3sg	venir	Aorpl	boire	ainsi	Instr-O3sg	Red.aller
+"Je suis allé le couper, je l'ai apporté, on a bu, et ainsi de suite."
+421 Kakaka	ira=	ge=	repotem-kami,	i=	olfala	Mak	Weliv.	
+maintenant	S3pl	Aorpl	dénoncer-O1plex	ArtP	vieux	np
+A ce moment-là, ils nous ont dénoncés.. le vieux Mark Weliv.
+422 I=	reportem-kami,	irana=	polis	sumai,	i=	asesor	Saemon	Bila,	Timoti	Bila.
+S3sg	dénoncer-O1plex	S3pl	ArtAc	police	venir	ArtP	assesseur	NP	np
+"Il nous a dénoncés, et la police est venue.. l'assesser Simon Bila. Timoti Bila."
+423 Sumai	tor	na=	kot	Tanmaeto
+venir	tenir	ArtAc	cour	Topon
+"Ils sont venus, et ils ont tenu un procès à Tanmaeto"
+424 Laqa,	laqa	suri-a,	laqa	vavano,	iri	Lenard	vet		wari	kami=	da	qatagi-na	tani	mata	dat	Gerei.
+parler	parler	suivre-O3sg	parler	RedDur.aller	ArtPPl	NP	dire	Compl	S1plexcl	faire	plant-P3sg	??	jardin	Abl Topon
+« Ils ont parlé, parlé, encore et encore. Lénard a dit que nous avions pris le plant dans le jardin de Gerei. »
+425 Ira=	wa	«O,	tani	mata	dat	Gerei	kea	i=	Ben	i=	riwu	na=	sinaga	ga-da	wurwuri,	va-gani-gida wurwuri.»
+S3pl	Quot	Interj	sol	jardin	Abl	Topon		Dem	ArtP	NP	S3sg	planter	ArtAc	nourriture	CP-P1plincl complètement	Caus-manger-O1plincl	complètement
+« Ils ont dit : « oui, ce jardin de Gerei, c’est Ben qui (y) plante la nourriture, elle nous appartient, elle nous nourrit tous. »
+426 Lalaqa	ti=	baso,	ira=	wa	«Wia,	udu	tura	war	kamu	wurwuri	van	le=	prisin»
+RedDur.parler	Aor	finir	S3pl	Quot	bien	???	se.tenir.debout	Compl I2pl	compléter	aller	Loc	prison
+"Quand ils ont fini de délibérer, ils ont dit : "Bon, … est que vous allez tous aller en prison."
+427 Tau	kami=	mule	sumai,	ira=	wa	«Kam	wa=	mule	sugo,	raregi	na=	aka	Salatoga
+Coord	S1plexcl	rentrer	venir	S3pl	Quot	S2pl	rentrer	descendre	attendre	ArtAc	bateau	np
+"Ensuite, on est rentrés, ils ont dit "En rentrant, attendez le bateau Salatoga."
+428 Salatoga	sumai,	i=	ni=	lai-kamu	laksugo.»
+NP	venir	S3sg	Irr	prendre-O3sg	Deix
+"Quand le Salatoga viendra, il vous y emmènera."
+429 kami=	wa	«Wia»
+S1plexcl	Quot	bien
+"Nous avons dit "Bien.""
+430 kami=	mule	mule	sumai	din̄a	laka,	iri	Mama	mai,	Mama	Jairus	matan	Abigael	sumai be	lagia	lakaga	le=	qon̄iwa.
+S1plexcl	rentrer	rentrer	venir	atteindre	Deix	 ArtPPl père	aussi	père	NP	avec-P3sg	NP	venir	Purp marier	Deix	Loc	jour.de.l’église
+« Nous sommes rentrés jusque ici, et il y avait aussi le Père, le Père Jairus et Abigaël, qui venaient se marier le Jour de l’Église. »
+431 kami=	sumai	toga	laka	totoga,	aka	sumai	ti=	din̄a	le=	qon̄i.
+S1plexcl	venir	rester	Deix	Red.rester	bateau	venir	Aor	atteindre	Loc	nuit
+"Nous sommes venus, nous avons attendu là, le bateau est arrivé le soir."
+432 Bastau	kami=	sugo	van	le=	aka,	vavano,	din̄a	Santo,	
+ensuite	S1plexcl	descendre	aller	Loc	bateau	RedDur.aller	atteindre	Santo
+« Ensuite nous sommes montés dans le bateau, et nous sommes allées à Santo. »
+433 kami=	toga	le=	prisin,	kami=	lebata…	kami=	bulu	lavarua	wurwuri.	
+S1plexcl	rester	Loc	prison	S1plexcl	quelques	S1plexcl	au.total	sept	complètement
+« Nous sommes allés en prisons, on était quelques uns… nous étions sept au total. »
+434 Tau	kami=	bulu	lavatea,	kami=	toga	wula	i-tolu.	
+Coord	S1plex	au.total	sept	S1plexcl	rester	mois	Num-trois
+"Alors nous sept, nous sommes restés trois mois."
+435 I=	Lenard	gase-na	toga	din̄a	wula	i-lavatea.	
+ArtPers	NP	seul-P3sg	rester	atteindre	mois	Num-sept
+"Seul Lénard resta (jusqu'à) sept mois."
+436 Tau	kami=	ge=	mumlmule	talwura.
+Coord	S1plexcl	Aorpl	Red.rentrer	à.nouveau
+"Ensuite nous sommes rentrés"
+437 kia-ga,	ulosi	ga-mi	vetveti,	kami=	mo=	vano	le=	prisin.
+Dem-Cataph	fin	CP-P1plex	récit	S1plexcl	Rel	aller	Loc	prison
+“Voilà, c’est la fin de notre histoire, à nous qui sommes allés en prison”
+
+-------------------------------------------
+438 Dagasnia ira mo asi Taso (TasFW)
+Fredric Wetei
+??/02/2007
+
+439 Sursurigi 	Taso , dagasnia ira=	mo= 	asi-a 	mate
+histoire	NP	comment	S3pl	Rel	frapper-O3sg	mourir
+"Histoire de Taso, comment ils l'ont tué."
+440 Taso	ia	liwo.gangani.
+NP	I3sg	ogre
+"Taso était un ogre."
+441 Tueta,	Taso	toti=	gani-ra	na=	tatua	laka-ga	N̅waewo.
+longtemps	NP	Prog	manger-O3pl	ArtAc	homme	Deix-Prox	Topon
+"Il y a longtemps, Taso mangeait des êtres humains, ici, à Maewo."
+442 Qon̄	tewa,	ira=	ge=	totoga,	ia	me	ratubu-na,	i=	Ron̄watari.
+jour	un	S3pl	Aorpl	RedDur.rester	I3sg	avec	épouse-P3sg	ArtP	np
+"Un jour, ils étaient là, lui et son épouse, Ron̄watari."
+443 Taso	vet	min-ia	wa	«Lai	no-n̄a	gete,	
+NP	dire	Dest-Obl3sg	Quot	procurer	CP-P2sg	panier
+444 gida=	ti=	rasu	vil.vile	oai.»
+S1plincl	Aor1plincl	marcher	RedDetrans.ramasser	nesp.
+"Taso lui dit	 «Prends ton panier, allons ramasser des oai (fruits d'une liane). »"
+445 I= 	Ron̄watari 	lai	no-na 	gete, 	ira= 	ge= 	rasu.
+ArtP	NP	procurer	CP-P3sg	panier	S3pl	Aorpl	marcher
+"Ron̄watari prit son panier, et ils se mirent en marche."
+446 Ira=	ge=	sage	le=	vei	baka,	i=	Ron̄wari	tot=	vilvile	oai.
+S3pl	Aorpl	monter	Loc	dessous	banyan	ArtP	NP	Prog	RedDetrans.ramasser	nesp
+"Ils montèrent jusque sous un banyan, Ron̄watari ramassait des oai."
+447 Taso	vano	taval	baka
+NP	aller	autre.côté	banyan
+"Taso alla de l'autre côté du banyan."	
+448 Ete	sae	le= won̄a-na,	saqe	na=	qona	kat	vene	min	a=	no-n	tiqan̄a.
+regarder	monter	Loc sommet-P3sg	trouver	ArtAc	carcophage	connex	tirer	Dest	Art	CP-P3s	     flèche
+"Il leva les yeux vers sa cime, aperçut un carcophage, et décocha une flèche."
+449 Vene	sae	le=	won̄a-na,	awe	dan	a=	qona,	
+tirer	monter	Loc	cime-P3sg	rater	Abl	Art	carcophage
+"Il tira en l'air vers la cime, et rata le carcophage."
+450 No-na	tiqan̄a	wadan̄e	sugo	virtagi	Ron̄watari.
+CP-P3sg	flèche	tomber	descendre	être.à.côté.de	np
+"Sa flèche tomba à côté de Ron̄watari."
+451 Virtagi-a,	ia=	ti=	lai-a
+être.à.côté.de-O3sg	S3sg	Aor3sg	procurer-O3sg
+"Elle était à côté d'elle, et elle s'en saisit."
+452 I=	Ron̄watari	lai-a	vele	tusi-a,	sogoni	susugo	radu	le=	kere	gete,
+ArtP	NP	procurer-O3sg	casser	casser-O3sg	poser.dans	Red.descendre	loin	Loc	fond	panier
+"Ron̄watari la saisit, la cassa, et l'enfouit profondément au fond de son panier."
+453 rau	souna	na=	lebata	oai,	tau	sugo	le=	kere	gete.	
+enlever	sortir	ArtAc	quelques	nesp	poser	descendre	Loc	fond	panier
+"Elle enlèva quelques oai, et la posa au fond du panier."
+454 Taso	sumai	usi-a	«Ron̄watari,	niko=	ti=	saqe	tea	no-ku	tiqan̄a? »
+NP	venir	interroger-O3sg	NP	S2sg	Neg1	trouver	Neg2	CP-P1sg	flèche
+"Taso vint et lui demanda «Ron̄watari, tu n'as pas trouvé ma flèche?»
+455 I=	ti=	wa	«nau=	ti=	saqe-a	tea».
+S3sg	Aor3sg	Quot	S1sg	Neg1	trouver-O3sg	Neg2
+"Elle dit «Je ne l'ai pas trouvée». "
+456 I=	ti=	wa:	«Tigai,	nau=	vene,
+S3sg	Aor3sg	Quot	non	S1sg	tirer
+457 nau=	ron̄o	n̄were	wadan̄e	sumai	laka	virtagi-ko. »
+S1sg	entendre	être.comme	tomber	venir	Deix	être.à.côté.de-O2sg
+"Il dit: «Non, j'ai tiré, et je l'ai entendue tomber comme si c'était de ton côté »"
+458 I=	ti=	wa:	«Tigai,	nau=	ti=	saqe-a	tea. »
+S3sg	Aor3sg	Quot	non	S1sg	Neg1	trouver-O3sg	Neg2
+"Elle dit «Non, je ne l'ai pas trouvée."
+459 Ia=	wa	«Wia,	go=	toga	etau. »
+S3sg	Quot	bon	Aor2sg	rester	observer
+"Il dit «Bon, reste là à observer»."
+460 Ia	vano	talwura	taval	baka.
+S3sg	aller	faire.à.nouveau	autre.côté	banyan
+"Il retourna de l'autre côté du banyan."
+461 I=	ti=	reve	na=	no-na	usu	sekeragi	na=	no-na	tiqana	sae	wadan̄e	sugo	virtagi	Ron̄watari.
+S3sg	Aor	tirer	ArtAc	CP-P3sg	arc	laisser.partir	ArtAc	CP-P3sg	flèche	monter	tomber descendre	être.à.côté.de 	np
+"Il tire son arc, laisse partir sa flèche en l'air, elle retombe près de Ron̄watari."
+462 Ia=	ti=	vano	usi	wa:	«Bea? »
+S3sg	Aor3sg	aller	interroger	Quot	où
+"Il y va, et demande «Où ça?»"
+463 Ia=	ti=	wa	«Kika! ».
+S3sg	Aor3sg	Quot	Deix
+"Elle dit «Ici! »"
+464 Ia=	ti=	wa	«Ka,	tuara	laka	va!	Go	rau	souna	na=	oai	qa! »
+S3sg	Aor3sg	Quot	connex	autre	Deix	PEN	Aor2sg	enlever	sortir	ArtAc	nesp	PEN
+"Il dit: «Là! L'autre doit être là aussi, tiens. Sors un peu les oai (qu'on voie)»."
+465 I=	ti=	rau	souna	na=	oai	dan	lol	no-na	gete.
+S3sg	Aor3sg	enlever	sortir	ArtAc	nesp	Abl	intérieur	CP-P3sg	panier
+"Elle enleva les oai de l'intérieur du panier."
+466 I=	ti=	saqe	na=	tiqan̄a	mo=	toga	kusu(go)	radu	le=	kere	gete,
+S3sg	Aor3sg	trouver	ArtAc	flèche	Rel	rester	Deix	loin	Loc	fond	panier
+467 mo=	velvel	tusi-a	tau	sugo 
+Rel	RedDetrans.casser	casser-O3sg	poser	descendre
+"Elle trouva  la flèche qui était là tout au fond du panier, la flèche qu'elle avait cassée et posée là."
+468 I=	ti=	wa	«Ka	kika!	Nau=	usi-ko,	niko=	gale! »
+S3sg	Aor3sg	Quot	conne	Deix	S1sg	interroger-O2sg	S2sg	mentir
+"Il dit «Tiens, voilà! Je t'ai posé la question, tu as menti!»"
+469 I=	ti=	sau	na=	ga-na	kere,	asi-a	va-mate-a.
+S3sg	Aor3sg	soulever	ArtAc	CP-P3sg	casse-tête	frapper-O3sg	caus-mourir-O3sg
+"Il leva son casse-tête et l'en tua d'un coup."
+470 Le=	masqala	kea-la,	no-n	wula	baso,	ia=	virtagi	bavbava.
+Loc	époque	Dem-Anaph	CP-P3sg	mois	finir	S3sg	être.à.côté.de	accoucher
+"A cette époque, sa grossesse à terme, elle était près d'accoucher."
+471 Wosag	tau-a	toga	ti=	mule	dan-ia.
+jeter	poser-O3sg	rester	Aor3sg	rentrer	abl-Obl3sg
+"Il la jeta et la laissa là."
+472 Irana=	n̄wera	kea	mo=	toga	le=	taqan̄i-na	ge=	wota	va	ia=	mo=	mate.
+ArtPl	enfant	Dem	Rel	rester	Loc	ventre-P3sg	Aorpl	naître	PEN	S3sg	circ	mourir.
+"Les enfants qui étaient dans son ventre naquirent donc, alors même qu'elle était morte."
+473 Wota	ka	ge=	toga	ge=	rin̄o	taleagi,
+naitre	connex	Aorpl	rester	Aorpl	bouger	aller.au.hasard
+474 toga	ge=	susu	na=	rave-ra.
+rester	Aorpl	téter	ArtAc	mère-P3pl
+"Ils naquirent. Ils bougeaient un peu, et tétaient leur mère."
+475 Ia=	ti=	wa=	daru	wurwuri,	ira=	ge=	toga	ge=	takalo	taleagi	
+S3sg	Aor3sg	Cadr	pourrir	complet	S3pl	Aorpl	rester	Aorpl	ramper	aller.au.hasard
+476 van	saqe	na=	bei	le=	dau	geiga
+aller	trouver	ArtAc	eau	Loc	feuille	arbre
+"Lorsqu'elle fut complètement pourrie, ils se mirent à ramper au hasard, et trouvèrent de l'eau dans une feuille d'arbre."
+477 Ima	vivano	van	le=	qatagi	qena	kae	toga	ge=	susu	na=	qena.
+boire	RedDur.aller	aller	Loc	tronc	nesp	connex.Aorpl	rester	Aorpl	téter	ArtAc	nesp
+"Ils burent, burent, puis allèrent vers le tronc d'un qena et tétèrent le qena."
+478 Susu	vivano,	ira=	ge=	lalata	ge=	rasu	lai,	ka	toga	ge=	rasu	qonagi	ge=	vano.
+têter	RedDur.aller	S3pl	Aorpl	Red.ntens.grand	Aorpl	marcher	modcap	connex	rester	Aorpl	marcher	aller.au.hasard	Aorpl	aller
+"Ils tétèrent, tétèrent, devinrent grands, jusqu'à être capables de marcher, puis se mirent à se promener ça et là."
+479 Rasu	vano	saqe	na=	bei	le=	tumu,	ima,	saqe	na=	orore	ririki,	gani,	gani	din̄a	n̄a.
+marcher	aller	trouver	ArtAc	eau	 Loc	flaque	boire	trouver	ArtAc	RedMultipl.miettes	RedMultipl.petit, 	manger, manger	atteindre	PEN
+"Ils marchaient, trouvaient de l'eau dans les flaques, buvaient, trouvaient des miettes (de nourriture), mangeaient, ne faisaient que manger."
+480 Rasu	vivano	kakaka	ta=	toraga	toga 	ge=	lalata,
+marcher	RedDur.marcher	maintenant	Pft	solide	rester	Aorpl	Red.ntens.grand
+"Ils marchaient, et à présent, ils étaient forts, devenaient grands."
+481 Ira= 	ge= 	rarasu	din̄a 	le=	 masqala	tewa.
+S3pl	Aorpl	RedDur.marcher	atteindre	Loc	endroit	un
+"Ils marchaient, et atteignirent un endroit"
+482 i=	Qatu, marou-ra,  	toga 	min	a= ratubu-na 	ira=	mo=	toga	ala	le=	isa-ra	
+ArtP	NP	oncle-P3pl	rester	Dest	Art	épouse-P3sg	S3pl	Rel	rester	Anaph	Loc	chez.soi-P3pl
+"Qatu, leur oncle, et sa femme y vivaient chez eux."
+483 Ira=	vano	totowoi	le=	masqala	i=	Qatu	mo=	vagani	na=	bula-na	qoe.
+S3pl	aller	aller.tout.droit	Loc	endroit	ArtP	NP	circ	nourrir	ArtAc	CP-P3sg	porc
+"Ils allèrent tout droit à l'endroit où Qatu nourrissait ses porcs."
+484 Ira=	saqe	Qatu,	I=	Qatu	wa=	tai	tau	ni=	wosag	tau	sinaga,	ti=	rasu,	ira=	sugo	lit	souna	na=	qoe,	vile	na=	sinaga	ge=	gani	rasu	taunigi	ge=	gani;
+S3pl	trouver	NP	ArtP	NP	Cadr	couper	connex	Irr	jeter	poser	nourriture	Aor3sg	marcher S3pl	descendre	chasser	enlever	ArtAc	porc	ramasser	ArtAc	nourriture	Aorpl	manger	marcher	(se.)cacher	Aorpl	manger
+"Ils virent Qatu; quand Qatu coupait puis jetait la nourriture, et s'en allait, ils descendaient et chassaient les porcs, ramassaient la nourriture et mangeaient, allaient se cacher et mangeaient."
+485 Kakaka,	ira=	ti-n̄a	rasu	lai	tea,	toga	ala	toga	ge=	gani,	
+maintenant	S3pl	Neg1-PEN	marcher	modcap	Neg2	rester	Anaph	rester	Aorpl	manger
+"Maintenant, ils ne pouvaient plus s'en aller, ils restaient là, à manger."
+486 Marou-ra	tot=	vagan	na=	qoe;	toga	ge=	gani	na=	sinaga	ga	na=	qoe
+oncle-P3pl	Prog	nourrir	ArtAc	porc	rester	Aorpl	manger	ArtAc	nourriture	CP	Art	porc	
+"Leur oncle nourrissait les cochons, et ils mangeaient la nourriture des cochons."
+487 Vivano	valu	roqon̄i,	Qatu	sae	vagan	tau 	wa=	sugo,	qoe	n̄ara	suri-a,	bula-na	dura	n̄ara	suri-a	sugo
+RedDur.aller	chaque	matin	NP	monter	nourrir	connex	Cadr	descendre	porc	pleurer	suivre-O3sg	CP-P3sg	truie	pleurer	suivre-O3sg	descendre
+"Et ainsi, chaque matin, Qatu montait (les) nourrir, puis quand il redescendait, les cochons pleuraient après lui, ses truies pleuraient après lui."
+488 I=	ti=	ete	«tigai,	bula-ku	qoe	ti=	doklaka	tea. »	
+S3sg	Aor3sg	voir	non	CP-P1sg	porc	Neg1	être.ainsi	Neg2
+"Il regardait (se disant) «Non, d'habitude mes cochons ne sont pas ainsi. »"
+489 Qon̄	tewa,	ia=	ti=	lai	na=	sinaga,	tai,	lai	na=	bigbig,	tai	goti
+jour	un	S3sg	Aor3sg	procurer	ArtAc	nourriture	couper	procurer	ArtAc	noix.de.coco couper	racler
+"Un jour, il apporta la nourriture, la coupa, apporta des noix de coco, les racla,"
+490 wosag	min-ira,	tau	sugo	taunigi	le=	udi	sala
+jeter	Dest-Obl3pl	connex	descendre	(se.)cacher	Loc	moitié	route
+"Il les leur jeta, puis descendit se cacher à mi-chemin."
+491 Taunigi	tau	tot=	ete	tau	ete-ra	sage	lua	lua,
+(se.)cacher	connex	Prog	voir	connex	voir-O3pl	monter	sortir	sortir
+"Il était caché, et regardai, et il les vit sortir, sortir,"
+492 irana=	n̄wera	kea	mo=	wiwia,	lumagavi,	tatua	ririki.
+ArtPl	enfants	Dem	Rel	Red.ntens.bon	adolescent	homme 	Red.ntens.petit
+"Ces enfants qui étaient très beaux, des adolescents, de petits hommes."
+493 Tewa	tot	talo	na=	qoe,	tewa	vile.
+un	Prog	chasser	ArtAc	porc	un	ramasser
+"L'un chassait les porcs, et l'autre ramassait."	
+494 Marou-ra	sae,	kat	wa	«Kamu	n̄a=	kea	toga	ge=	lit	na=	bulaku	qoe? »
+oncle-P3pl	monter	connex	Quot	I2pl	PEN	Dem	rester	Aorpl	chasser	ArtAc	CP-P1s	porc
+"Leur oncle remonta et dit «C'est donc vous qui ne cessez de chasser mes porcs? »"
+495 Ira=	ge=	tagoso	doklaka	sekerag	na=	ga-ra	ududi	sinaga.
+S3pl	Aorpl	sursauter	être.ainsi	lâcher	ArtAc	CP-P3pl	RedDistrib.moitié	nourriture
+"Ils sursautèrent comme cela, et lâchèrent la moitié de leur nourriture."
+496 Kae	toga	ge=	n̄worn̄worota	na=	bisu-ra.
+connex.Aorpl	rester	Aorpl	ronger	ArtAc	doigt-P3pl
+"Puis ils se mirent à se mordiller les doigts."
+497 Qatu	wa,	«Tigai,	kare	n̄ara	tea,	ge=	kare	ebe-mu	memea	tea	gin-iau.
+NP	Quot	non	prohib	pleurer	Neg2	Aorpl	prohib	avoir.honte (corps-P2plex rouge)	Neg2	Instr-Obl1sg
+"Qatu leur dit «Non, ne pleurez pas, n'ayez pas honte devant moi! »"
+498 Nau=	ni=usi=kamu	qa,	kamu	sava,	tatua	si	sava?	»
+S1sg	Irr	interroger-O2pl	PEN	I2pl	quoi	homme	ou	quoi
+""Je vais juste vous demander, qu'êtes vous? êtes-vous des humains, ou quoi? »"
+499 Ira=	wa	«niko=	ta=tamtamlun̄a	si	niko=	dodoma	qa,	sava-n̄a	qa	salan̄a? »
+S3pl	Quot	S2sg	Pft	oublier	ou	S2sg	se.souvenir	PEN	quoi-P2sg	PEN	être.perdu
+"Ils dirent «As-tu oublié, ou te souviens-tu? Qu'as-tu perdu? »"
+500 I=	ti=	dodoma,	i=	ti=	wa	«Oo,	kamu	kea	ramrambe-ku	ririki. »
+S3sg	Aor3sg	réfléchir	S3sg	Aor3sg	Quot	oui	I2pl	Dem	RedMultipl.neveu	RedMultipl.petit
+"Il réfléchit, et dit «Oui, vous êtes mes neveux. »"
+501 «Wia,	ge=	sumai.»
+bien	Aorpl	venir
+"«Très bien, venez. »"
+502 Lai-ra	vivano,	tau-ra	le=	val	malo.
+procurer-P3pl	RedDur.aller	poser-O3pl	Loc	maison	natte
+"Ils les emmena, et les mena dans une maison où il conservait des nattes."
+503 Tau-ra	sasae	le=	tawu,	le=	tawu	malo	ge=	toga	ala.
+poser-O3pl	RedDur.monter	Loc	dos	Loc	dos	natte	Aorpl	rester	Anaph
+"Il les emmena, les fit passer derrière les nattes et s'y installer."
+504 I=	ti=	sugo	saqe	na=	ratubu-na	mo=	toga	le=	uma	sumai
+S3sg	Aor3sg	descendre	trouver	ArtAc	épouse	Rel	rester	Loc	jardin	venir
+"Il descendit trouver son épouse, qui revenait du jardin."
+505 I=	ti=	ete	wari	i=	u=	lai	qa	sava	sinaga.
+S3sg	Aor3sg	voir	Compl	S3sg	PftRes	procurer	PEN	quoi	nourriture
+"Il regarda quelle nourriture elle ramenait."
+506 I=	u=	ete	na=	damu	 kea-ga	ia=	mo=	gili,	
+S3sg	PftRes	voir	ArtAc	igname Dem-Cataph	S3sg	Rel	déterrer
+"Il regarda les ignames qu'elle avait déterrées,"
+507 ti-gai	ia	tea	kea-ga	ia	mo=	tarana.
+Neg1-PEN	I3sg	Neg2	Dem-Cataph	S3sg	Rel	aimer
+"il ne s'agissait pas de celles qu'il aimait."
+508 I=	ti=	vet	min-ia	wa:	«Nau=	tarana	wari	niko=	ni=	vano	le=	uma	
+S3sg	Aor3sg	dire	Dest-Obl3sg	dire	S1sg	aimer	Compl	S2sg	Irr	aller	Loc	jardin	
+"Il lui dit:: "J'aimerais que tu ailles au jardin,"
+509 go=	gili	na=	damu	kea-ga	(lakaga	mo=	are	wari	siri	rakraka)	i-rua,	
+Aor2sg	déterrer	ArtAc	igname	Dem-Cataph	Deix	Rel	appeler	Compl	nesp	Num-deux
+«et que tu déterres deux de ces ignames (qu'on appelle ici siri rakraka)"
+510 Gili	na=	damu	i-rua,	lai	sumai. »
+déterrer	ArtAc	igname 	Num-deux	procurer	venir
+"«Déterre deux ignames, rapporte les»"
+511 I=	ti=	sugo	le=	tasi,	vile	na=	vatu,	kea	na=	lakaga	gida=	mo=	vet	wara	Aulau
+S3sg	Aor3sg	descendre	Loc	mer	ramasser	ArtAc	pierre	Dem	PEN	Deix	S1plincl	Rel	dire	Compl	Nesp
+"Il descendit au bord de la mer, ramassa une pierre, celle qu'on appelle ici «Aulau»"
+512 Sugo	vile	sumai	i=	ti=	wa	:
+descendre	ramasser	venir	S3sg	Aor3sg	quot
+"Il descendit, la ramassa, revint, et dit"
+513 «Niko=	ni=tuala	na=	damu	go=	siri	na=	sinaga	n̄were	vatu	kea-ga. »
+S2sg	Irr	rôtir	ArtAc	igname	Aor2sg	éplucher	ArtAc	nourriture	être.comme	pierre	Dem-prox
+"«Tu rôtiras les ignames et puis tu les éplucheras jusqu'à ce qu'elles ressemblent à cette pierre. »"
+514 I=	ti=	tau	na=	vatu	min-ia	ka	ti=	toga	tau
+S3sg	Aor3sg	poser	ArtAc	pierre	Dest-Obl3sg	connex	Aor3sg	rester	poser
+"Il lui donna la pierre, puis attendit."
+515 I=	ti=	tuala	na=	damu	kea-la	kat	siri-a,	siri	siri-a
+S3sg	Aor3sg	rôtir	ArtAc	igname	Dem-Anaph	connex	éplucher-O3sg	éplucher	éplucher-O3sg
+“Elle rôtit les ignames, puis les éplucha, les éplucha,”
+516 ete	ti=	towtowo	ete	min	a=	vatu	kea-la,	siri-a	vavano	ti=	manoga.
+regarder	Aor3sg	comparer	regarder	Dest	Art	pierre Dem-Anaph	éplucher	RedDur.aller	Aor3sg	être.prêt
+" Elle regarda et les compara avec cette pierre, éplucha encore et encore, jusqu'à ce que cela soit prêt."
+517 I=	ti=	are	sae	le=	vale	wa	«Sinaga	te=	manoga! »,
+S3sg	Aor3sg	appeler	monter	Loc	maison	Quot	nourriture	Pft	être.pret	
+"Elle cria vers la maison «Le repas est prêt! »"
+518 I=	ti=	wa	«Go=	lai	sumai	laka.»
+S3sg	Aor3sg	Quot	Aor2sg	procurer	venir	Deix
+"Il dit «Apporte-le ici! »"
+519 I=	ti=	lai	sae	sae	wa	«Sae	sae	lan̄e	na=	malo. »
+S3sg	Aor	procurer	monter	monter	Quot	monter	monter	ouvrir??	ArtAc	nattes
+"Elle l'apporta et vint, elle vint et il lui dit «Viens, écarte les nattes. »"
+520 I=	ti=	sasae	lan̄e,	lan̄e	na=	malo	n̄waraga,	tagoso	gin-ira
+S3sg	Aor3sg	RedDur.monter	ouvrir	ouvrir	ArtAc	natte	nombreux	sursauter	Instr-Obl3pl
+"Elle alla écarter de nombreuses nattes, et sursauta en les voyant."
+521 I=	ti=	wa	«Awe,	sasava-ku	ririki?	na=	tototua-ku	ririki? »
+S3sg	Aor3sg	Quot	interj.	RedMultipl.quoi-P1sg RedMultipl.petit	ArtAc	RedMultipl.frère-P1sg	RedMultipl.petit
+"Elle dit «Oh, que sont-ils pour moi? Mes petits frères? »"
+522 I=	ti=	wa	«Tigai»
+S3sg	Aor3sg	Quot	non
+"Il dit «non»."
+523 «We,	na=	ramrabe-ku	ririki? »
+interj.	ArtAc	RedMultipl l.neveu-P1sg	RedMultipl.petit
+«Alors, mes neveux? »"
+524 «Tigai. »	«Are	na=	natnatu-ku	ririki? »
+non	appeler	ArtAc	RedMultipl.enfant-P1sg	RedMultipl.petit	
+«Non». «Vais-je les appeler mes fils? »
+525 I=	ti=	wa	«Ia	kea-la»
+S3sg	Aor3sg	Quot	I3sg	Dem-Anaph
+Il dit «Voilà, c'est cela. »"
+526 Ira=	ge=	lai-ra	sugo	le=	vale.
+S3pl	Aorpl	procurer-P3pl	descendre	Loc	maison
+"Ils les emmenèrent vers leur maison."
+527 Sugo	toga	ira=	toga	ge=	vevsale	me-ra	vavano,	toga	ge=	vagani-ra
+descendre	rester	S3pl	rester	Aorpl	jouer	avec-O3pl	RedDur.aller	rester	Aorpl	nourrir-O3pl
+"Ils descendirent, et restèrent là, ils jouaient avec eux, les nourrissaient."
+528 Sasava	no-ra	usu	vavavai	be	venvene	tan̄suli,	mumu,	
+couper	CP-P3pl	arc	minuscule	Purp	RedDetrans.tirer.sur	lézard.noir	lézard.vert
+"Ils leur fabriquèrent des arcs minuscules pour chasser le lézard noir et le lézard vert"
+529 Venvene	vivano,	ete	na=	usu
+RedDetrans.tirer.sur	RedDur.aller	regarder	ArtAc	arc
+"Ils chassaient, chassaient, et (un jour) ils regardèrent les arcs."
+530 n̄were …	ira=	mo=	lalata	sae	dan	a=	usu,
+être.comme	S3pl	Rel	Red.ntens.grand	monter	Abl	Art	arc
+“C'était comme…ils étaient trop grands pour les arcs,”
+531 ti-gai	tarisa	me-ra	tea.
+Neg1-PEN	suffire	CP-P3pl	Neg2
+" ils n'étaient pas de la bonne taille pour eux."
+532 Vel	tusi-a	ti=	sasav	tuara.
+casser	casser-O3sg	Aor3sg	couper	autre
+"Ils les cassèrent et en fabriquèrent d'autres."
+533 Venvene	manmanu	ririki	vivano
+RedDetrans.tirer.sur	RedMultipl.oiseau	RedMultipl.petit	RedDur.aller
+"Ils chassèrent toutes sortes de petits oiseaux, encore et encore
+534 Ete	war	usu	ti=	lalata	tarisa	tea,	vel	tusi-a
+regarder	Compl	arc	Neg1	Red.ntens.grand	suffire	Neg2	casser	casser-O3sg
+"Puis ils virent que leurs arcs n'étaient pas assez grands, les cassèrent,"
+535 sasav	gesegese	ia	be	ven	masi	sugo	le=	tasi.
+couper	différent	I3sg	Purp	tirer.sur	poisson	descendre	Loc	mer
+" et en fabriquèrent d'autres pour tirer sur les poissons dans la mer."	
+536 Ira=	tor	na=	usu,	be	sugo	le=	tasi	vivano	ete	war	tarisa,
+S3pl	tenir	ArtAc	arc	Purp	descendre	Loc	mer	RedDur.aller	regarder	Compl	suffire
+"Ils prenaient leurs arcs pour descendre au bord de mer, et (un jour), ils virent qu'ils étaient assez grands"
+537 ira=	ta	lalata	tarisa,	vel	tusi-a	sasavi-a	kea	be	ven	tatua,	
+S3pl	Pft	Red.ntens.grand	suffire	casser	casser-O3sg	fabriquer-O3sg	Dem	Purp	tirer.sur	homme
+"Ils étaient devenus assez grands, ils les cassèrent, et fabriquèrent des arcs pour chasser l'homme."
+538 Vatur	no-ra	ran̄e,	be	ven	tatua,
+mettre.des.pointes.de.flèche.sur.	CP-P3pl	flèche Purp	tirer.sur	homme
+"Ils mirent des pointes à leur flèches pour chasser l'homme."
+539 A=	usu	be	ven	tatua	kea.
+Art	arc	Purp	tirer.sur	homme	dem
+"C'était vraiment un arc pour chasser l'homme."
+540 Ira=	totoga	qon̄	tewa,	ira=	sae	le=	uma,
+S3pl	RedDur.rester	jour	un	S3pl	monter	Loc	jardin
+"Ils restèrent là, et un jour, ils montèrent au jardin".
+541 kat	i=	Qatu	me	ratubu-na	vet	min-ira	kea	i-rua.
+connex	NP	avec	épouse-P3sg	dire	Dest-Obl3pl	Dem	Num-deux
+"Et puis Qatu et sa femme leur dirent:
+542 «Kamu=	ete	na=	rewo	kivano,	kamurua=	vevsale,	vevsale	lakaga	taval-gida,
+S2pl	regarder	ArtAc	colline	Deix	S2du	jouer	jouer	Deix	côté-P1plincl
+"«Vous voyez la colline là-bas? Quand vous jouez, jouez ici près de nous. »"
+543 kare	rasu	taleagi	vano	soai.
+prohib	marcher	aller.au.hasard	aller	loin
+"«Ne vous éloignez pas au hasard. »"
+544 A=	rewo	kea-la,	kamu=	kare	vano	tea	din̄a	ala	kivano	le=	tawu-na,	
+Art	colline	Dem-dist	S2pl	prohib	aller	Neg2	atteindre	Anaph	Deix	Loc	dos-P3sg
+"«Cette colline là, n'allez pas de l'autre côté. »"
+545 Kamu=	kare	van	ala	tea.	 Ira=	wa	«Be	sava? » «Tigai».
+S2pl	prohib	aller	Anaph	Neg2	S3pl	Quot	Purp	quoi	non
+"«N'y allez pas. »" Ils dirent «Pourquoi? ». «Non. »
+546 Ira=tot=	usi	«Be	sava	kami=ti-gai	rasu	tea	vano	le=	taval	rewo	kivano.»
+S3pl Prog	demander	Purp	quoi	S1plex	Neg1-PEN	marcher	Neg2	aller	Loc	autre.côté	colline	Deix
+"Ils demandaient «Pourquoi ne devons nous pas aller de l'autre côté de la colline, là-bas? »"
+547 «Tigai,	liwo.gangani	laka	sasa-na	Taso
+non	ogre	Deix	nom-P3sg	np
+"«Non, il y a un ogre, là-bas; son nom est Taso. »"
+548 Tatua	kea…	gida	laka,	gida=	n̄weraga,	Taso	tot=	gani-ra.
+homme	Dem	I1plincl	Deix	S1plincl	être.nombreux	NP	Prog	manger-O3pl	
+"Cet homme…Nous ici, nous étions nombreux, et Taso mange les gens.
+549 Ia	tatua	seseta,	tot=	gangani	tatua. »
+I3sg	homme	mauvais	Prog	RedDetrans.manger	homme
+" C'est un homme mauvais, il mange de la chair humaine."
+550 ira=	totoga,	kakaka	ira=	ta=	riwu	tau	na=	bula-ra	udi	toga	tau-a.
+S3pl	RedDur.rester	maintenant	S3pl	Pft	planter	poser	ArtAc	CP-P3pl	banane	rester	poser-O3sg
+"Ils s'en tinrent là. A présent, ils avaient planté leurs bananiers, et attendaient."
+551 Ka	ia	kea	ti-qa	matua	tea.	
+connex	I3sg	Dem	Neg1-PEN	mûr	Neg2
+"Et l'un d'entre eux n'était pas encore arrivé à maturité."
+552 Ira=	totoga,	qon̄	tewa	ira=	vet	min-ira,	ira=	ni=	sae	le=	uma,
+S3pl	RedDur.rester	jour	un	S3pl	dire	Dest-Obl3pl	S3pl	Irr	monter	Loc	jardin
+"Ils étaient là, et un jour, ils (les enfants) leur dirent (aux parents) de monter au jardin."
+553 ira=	vet	min-ira	wa	«kamu=	wa=	sae,	ge=	ete	na=	bulami	udi	kea"
+S3pl	dire	Dest-Obl3pl	Quot	S2pl	Cadr	monter	Aorpl	regarder	ArtAc	CP-P1plex	banan	dem
+"Ils leur dire "Quand vous monterez, regardez ce bananier qui nous appartient.»"
+554 Ia=	wa=	totqatugi	le=	qatu	kisae	mena	sugo,	wia.
+S3sg	Cadr	commencer	Loc	tête	Deix	être.mur	descendre	bien
+"Si les bananes commencent à murir depuis le haut, tout va bien»."
+555 Ia=	wa=	totqatugi	le=	  qolo-na	mena	ni=	sae,	kami=mate,	ia=	u=	asi-kami.
+S3sg	Cadr	commencer	Loc  queue-P3sg	mur	Irr	monter	S1plex	mourir	S3sg	pfTr	tuer-O1plex
+"Si elles commencent à mûrir depuis le bas (en remontant), c'est que nous sommes mort, qu'il nous a  tués."
+556 Ira=	sekerag	vano.
+S3pl	partir	aller
+"Ils s'en allèrent."
+557 ira=	vano	vano	vivano	din̄a,	le=	ise	Taso,
+S3pl	aller	aller	RedDur.aller	atteindre	Loc	chez.soi	NP	
+"Ils marchèrent, marchèrent, marchèrent, atteignirent la maison de Taso."
+558 Taso	tigala,	ia=	mo=	sugo	le=	tasi	kir	liwo-na.
+NP	ExistNeg 	S3sg	Rel	descendre	Loc	mer	nettoyer	dent-P3sg
+"Taso n'y était pas, car il était descendu au bord de la mer pour nettoyer ses dents."
+559 ira=	sugo	le=	vale,	saqe	rave-na	
+S3pl	descendre	Loc	maison	trouver	mère-P3sg
+"Ils descendirent vers la maison, et trouvèrent sa mère."
+560 ira=	wa	«I=	Taso	bea? »
+S3pl	Quot	ArtP	NP	où
+"Ils dirent «Où est Taso? »"
+561 «O	Taso	sugo	le=	tasi	kir	liwo-na
+Interj	NP	descendre	Loc	mer	nettoyer	dent-P3sg
+"«Oh, Taso est descendu au bord de la mer pour nettoyer ses dents. »"
+562 Kamu=	sumai	bea? »
+S2pl	venir	où
+"«D'où venez-vous? »"
+563 Ira=	wa=	«kami=	sumai	lakvano»
+S3pl	Quot	S1plex	venir	Deix
+"Ils dirent "Nous venons de là-bas. »"
+564 «Sae	toga	le=	gamal	ligogi-a»
+monter	rester	Loc	nakamal	attendre-O3sg
+"«Allez l'attendre dans le nakamal. »"
+565 ira=	i-rua	sae	toga	le=	gamal,	rave-na	tan̄tan̄i
+S3pl	Num-deux	monter	rester	Loc	nakamal	NP	chanter.une.complainte
+"Ils allèrent s'installer dans le nakamal, et sa mère chanta:
+566 «Taso	saro	saro	ga-n̄a	tatua,	a=	ga-n̄a	tuara,	a=	ga-ku	tuara,	Taso! »
+NP	chercher	chercher	CP-P2sg	homme	Art	CP-P2sg	autre	Art	CP-P1sg	autre 	np
+"«Taso, cherche, cherche des hommes à manger, l'un pour toi, l'autre pour moi, Taso! »"
+567 Ia=	ti=	tan̄tan̄i	va-tewa,	Taso	ti-qa	roron̄o	tea.	
+S3sg	Aor3sg	chanter.une.complainte	occur-un	NP	Neg1-PEN	entendre	Neg2
+"Elle chanta une fois, mais Taso n'avait pas encore entendu."
+568 «Taso	saro	saro	ga-n̄a	tatua,	a=	ga-n̄a	tuara,	a=	ga-ku	tuara,	Taso!
+NP	chercher	chercher	CP-P2sg	homme	Art	CP-P2sg	autre	Art	CP-P1sg	autre 	np
+"«Taso, cherche, cherche des hommes à manger, l'un pour toi, l'autre pour moi, Taso! »"
+569 I=	ti=	ron̄o	saqe	«sava	kea	le=	varea. »
+S1sg	Aor3sg	entendre	trouver	quoi	Dem	Loc	village
+"Il entendit. «Que se passe-t-il au village? »"
+570 Ron̄	doklaka,	tau	na=	liwona	sugo,	tau	-ra	tavalu-na,	tavaragata	sumai,
+entendre	ainsi	poser	ArtAc	dent-P3sg	descendre	poser-O3pl	côté-P3sg	se.lever	venir
+"Il entendit comme cela, posa ses dents par terre à côé de lui, se leva et s'en vint."
+571 susumai	le=	sala	dadaete	wara	liwo-na	kea-ga,	u=	gagani	si	dagasnia?
+RedDur.venir	Loc	route	RedDetrans.essayer	Compl	dent-P3sg	Dem-Prox	PftRes	être.aiguisé	ou	comment
+"Il s'en vint sur la route, et testa ses dents, (pour savoir) si elles étaient bien aiguisées, ou non."
+572 Sumai	rave-na	ti=	tan̄tan̄i	talwura.
+venir	NP	Aor3sg	chanter.une.complainte	à.nouveau
+"Il s'en vint, et sa mère chanta à nouveau."
+573 «Taso	saro	saro	ga-n̄a	tatua,	a=	ga-n̄a	tuara,	a=	ga-ku	tuara,	Taso! »
+NP	chercher	chercher	CP-P2sg	homme	Art	CP-P2sg	autre	Art	CP-P1sg	autre 	np
+"«Taso, cherche, cherche des hommes à manger, l'un pour toi, l'autre pour moi. »"
+574 I=	ti=	sumai,	sumai	susumai,	din̄a	le=	vale.
+S3sg	Aor3sg	venir	venir	RedDur.venir	atteindre	Loc	maison
+"Il s'en vint, s'en vint, s'en vint, et atteignit la maison."
+575 Din̄a	le=	vale	ti=	sugo,	ti-gai	sage	tea	le=	gamal,
+atteindre	Loc	maison	Aor3sg	descendre	Neg1-PEN	monter	Neg2	Loc	nakamal
+" Il atteignit la maison, et descendit, il ne monta pas au nakamal"
+576 sugo	rasu	taval	rave-na.
+descendre	marcher	côté	mère-P3sg
+"mais descendit rejoindre sa mère."
+577 Sugo	wa	«Sava? »
+descendre Quot	quoi
+"Il descendit et dit "Quoi? »"
+578 Rave-na	wa	«Sava-na	sava? 
+mère-P3sg	Quot	quoi-P2sg	quoi
+"Sa mère dit «Quoi, quoi? »"
+579 Na=	lumagavi	i-rua	laksae,	wiwia,	ga-n̄a	tuara,	gaku	tuara. »
+ArtAc	adolescent	Num-deux	Deix	Red.ntens.bien	CP-P2sg	autre	CP-P1sg	autre
+"«Il y a deux hommes là-haut, ils sont magnifiques, l'un pour toi (à manger), l'autre pour moi. »
+580 I=	ti=	tekeragi	sae	i=	sasae	din̄a	le=	gamal	lalan̄au	vano,
+S3sg	Aor3sg	partir	monter	S3sg	monter	atteindre	Loc	nakamal	jeter.un.oeil	aller
+"Il partit, et monta au nakamal, et jeta un œil à l'intérieur."
+581 Ka	ti=	wa	«Kamu	n̄a=	kea? »
+Coord	Aor3sg	Quot	I2pl	PEN	Dem
+"Puis il dit «Il n'y a que vous? »"
+582 «Oo»,	ira=	wa	«Kati	disava? 	Tewtewa	ga-n̄a	va»
+oui	S3pl	Quot	Coord	quoi?	 	RedDistrib.un	CP-P2sg	PEN
+"«Oui», lui dirent-ils, «et puis ensuite? Viens donc nous manger un par un. »"
+583 Ia=	ti=	wa=	vano	suri	tuara,	tuara	ti=	vile	na=	udi	ti=	wose-a
+S3sg	Aor3sg	Cadr	aller	suivre	autre	autre	Aor3sg	ramasser	ArtAc	banane	Aor	lapider
+"Quand il voulut s'en prendre à l'un, l'autre ramassa des bananes et le bombarda."
+584 Sobulagi	sae	le=	tuara	gatama	lalan̄au	vano
+tourner.la.tête	monter	Loc	autre	porte	jeter.un.oeil	aller
+"Il tourna la tête, se diriga vers l'autre porte, jeta un oeil,"
+585 tuara	ti=	vile	na=	udi	ti=	wose-a.
+autre	Aor3sg	ramasser	ArtAc	banane	Aor3sg	lapider-O3sg
+"mais l'autre ramassa des bananes et le bombarda."
+586 Doqala	gin-ia	vavano,	no-ra	udi	baso,	wutuagi	le=	gusa,
+être.ainsi	Instr-Obl3sg	RedDur.aller	CP-P3pl	banane	finir	sauter	Loc	noix.de.coco
+"Et ainsi de suite, cela dura. Lorsque les bananes furent épuisées, ils passèrent aux noix de coco."
+587 vivano	baso	le=	gusa,	vatu,	ira=	mo=	ran̄ai	tau.	
+RedDur.aller	finir	Loc	noix.de.coco	pierre	S3pl	Rel	cuire	contin
+"Puis quand ils en eurent fini avec les noix de coco, ils passèrent aux pierres, qu'ils avaient mises dans le feu et qui y étaient encore."
+588 Vile	na=	vatu	ge=	wose-a.
+ramasser	ArtAc	pierre	Aorpl	lapider-O3sg	
+"Ils ramassèrent les pierres et le bombardèrent."
+589 Tasu	wa	,	«No-mu	dada	wora	nau=	ni=	gani=kamu	qariki»
+NP	Quot	CP-P2pl	Red.omin.faire	seulement	S1sg	Irr	manger-O2pl	aujourd'hui
+"Taso dit, «Ca ne fait rien. Je vous mangerai aujourd'hui même. »"
+590 Vano	suri	tuara,	tuara	veti	«Wose-a! »,	vile	na=	vatu,	ti=	wose-a.
+aller	suivre	autre	autre	dire	lapider-O3sg	ramasser	ArtAc	pierre	Aor3sg	lapider-O3sg
+"Il se dirigea vers l'un, et l'autre dit «Bombarde-le! », il ramassa une pierre, et le bombarda."
+591 «nau=	ni=	gani=kamu	qariki. »
+S1sg	Irr	manger-O2pl	aujourd'hui
+"«Je vous mangerai aujourd'hui même! »
+592 Van	sugo	le=	tuara	gatama,	vile	na=	vatu	ti=	wose-a,
+aller	descendre	Loc	autre	porter	ramasser	ArtAc	pierre	Aor	lapider-O3sg
+"Il descendit vers l'autre porte, l'autre ramassa une pierre et le bombarda."
+593 Vivano	no-ra	vatu	ti=	baso,	suri-na	ti=	galgalo,
+RedDur.aller	CP-P3pl	pierre	Aor3sg	finir	os-P3sg	Aor3sg	être.faible
+"Et ainsi de suite, leurs pierres s'épuisèrent, Taso faiblissait."
+594 Suri-na	galgalo	doklaka,	van	le=	tuara	gatama,
+os-P3sg	être.faible	être.ainsi	aller	Loc	autre	porte	
+"Il faiblissait, comme cela, il alla à l'une des portes,"	
+595 tuara	lai	na=	kere	ti=	asi-a,
+autre	se.procurer	ArtAc	casse-tête	Aor3sg	frapper-O3sg
+" et l'autre prit son casse-tête et l'en frappa."
+596 Van	suri	tuara	le=	tuara	gatama,	lai	na=	no-n	kere	ti=	asi-a.
+aller	suivre	autre	Loc	autre	porte	se.procurer	ArtAc	CP-P3sg	casse-tête	Aor3sg	frapper-O3sg
+"Il alla à l'autre porte, mais il (l'enfant) saisit son casse-tête, et l'en frappa."
+597 Kae	van	sugo	le=	tuara	gatama	tuara	ti=	asi-a	sugo	ti=	vidigi-a.
+connex.Aorpl	aller	descendre	Loc	autre	porte	autre	Aor3sg	frapper-O3sg	descendre	Aor3sg tomber
+"Puis ils descendirent tous les deux vers l'une des portes, et l'un d'entre eux le frappa et le fit tomber."
+598 I=	ti=	mate	ira=	ge=	reve-a	vano	le=	lol	gamali,	
+S3sg	Aor3sg	mourir	S3pl	Aorpl	tirer-O3sg	aller	Loc	intérieur	nakamal
+"Taso mourut, il le tirèrent à l'intérieur du nakamal,"
+599 kae	sugo	suri 	rave-na,	
+connex.Aorpl	descendre	suivre	mère-P3sg
+"puis descendirent voir sa mère."
+600 Sugo	vet	min	rave-na	wa	
+descendre	dire	Dest	mère-P3sg	Quot	
+"Ils descendirent voir sa mère,"	
+601 «I=	Taso	vet	war 	niko=	ni=	soson̄i	na=	lulu	laka-la	le=	gatama	soson̄	dan̄wagu	wurwuri. »
+ArtP	NP	dire	Compl	S2sg	Irr	boucher	ArtAc	trou	Deix-dist	Loc	porter	boucher	faire.bien	complet
+"et dirent «Taso te fait dire de boucher le trou qui est là, dans la porte, de bien le boucher complètement. »"
+602 Soson̄	dan̄wagu	na=	lulu,	da	toraga	na=	gatama	
+boucher	faire.bien	ArtAc	trou	faire	solide	ArtAc	porte
+"Elle boucha le trou correctement, rendant la porte bien solide."
+603 Ira=ge=	sulu	na=	vale	gorogoro-a	kusugo,	sage	ge=	sulu	gorgoro	Taso	kisae,	
+S3pl Aorpl	brûler	ArtAc	maison	enfermer-O3sg	Deix	monter	Aorpl	brûler	enfermer	NP	Deix
+"Ils brûlèrent la maison en l'enfermant dedans, puis montèrent et brûlèrent Taso en l'enfermant là-haut (dans le nakamal)."
+604 Sursurigi	kea-la	baso	laka.
+histoire	Dem-Anaph	finir	Deix
+"Cette histoire se finit ici."
+-------------------------------------------
+Sursurigi suri busi matan wiriu.	
+Histoire du chat et du chien
+(Floed	Wesom)
+BusFW
+605 Qon̄	tewa,	busi	mata-n	wiriu	toga.	
+jour	un	chat	avec-P3sg	chien	rester.
+"Il était une fois un chat et un chien."
+606 Wiriu	ti=	vet	mini-ia	ti=	vetar	irarua=	sae	laksae	le=	uma	tai	na=	bula-ra	uma.	
+chien	Aor3sg	dire	Dest-Obl3sg	dire	S3du	monter	là-haut	Loc	jardin	couper	ArtAc	CP-P3pl	jardin	
+"Chien lui dit qu'ils allaient monter dans leur jardin, pour le tailler. "
+607 Irarua=	ti=	sae	i=	busi	ti=	vetar	ia=	u=	taqan̄i-na gandiri
+S3du	Aor3sg	monter	ArtP	chat	Aor3sg	dire	S3sg	PftRes	ventre-P3sg souffrir
+"Tous les deux montent, et Chat dit qu'il a mal au ventre."
+608 I=	wiriu	ti=	vet	min	i=	busi,	vetar	ia	ni=	mule	sugo	le=	vale.
+ArtP	chien	Aor3sg	dire	Dest	ArtP	chat	dire	S3sg	Irr	rentrer	descendre	Loc	maison
+"Chien dit au chat de Red.scendre et de rentrer à la maison."
+609 Ira=	mo=	kuk	 tau	ga-ra	kuru,	toga	le=	sospen.
+S3pl	Rel	cuisiner	CP-P3pl	poule	rester	Loc	casserole
+"Ils avait cuisiné leur poule, qui se trouvait dans la casserole."
+610 I=	busi	sumai	le=	vale	ti=	gan	na=	kuru,	gan	gas	bani-na,	kati	ira=ge=	sae,	
+ArtP	chat	venir	Loc	maison	Aor3sg	manger	ArtAc	poule	manger	juste	aile-P3sg	Coord	S3pl	AorPl	monter	
+"Chat arrive à la maison, et mange leur poule, il mange juste une aile, puis il remonte,"
+611 sae	ti=	rowo-lua	le=	bula-ra	uma,	i=	wiriu	vet	min-ia	ti=	vetar	"taqan̄i-n̄a baso	gandiri?"
+monter	Aor3sg	Loc	CP-P3pl	jardin	ArtP	chien	dire	Dest-Obl3sg	Aor3sg	dire	ventre-P2sg finir	souffrir
+" il ressort et monte vers leur jardin, et le chien lui dit: "Tu n'as plus mal au ventre?""
+612 I=	ti=	vet	vetar	"o'o".
+S3sg	Aor3sg	dire	dire	oui
+"Il dit "oui"."
+613 Irarua	da	masin̄a,	mule	sumai	le=	vale,	i=	wiriu	ti=	vet	 min	i=	busi	vetara	"niko=	gan	ga-da-rua	kuru!"	
+S3du	faire	travail	rentrer	venir	Loc	maison	ArtP	chien	Aor3sg	dire	Dest	ArtP	chat	dire	S2sg	manger	CP-P1duincl	poule.
+"Tous deux travaillent, ils rentrent à la maison, et le chien dit au chat "Tu as mangé notre poule!""
+614 I=	busi	ti=	vetar	"Tigai".	
+ArtP	chat	Aor3sg	dire	non
+"Le chat dit "Non!""
+615 Irarua=	ti=	gangani,	tau	ti=	van	maturu.
+S3du	Aor3sg	manger	Aor3sg	aller	dormir	
+"Tous deux mangent, puis vont se coucher."
+616 Ira=	ti=	maturu,	maran	sae,	irarua=	ti=	sae,	 tai	na=	
+S3pl	Aor	dormir	jour	monter	S3du	Aor	monter	couper	ArtAc	
+"Ils dorment, le jour se lève, et tous deux montent, s'occuper de leur jardin"
+617 bula-ra	uma,	Busi	vetar	taqan̄i-n	gandiri.	
+CP-P3pl	jardin	chat	dire	ventre-P3sg	souffrir	
+"Le chat dit qu'il a mal au ventre. "
+618 Irarua=	ti=	sugo.
+S3du	Aor	descendre
+"Tous deux redescendent."
+619 mo=	i=	wiriu	tai	na=	bulut	batau,	tau	le=	let	sospen 
+Rel	ArtP	chien	couper	ArtAc	sève	breadfruit	poser	Loc	couvercle	casserole
+"Car le chien avait pris de la sève d'arbre à pain, et l’avait posée sur le couvercle de la casserole;"
+620 i=	busi	ti=	mule	sugo,	ti=	wa=	san̄ava	na=	let	cocot,
+ArtP	chat	Aor3sg	rentrer	descendre	Aor3sg	Cadr	ouvrir	ArtAc	couvercle	casserole	
+"Chat arrive, et veut ouvrir le couvercle de la casserole"
+621 bastau	i=	wiriu	ti=	ron̄	mo=	adin̄ara	na=	let	cocot	sugo	le=	sospen,	i=	ti=	rowo	
+ensuite	ArtP	chien	Aor3sg	entendre	Rel	cogner	ArtAc	couvercle	casserole	descendre	Loc	casserole	S3sg	Aor3sg	courir
+"alors le chien entend se heurter le couvercle et la casserole, il entre en courant, 
+622 ti=	sugo,	ti=	vetar	"Niko 	sinaga 	kea 	mo= 	gani, 	gan	na=	ga-darua	kuru!"
+Aor3sg	descendre	Aor3sg	dire	I2sg	nourriture	Dem	Rel	manger	manger	ArtAc	CP-P1duincl	poule
+"il dit "C'est toi qui a mangé cette nourriture, tu as mangé notre poule à tous les deux!"
+623 I=	ti=	liti-ia,	ti=	sae	le=	won	geiga,	i=	tig	dalai-ia  tea.
+S3sg	Aor3sg	chasser-O3sg	Aor3sg	monter	Loc	haut	arbre	S3sg	Neg1	réussir  	Neg2
+"Il le pourchasse, l'autre monte en haut d'un arbre, et lui ne réussit pas !"
+624 Ka	ti	wesuwesu
+Coord	fini	
+"Maintenant, c'est fini "
+-------------------------------------------
+Dagasnia be da loko kumara.
+Belinda Tamle, Naone, 4/04/2007
+(kumbt)
+
+
+625 nau=	war	vet	dagasnia	be	da	loko	kumara.
+S1sg	vouloir	dire	comment	Purp	faire	laplap	patate.douce
+"Je vais expliquer comment on fait le laplap de patates douces."
+626  mumai	ani 	be	da	loko	kumara,	niko=	sae	le=	uma,	 
+premier	chose	Purp	faire	laplap	patate.douce	S2sg	monter	Loc	jardin	
+"Tout d'abord (litt: la première chose), pour faire du laplap de patates douces, tu montes au jardin,"
+627 gili 	na=	kumara, 	sumai	din̄a	le=	vale,	sibe-a,	
+déterrer	ArtAc	patate.douce	venir	atteindre	Loc	maison	éplucher-O3sg 
+"tu déterres des patates douces, tu rentres à la maison, tu épluches,"
+628 tau	sugo	le=	dis,	kiro-ra,	tau	rase-ra.	
+poser	descendre	Loc 	plat	laver-O3pl	poser	râper-O3pl
+"tu les poses dans un plat, tu les laves, puis tu les râpes."
+629 rase-ra	tau 	baso,	tuvi	na=	umu,	qonoi-a,	
+râper-O3pl	poser	finir	allumer	ArtAc	four	mettre.pierres.dans	
+"tu les râpes, puis tu allumes ton four, tu mets les pierres à chauffer dedans,"
+630 tau	ko=	ras	na=	no-n̄	kumara. 
+poser	S2sg	râper	ArtAc	CP-P2sg	patates.douces	
+"puis tu râpes tes patates douces."
+631 rase-ra	wurwuri	baso,	sira	no-n̄a	bigbig	be	bas	dau	teterag	na=	dau,
+râper-O3pl	complètement	finir	râper	CP-P2sg	coco.vert	Purp	enduire	feuille	étaler	ArtAc feuilles	
+"tu les râpes complètement jusqu'au bout, tu râpes tes noix de coco pour arroser les feuilles."
+632 tau	ko=	wor	na=	bigbig	sugo	le=	wone	dau
+poser	S2sg	arroser.de.lait.de.coco	ArtAc	coco	descendre	Loc 	dessus 	feuilles
+"étale les feuilles, puis verse le lait de coco sur le dessus des feuilles
+633 qon̄	na=	no-n̄a	 	loko	kumara,	qon̄o	vavano
+mélanger	ArtAc	CP-P2sg	laplap	patates.douces 	mélanger	RedDur.aller
+"mélange ton laplap de patates douces, continue de bien mélanger"
+634 i=	ni=	wa=	malumlumu,	niko=go= 	saru-a	sugo	le=	dau,
+S3sg	Irr	Cadr	mou	S2sg	Aor2sg	vider-O3sg	descendre	Loc	feuilles
+"quand il est bien mou, vide le sur les feuilles,"
+635 ko=	wor	na=	bigbig	sae	talwura	le=	wone 	loko.
+S2sg	arroser.de.lait.de.coco	ArtAc	coco	monter	à.nouveau	Loc	dessus	laplap
+"arrose de nouveau de lait de coco le dessus du laplap"
+636 tau	ko=	bas	dan̄wagu-a,	tau	luqe-a;	luq	wurwuri	baso,
+poser	S2sg	enduire	faire.bien-O3sg	poser	couvrir-O3sg	couvrir	complètement	finir
+"puis, tu l’enduis bien, ensuite, tu le couvres. Couvre le complètement,"
+637 nik=ete	na=	no-n̄a	avi,	wa=	manono,	niko=	balat	na= 	umu	kea-la. 
+S2sg	regarder	ArtAc	CP-P2sg	feu	Cadr	éteint	S2sg	enlever.pierres	ArtAc	four	Dem-Anaph
+"Regarde ton feu, si/quand il est éteint, enlève les pierres du four"
+638 balati-a	wurwuri	baso,	tau	na=	loko	vano	le=	lolo	umu
+sortir.pierre-O3sg	complètement	finir	poser	ArtAc	laplap	aller	Loc	intérieur	four
+"sors bien toutes les pierres du four, puis pose le laplap à l'intérieur du four"
+639 tau	ko=	qonoi-a.
+poser	S2sg	couvrir-O3sg
+"puis couvre-le."
+640 quonoi-a	wurwuri	vavano	vatu	wa=	baso 	wurwuri,	
+couvrir-O3sg	complètement	RedDur.aller	pierre	Cadr	finir	complètement	
+"couvre-le complètement, quand toutes les pierres sont posées,"
+641 lai	na=	no-n̄a	dau,	tawi-a,	tau	wurwuri-a	
+prendre	ArtAc	CP-P2sg	feuille	couvrir-O3sg	poser	compléter-O3sg	
+"apporte tes feuilles, et couvre le four avec."
+642 bastau	baso,	toga	 raregi-a
+ensuite	finir	rester	attendre-O3sg
+"Ensuite, attends.»
+643  i=	wa=	manoga,	ale	uwe-a	sumai,	gania.	
+S3sg	Cadr	prêt	Interj	 	ouvrir	venir	manger-O3sg
+"Quand c'est prêt, allez, tu ouvres, il vient, tu le manges."
+644 wiwia.	baso	va.
+Red.bon	finir	PEN
+"merci! C’est fini !"
