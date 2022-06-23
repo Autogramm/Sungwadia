@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Sursurigi_Vatqalqalo1
 # text_en =  Il était une fois, Vatqalqalo, qui vivait avec son époux.
 1	Qon̄	Qon̄	_	_	_	_	_	_	Gloss=jour

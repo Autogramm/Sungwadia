@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Sursurigi_Gatou_matan_Sigo1
 # text_en =  Voilà l'histoire du crabe de cocotier et du martin-pêcheur
 1	Kia	Kia	_	_	_	_	_	_	Gloss=Dem

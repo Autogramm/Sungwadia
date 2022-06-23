@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = 438_Dagasnia_ira_mo_asi_Taso1
 # text_en =  Histoire de Taso, comment ils l'ont tué.
 1	Sursurigi	Sursurigi	_	_	_	_	_	_	Gloss=histoire

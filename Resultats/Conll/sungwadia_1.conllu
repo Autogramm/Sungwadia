@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Waroro1
 # text_en =  Il était une fois un homme et sa femme.
 1	Qon̄	Qon̄	_	_	_	_	_	_	Gloss=jour

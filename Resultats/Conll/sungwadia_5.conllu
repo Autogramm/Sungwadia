@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Qon̄_tewa_ne_Belinda1
 # text_en =  Aujourd'hui, le 8 août, je me suis réveillée le matin
 1	Qariki	Qariki	_	_	_	_	_	_	Gloss=aujourd'hui

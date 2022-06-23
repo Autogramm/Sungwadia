@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Sursurigi_suri_busi_matan_wiriu.1
 # text_en =  Il était une fois un chat et un chien.
 1	Qon̄	Qon̄	_	_	_	_	_	_	Gloss=jour
@@ -110,7 +111,7 @@
 7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
 8	sae	sae	_	_	_	_	_	_	Gloss=monter
 9	tai	tai	_	_	_	_	_	_	Gloss=couper
-10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 
 # sent_id = Sursurigi_suri_busi_matan_wiriu.13
 # text_en =  Le chat dit qu'il a mal au ventre.

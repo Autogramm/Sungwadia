@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Vevsale_irua1
 # text_en =  Un des jeux se passe comme suit. Son nom est Arrache le nafiso.
 1	Vevsale	Vevsale	_	_	_	_	_	_	Gloss=jeu

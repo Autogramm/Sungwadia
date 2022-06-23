@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Vetveti_bei_lata1
 # text_en =   Bien
 1	Wia	Wia	_	_	_	_	_	_	Gloss=bon

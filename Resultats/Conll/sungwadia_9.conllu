@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Vetveti_dagasnia_ira_mo_van_le_prison1
 # text_en =  En 1974, les jeunes ont joué un tour à un vieil homme qui habitait là-bas dans le sud, nommé Ben.
 1	Le=	Le=	_	_	_	_	_	_	Gloss=Loc=

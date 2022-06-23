@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma1
 # text_en =  Maintenant, je vais raconter comment les gens d'avant faisaient leur jardin.
 1	Kakaka	Kakaka	_	_	_	_	_	_	Gloss=maintenant
@@ -578,7 +579,7 @@
 3	ge=	ge=	_	_	_	_	_	_	Gloss=Aor=
 4	lawo	lawo	_	_	_	_	_	_	Gloss=labourer
 5	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=compléter
-6	na=	na=	_	_	_	_	_	_	Gloss=art.ac=
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
 7	uma	uma	_	_	_	_	_	_	Gloss=jardin
 8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
 9	baso	baso	_	_	_	_	_	_	Gloss=finir

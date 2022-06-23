@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Vevsale_min_na=_kad1
 # text_en =  Albertine, tu sais jouer à ce jeu de cartes ?
 1	Albertin	Albertin	_	_	_	_	_	_	Gloss=Albertin
