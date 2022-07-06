@@ -1,317 +1,282 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = Vetveti_bei_lata1
-# text_en =   Bien
-1	Wia	Wia	_	_	_	_	_	_	Gloss=bon
+# text_en = Bien
+1	Wia	wia	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=bon
 
 # sent_id = Vetveti_bei_lata2
-# text_en =  Je vais raconter l'histoire de Bei Lata
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-3	vet.veti	vet.veti	_	_	_	_	_	_	Gloss=Red.dire
-4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-5	vetveti	vetveti	_	_	_	_	_	_	Gloss=histoire
-6	Bei	Bei	_	_	_	_	_	_	Gloss=eau
-7	Lata	Lata	_	_	_	_	_	_	Gloss=grand
+# text_en = Je vais raconter l'histoire de Bei Lata
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+3	vet.veti	vet.veti	VERB	_	_	-1	_	_	Gloss=dire|MGloss=RED~dire|MSeg=vet.veti~t.veti|Reduplicated=Yes
+4	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+5	vetveti	vetveti	NOUN	_	_	-1	_	_	Gloss=histoire
+6	Bei	bei	NOUN	_	_	-1	_	_	Gloss=eau
+7	Lata	lata	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=grand
+8	,	,	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata3
-# text_en =  comment elle naît à Qatiwol, part dans le bush,
-1	dagasnia	dagasnia	_	_	_	_	_	_	Gloss=comment
-2	ia	ia	_	_	_	_	_	_	Gloss=I3sg
-3	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-4	totqatugi	totqatugi	_	_	_	_	_	_	Gloss=commencer
-5	Qatiwol	Qatiwol	_	_	_	_	_	_	Gloss=Topon
-6	van	van	_	_	_	_	_	_	Gloss=aller
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	lolwono	lolwono	_	_	_	_	_	_	Gloss=bush
-
-# sent_id = Vetveti_bei_lata4
-# text_en =  puis coule, vient, et débouche ici, chez nous.
-1	kati	kati	_	_	_	_	_	_	Gloss=Coord
-2	ro.roro	ro.roro	_	_	_	_	_	_	Gloss=Red.couler
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-4	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-6	rowolua	rowolua	_	_	_	_	_	_	Gloss=sortir
-7	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-8	taval	taval	_	_	_	_	_	_	Gloss=chez
-9	-gida	-gida	_	_	_	_	_	_	Gloss=-O1plincl
-10	laka	laka	_	_	_	_	_	_	Gloss=deix
+# text_en = comment elle naît à Qatiwol, part dans le bush,
+1	dagasnia	dagasnia	ADV	_	_	-1	_	_	Gloss=comment
+2	ia	ia	_	_	_	-1	_	_	Gloss=I3sg
+3	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+4	totqatugi	totqatugi	VERB	_	_	-1	_	_	Gloss=commencer
+5	Qatiwol	qatiwol	_	_	_	-1	_	_	Gloss=Topon
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	van	van	VERB	_	_	-1	_	_	Gloss=aller
+8	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+9	lolwono,	lolwono,	NOUN	_	_	-1	_	_	Gloss=bush
 
 # sent_id = Vetveti_bei_lata5
-# text_en =  Bon, son histoire commence ainsi.
-1	Wia	Wia	_	_	_	_	_	_	Gloss=bon
-2	ga	ga	_	_	_	_	_	_	Gloss=CP
-3	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-4	vetveti	vetveti	_	_	_	_	_	_	Gloss=récit
-5	totqatug	totqatug	_	_	_	_	_	_	Gloss=commencer
-6	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
+# text_en = Bon, son histoire commence ainsi.
+1	Wia	wia	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=bon
+2	ga-	ga-	_	_	_	-1	_	_	Gloss=CP-
+3	na	na	_	_	_	-1	_	_	Gloss=P3sg
+4	vetveti	vetveti	_	_	_	-1	_	_	Gloss=récit
+5	totqatug	totqatug	VERB	_	_	-1	_	_	Gloss=commencer
+6	doklaka	doklaka	ADV	_	_	-1	_	_	Gloss=ainsi
+7	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata6
-# text_en =  Un jour, il y eut une grosse pluie, il plut, plut, plut
-1	Qon̄	Qon̄	_	_	_	_	_	_	Gloss=jour
-2	tewa	tewa	_	_	_	_	_	_	Gloss=un
-3	mas	mas	_	_	_	_	_	_	Gloss=gros
-4	usa	usa	_	_	_	_	_	_	Gloss=pluie
-5	usa	usa	_	_	_	_	_	_	Gloss=pluie
-6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-7	usa	usa	_	_	_	_	_	_	Gloss=pluie
-8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-9	usa	usa	_	_	_	_	_	_	Gloss=pluie
-10	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-11	usa	usa	_	_	_	_	_	_	Gloss=pluie
+# text_en = Un jour, il y eut une grosse pluie, il plut, plut, plut
+1	Qoŋ	Qoŋ	NOUN	_	_	-1	_	_	Gloss=jour
+2	tewa	tewa	DET	_	_	-1	_	_	Gloss=un
+3	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+4	mas	mas	ADJ	_	_	-1	_	_	Gloss=gros
+5	usa	usa	NOUN	_	_	-1	_	_	Gloss=pluie
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	usa	usa	NOUN	_	_	-1	_	_	Gloss=pluie
+8	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+9	usa,	usa,	NOUN	_	_	-1	_	_	Gloss=pluie
+10	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+11	usa,	usa,	NOUN	_	_	-1	_	_	Gloss=pluie
+12	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+13	usa,	usa,	NOUN	_	_	-1	_	_	Gloss=pluie
 
 # sent_id = Vetveti_bei_lata7
-# text_en =  cette eau courut, arracha un tronc de sagoutier,
-1	bei	bei	_	_	_	_	_	_	Gloss=eau
-2	kea	kea	_	_	_	_	_	_	Gloss=Dem
-3	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-5	rowo	rowo	_	_	_	_	_	_	Gloss=courir
-6	wut(u)	wut(u)	_	_	_	_	_	_	Gloss=arracher
-7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-8	qatai	qatai	_	_	_	_	_	_	Gloss=tronc
-9	takura	takura	_	_	_	_	_	_	Gloss=sagoutier
-10	tewa	tewa	_	_	_	_	_	_	Gloss=un
+# text_en = cette eau courut, arracha un tronc de sagoutier,
+1	bei	bei	NOUN	_	_	-1	_	_	Gloss=eau
+2	kea-	kea-	_	_	_	-1	_	_	Gloss=Dem-
+3	la	la	_	_	_	-1	_	_	Gloss=Anaph
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+5	rowo,	rowo,	VERB	_	_	-1	_	_	Gloss=courir
+6	wut(u)	wut(u)	VERB	_	_	-1	_	_	Gloss=arracher
+7	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+8	qatai	qatai	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=tronc
+9	takura	takura	NOUN	_	_	-1	_	_	Gloss=sagoutier
+10	tewa	tewa	DET	_	_	-1	_	_	Gloss=un
+11	,	,	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata8
-# text_en =  l'emporta et coula avec lui, vint, vint, vint,
-1	lai	lai	_	_	_	_	_	_	Gloss=porter
-2	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-4	roro	roro	_	_	_	_	_	_	Gloss=courir
-5	me	me	_	_	_	_	_	_	Gloss=avec
-6	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-8	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-10	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-11	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-12	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+# text_en = l'emporta et coula avec lui, vint, vint, vint,
+1	lai	lai	VERB	_	_	-1	_	_	Gloss=porter
+2	-a	-a	_	_	_	-1	_	_	Gloss=-O3sg
+3	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+4	roro	roro	VERB	_	_	-1	_	_	Gloss=courir
+5	me	me	ADP	_	_	-1	_	_	Gloss=avec
+6	-a	-a	_	_	_	-1	_	_	Gloss=-O3sg
+7	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+8	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+9	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+10	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+11	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+12	sumai,	sumai,	VERB	_	_	-1	_	_	Gloss=venir
 
 # sent_id = Vetveti_bei_lata9
-# text_en =  au sommet de ce sagoutier… de nombreux perroquets se trouvaient au sommet de ce sagoutier
-1	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-2	won	won	_	_	_	_	_	_	Gloss=sommet
-3	takura	takura	_	_	_	_	_	_	Gloss=sagoutier
-4	kea	kea	_	_	_	_	_	_	Gloss=Dem
-5	-la,…	-la,…	_	_	_	_	_	_	Gloss=-Anaph
-6	mawut	mawut	_	_	_	_	_	_	Gloss=nombreux
-7	siviru	siviru	_	_	_	_	_	_	Gloss=perroquet
-8	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-9	toga	toga	_	_	_	_	_	_	Gloss=rester
-10	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-11	won	won	_	_	_	_	_	_	Gloss=sommet
-12	takura	takura	_	_	_	_	_	_	Gloss=sagoutier
+# text_en = au sommet de ce sagoutier… de nombreux perroquets se trouvaient au sommet de ce sagoutier
+1	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+2	won	won	NOUN	_	_	-1	_	_	Gloss=sommet
+3	takura	takura	NOUN	_	_	-1	_	_	Gloss=sagoutier
+4	kea-	kea-	_	_	_	-1	_	_	Gloss=Dem-
+5	la	la	_	_	_	-1	_	_	Gloss=Anaph
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	…	…	_	_	_	-1	_	_	Gloss=Dem-Anaph
+8	mawut	mawut	ADJ	_	_	-1	_	_	Gloss=nombreux
+9	siviru	siviru	NOUN	_	_	-1	_	_	Gloss=perroquet
+10	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+11	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+12	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+13	won	won	NOUN	_	_	-1	_	_	Gloss=sommet
+14	takura	takura	NOUN	_	_	-1	_	_	Gloss=sagoutier
+15	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata10
-# text_en =  Ensuite, cette eau emporte le sagoutier,
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
-2	bei	bei	_	_	_	_	_	_	Gloss=eau
-3	kea	kea	_	_	_	_	_	_	Gloss=Dem
-4	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-5	lai	lai	_	_	_	_	_	_	Gloss=porter
-6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-7	takura	takura	_	_	_	_	_	_	Gloss=sagoutier
-8	roro	roro	_	_	_	_	_	_	Gloss=couler
-9	me	me	_	_	_	_	_	_	Gloss=avec
-10	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-11	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+# text_en = Ensuite, cette eau emporte le sagoutier,
+1	Bastau	bastau	ADV	_	_	-1	_	_	Gloss=ensuite
+2	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+3	bei	bei	NOUN	_	_	-1	_	_	Gloss=eau
+4	kea-	kea-	_	_	_	-1	_	_	Gloss=Dem-
+5	la	la	_	_	_	-1	_	_	Gloss=Anaph
+6	lai	lai	VERB	_	_	-1	_	_	Gloss=porter
+7	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+8	takura	takura	NOUN	_	_	-1	_	_	Gloss=sagoutier
+9	roro	roro	VERB	_	_	-1	_	_	Gloss=couler
+10	me	me	ADP	_	_	-1	_	_	Gloss=avec
+11	-a	-a	_	_	_	-1	_	_	Gloss=-O3sg
+12	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+13	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata11
-# text_en =  et continue sa route.
-1	Sumai	Sumai	_	_	_	_	_	_	Gloss=venir
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-3	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-5	su.sumai	su.sumai	_	_	_	_	_	_	Gloss=Red.venir
+# text_en = et continue sa route.
+1	Sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+3	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+5	su.sumai.	su.sumai.	VERB	_	_	-1	_	_	Gloss=venir|MGloss=RED~venir|MSeg=su.sumai~.sumai.|Reduplicated=Yes
 
 # sent_id = Vetveti_bei_lata12
-# text_en =  Elle descend et atteind le marais à Gara.
-1	Su.su(go)	Su.su(go)	_	_	_	_	_	_	Gloss=Red.descendre
-2	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-3	buaka	buaka	_	_	_	_	_	_	Gloss=marais
-4	Gara	Gara	_	_	_	_	_	_	Gloss=Topon
+# text_en = Elle descend et atteind le marais à Gara.
+1	Su	su	VERB	_	_	-1	_	_	Gloss=descendre|MGloss=RED~descendre|Reduplicated=Yes
+2	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+3	su(go)	su(go)	VERB	_	_	-1	_	_	Gloss=descendre|MGloss=RED~descendre|Reduplicated=Yes
+4	diŋa	diŋa	VERB	_	_	-1	_	_	Gloss=atteindre
+5	buaka	buaka	NOUN	_	_	-1	_	_	Gloss=marais
+6	Gara	gara	_	_	_	-1	_	_	Gloss=Topon
+7	,	,	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata13
-# text_en =  elle a entendu le bruit du casuarina qui.. le vent souffle dedans, il bruisse.
-1	Ron̄o	Ron̄o	_	_	_	_	_	_	Gloss=entendre
-2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-3	n̄ovi	n̄ovi	_	_	_	_	_	_	Gloss=bruit
-4	aru	aru	_	_	_	_	_	_	Gloss=casuarina
-5	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-6	toti…	toti…	_	_	_	_	_	_	Gloss=Prog
-7	lan̄i	lan̄i	_	_	_	_	_	_	Gloss=vent
-8	seregi	seregi	_	_	_	_	_	_	Gloss=souffler.dans
-9	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-10	tot	tot	_	_	_	_	_	_	Gloss=Prog
-11	n̄wan̄wa	n̄wan̄wa	_	_	_	_	_	_	Gloss=bruisser
+# text_en = elle a entendu le bruit du casuarina qui… le vent souffle dedans, il bruisse.
+1	Roŋo	Roŋo	VERB	_	_	-1	_	_	Gloss=entendre
+2	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+3	ŋovi	ŋovi	NOUN	_	_	-1	_	_	Gloss=bruit
+4	aru	aru	VERB	_	_	-1	_	_	Gloss=casuarina
+5	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+6	toti…	toti…	_	_	_	-1	_	_	Gloss=Prog
+7	laŋi	laŋi	NOUN	_	_	-1	_	_	Gloss=vent
+8	seregi	seregi	_	_	_	-1	_	_	Gloss=souffler.dans
+9	-a	-a	_	_	_	-1	_	_	Gloss=-O3sg
+10	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+11	toga	toga	CCONJ	_	_	-1	_	_	Amal=tot
+12	ge	ge	_	_	_	-1	_	_	Gloss=Prog
+13	ŋwaŋwa	ŋwaŋwa	VERB	_	_	-1	_	_	Gloss=bruisser
+14	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata14
-# text_en =  Elle entend et se dit Non, si je vais par là… il y a déjà une rivière qui passe ici…
-1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-3	ron̄o	ron̄o	_	_	_	_	_	_	Gloss=entendre
-4	wa	wa	_	_	_	_	_	_	Gloss=Quot
-5	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
-6	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-7	wa=	wa=	_	_	_	_	_	_	Gloss=si=
-8	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-9	laka	laka	_	_	_	_	_	_	Gloss=Deix
-10	…mo=	…mo=	_	_	_	_	_	_	Gloss=caus=
-11	bei	bei	_	_	_	_	_	_	Gloss=eau
-12	tewa	tewa	_	_	_	_	_	_	Gloss=une
-13	tot	tot	_	_	_	_	_	_	Gloss=Prog
-14	tau	tau	_	_	_	_	_	_	Gloss=poser??
-15	laksugo	laksugo	_	_	_	_	_	_	Gloss=deix
+# text_en = Elle entend et se dit Non, si je vais par là… il y a déjà une rivière qui passe ici…
+1	I=	I=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+3	roŋo	roŋo	VERB	_	_	-1	_	_	Gloss=entendre
+4	wa	wa	_	_	_	-1	_	_	Gloss=Quot
+5	"	"	_	_	_	-1	_	_	Gloss=PUNCT
+6	Tigai	tigai	ADV	_	_	-1	_	_	Gloss=non
+7	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+8	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	wa=	wa=	_	_	_	-1	_	_	Gloss=si=
+10	sugo	sugo	VERB	_	_	-1	_	_	Gloss=descendre
+11	laka	laka	_	_	_	-1	_	_	Gloss=Deix
+12	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+13	…	…	_	_	_	-1	_	_	Gloss=Deix
+14	mo=	mo=	_	_	_	-1	_	_	Gloss=Caus=
+15	bei	bei	NOUN	_	_	-1	_	_	Gloss=eau
+16	tewa	tewa	DET	_	_	-1	_	_	Gloss=un
+17	toga	toga	CCONJ	_	_	-1	_	_	Amal=tot
+18	ge	ge	_	_	_	-1	_	_	Gloss=Prog
+19	tau	tau	_	_	_	-1	_	_	Gloss=poser??
+20	laksugo	laksugo	_	_	_	-1	_	_	Gloss=Deix
+21	"	"	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata15
-# text_en =  Et elle repart en arrière.
-1	ka	ka	_	_	_	_	_	_	Gloss=Coord
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-3	talwura	talwura	_	_	_	_	_	_	Gloss=revenir.en.arrière
-4	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
-
-# sent_id = Vetveti_bei_lata16
-# text_en =  Elle a fait chemin arrière, et puis elle est venue, venue, et arrivée ici, à Ruos
-1	Talewura	Talewura	_	_	_	_	_	_	Gloss=revenir.en.arrière
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-3	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-5	su.sumai	su.sumai	_	_	_	_	_	_	Gloss=Red.venir
-6	ka	ka	_	_	_	_	_	_	Gloss=Coord
-7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-8	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-9	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-10	kika	kika	_	_	_	_	_	_	Gloss=Deix
-11	Ruos	Ruos	_	_	_	_	_	_	Gloss=Topon
+# text_en = Et elle repart en arrière.
+1	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+3	talwura	talwura	_	_	_	-1	_	_	Gloss=revenir.en.arrière
+4	talwura	talwura	_	_	_	-1	_	_	Gloss=à.nouveau
+5	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata17
-# text_en =  elle a coulé là, est descendue vers Tavalavale, est venue à Qatnasivrowo, à son sommet
-1	roro	roro	_	_	_	_	_	_	Gloss=couler
-2	ala	ala	_	_	_	_	_	_	Gloss=Anaph
-3	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-4	Tavalvale	Tavalvale	_	_	_	_	_	_	Gloss=Topon
-5	su.sumai	su.sumai	_	_	_	_	_	_	Gloss=Red.venir
-6	Qatnasivrowo	Qatnasivrowo	_	_	_	_	_	_	Gloss=Topon
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	won̄a	won̄a	_	_	_	_	_	_	Gloss=sommet
-9	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+# text_en = elle a coulé là, est descendue vers Tavalavale, est venue à Qatnasivrowo, à son sommet
+1	roro	roro	VERB	_	_	-1	_	_	Gloss=couler
+2	ala	ala	_	_	_	-1	_	_	Gloss=Anaph
+3	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+4	sugo	sugo	VERB	_	_	-1	_	_	Gloss=descendre
+5	Tavalvale	tavalvale	_	_	_	-1	_	_	Gloss=Topon
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	su	su	VERB	_	_	-1	_	_	Gloss=venir|MGloss=RED~venir|Reduplicated=Yes
+8	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+9	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir|MGloss=RED~venir|MSeg=sumai~mai|Reduplicated=Yes
+10	Qatnasivrowo	qatnasivrowo	_	_	_	-1	_	_	Gloss=Topon
+11	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+12	woŋa-	woŋa-	_	_	_	-1	_	_	Gloss=sommet-
+13	na,	na,	_	_	_	-1	_	_	Gloss=P3sg
 
 # sent_id = Vetveti_bei_lata18
-# text_en =  Au sommet de cette colline, elle l’a jeté, elle a jeté ce sagoutier
-1	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-2	won	won	_	_	_	_	_	_	Gloss=sommet
-3	rewo	rewo	_	_	_	_	_	_	Gloss=colline
-4	kea	kea	_	_	_	_	_	_	Gloss=Dem
-5	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-6	wosagi	wosagi	_	_	_	_	_	_	Gloss=jeter
-7	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-8	wosag	wosag	_	_	_	_	_	_	Gloss=jeter
-9	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-10	takura	takura	_	_	_	_	_	_	Gloss=sagoutier
-11	let	let	_	_	_	_	_	_	Gloss=??
+# text_en = Au sommet de cette colline, elle l’a jeté, elle a jeté ce sagoutier
+1	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+2	won	won	NOUN	_	_	-1	_	_	Gloss=sommet
+3	rewo	rewo	NOUN	_	_	-1	_	_	Gloss=colline
+4	kea-	kea-	_	_	_	-1	_	_	Gloss=Dem-
+5	la	la	_	_	_	-1	_	_	Gloss=Anaph
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	wosagi	wosagi	VERB	_	_	-1	_	_	Gloss=jeter
+8	-a	-a	_	_	_	-1	_	_	Gloss=-O3sg
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+10	wosag	wosag	VERB	_	_	-1	_	_	Gloss=jeter
+11	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+12	takura	takura	NOUN	_	_	-1	_	_	Gloss=sagoutier
+13	let	let	_	_	_	-1	_	_	Gloss=??
+14	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata19
-# text_en =  Elle l’a jeté puis elle a formé une chute d’eau à Qilorua
-1	Wosagi	Wosagi	_	_	_	_	_	_	Gloss=jeter
-2	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-3	ka	ka	_	_	_	_	_	_	Gloss=Coord
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-5	sarwutu	sarwutu	_	_	_	_	_	_	Gloss=tomber.en.chute
-6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-7	Qilorua	Qilorua	_	_	_	_	_	_	Gloss=Qilorua
+# text_en = Elle l’a jeté puis elle a formé une chute d’eau à Qilorua
+1	Wosagi	wosagi	VERB	_	_	-1	_	_	Gloss=jeter
+2	-a	-a	_	_	_	-1	_	_	Gloss=-O3sg
+3	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+5	sarwutu	sarwutu	_	_	_	-1	_	_	Gloss=tomber.en.chute
+6	sugo	sugo	VERB	_	_	-1	_	_	Gloss=descendre
+7	Qilorua	qilorua	_	_	_	-1	_	_	Gloss=Topon
+8	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata20
-# text_en =  Les nombreux perroquets qui se tenaient sur le sagoutier s'échappèrent un par un.
-1	Siviru	Siviru	_	_	_	_	_	_	Gloss=perroquet
-2	n̄waraga	n̄waraga	_	_	_	_	_	_	Gloss=nombreux
-3	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-4	toga	toga	_	_	_	_	_	_	Gloss=rester
-5	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-6	wone	wone	_	_	_	_	_	_	Gloss=sommet
-7	takura	takura	_	_	_	_	_	_	Gloss=sagoutier
-8	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl=
-9	rowrowo	rowrowo	_	_	_	_	_	_	Gloss=Red.courir
-10	ririk	ririk	_	_	_	_	_	_	Gloss=Red.petit
-
-# sent_id = Vetveti_bei_lata21
-# text_en =  Et on a appelé ce bassin les Deux-Bassins
-1	Kae	Kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
-2	are	are	_	_	_	_	_	_	Gloss=appeler
-3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-4	qilo	qilo	_	_	_	_	_	_	Gloss=bassin
-5	kea	kea	_	_	_	_	_	_	Gloss=Dem
-6	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-7	are	are	_	_	_	_	_	_	Gloss=appeler
-8	war	war	_	_	_	_	_	_	Gloss=dire
-9	Qilo	Qilo	_	_	_	_	_	_	Gloss=bassin
-10	Rua	Rua	_	_	_	_	_	_	Gloss=deux
-
-# sent_id = Vetveti_bei_lata22
-# text_en =  On a appelé le … là-haut à son sommet, on l'a appelé Qatnasivrowo (la chute des perroquets qui s'envolent)
-1	Are	Are	_	_	_	_	_	_	Gloss=appeler
-2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-3	qatseuse	qatseuse	_	_	_	_	_	_	Gloss=chute.d'eau
-4	kisae	kisae	_	_	_	_	_	_	Gloss=Deix
-5	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-6	won̄a	won̄a	_	_	_	_	_	_	Gloss=sommet
-7	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-8	are	are	_	_	_	_	_	_	Gloss=appeler
-9	wa	wa	_	_	_	_	_	_	Gloss=Quot
-10	Qatnasivrowo	Qatnasivrowo	_	_	_	_	_	_	Gloss=Topon
+# text_en = Les nombreux perroquets qui se tenaient sur le sagoutier s'échappèrent un par un.
+1	Siviru	siviru	NOUN	_	_	-1	_	_	Gloss=perroquet
+2	ŋwaraga	ŋwaraga	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=nombreux
+3	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+4	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+5	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+6	wone	wone	NOUN	_	_	-1	_	_	Gloss=sommet
+7	takura	takura	NOUN	_	_	-1	_	_	Gloss=sagoutier
+8	ge=	ge=	_	_	_	-1	_	_	Gloss=Aorpl=
+9	rowrowo	rowrowo	VERB	_	_	-1	_	_	Gloss=courir|MGloss=RED~courir|MSeg=row~rowo|Reduplicated=Yes
+10	ririk	ririk	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=petit|MGloss=RED~petit|MSeg=ri~rik|Reduplicated=Yes
+11	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata23
-# text_en =  (parce qu'elle?) coule à Qatnasivrowo, et descend ensuite à Qilorua
-1	mo=	mo=	_	_	_	_	_	_	Gloss=caus?=
-2	roro	roro	_	_	_	_	_	_	Gloss=couler
-3	Qatnasivrowo	Qatnasivrowo	_	_	_	_	_	_	Gloss=Topon
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-6	Qilorua	Qilorua	_	_	_	_	_	_	Gloss=Topon
-
-# sent_id = Vetveti_bei_lata24
-# text_en =  Ensuite, cette eau coule, s'en vient, s'en vient, et atteind la crique, ici,et s'en va dans la mer.
-1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
-2	bei	bei	_	_	_	_	_	_	Gloss=eau
-3	kea	kea	_	_	_	_	_	_	Gloss=Dem
-4	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-6	roro	roro	_	_	_	_	_	_	Gloss=couler
-7	su.sumai	su.sumai	_	_	_	_	_	_	Gloss=Red.venir
-8	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-9	kika	kika	_	_	_	_	_	_	Gloss=Deix
-10	ka	ka	_	_	_	_	_	_	Gloss=??
-11	kerebei	kerebei	_	_	_	_	_	_	Gloss=crique(fond.eau)
-12	van	van	_	_	_	_	_	_	Gloss=aller
-13	varea	varea	_	_	_	_	_	_	Gloss=dehors
-14	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-15	tasi	tasi	_	_	_	_	_	_	Gloss=mer
+# text_en = (parce qu'elle?) coule à Qatnasivrowo, et descend ensuite à Qilorua
+1	mo=	mo=	_	_	_	-1	_	_	Gloss=Circ=
+2	roro	roro	VERB	_	_	-1	_	_	Gloss=couler
+3	Qatnasivrowo	qatnasivrowo	_	_	_	-1	_	_	Gloss=Topon
+4	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+5	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+6	sugo	sugo	VERB	_	_	-1	_	_	Gloss=descendre
+7	Qilorua	qilorua	_	_	_	-1	_	_	Gloss=Topon
+8	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata25
-# text_en =  ce récit de la rivière, c’est celui là, de comment elle commence là-haut à Qatewoli, et coule jusqu’à ressortir ici.
-1	Vetveti	Vetveti	_	_	_	_	_	_	Gloss=récit
-2	bei	bei	_	_	_	_	_	_	Gloss=eau
-3	kea	kea	_	_	_	_	_	_	Gloss=Dem
-4	ia	ia	_	_	_	_	_	_	Gloss=I3sg
-5	kea	kea	_	_	_	_	_	_	Gloss=Dem
-6	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-7	dagasnia	dagasnia	_	_	_	_	_	_	Gloss=comment
-8	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-9	totqatug	totqatug	_	_	_	_	_	_	Gloss=commencer
-10	laksae	laksae	_	_	_	_	_	_	Gloss=Deix
-11	qatewoli	qatewoli	_	_	_	_	_	_	Gloss=Topon
-12	roro	roro	_	_	_	_	_	_	Gloss=couler
-13	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-14	lua	lua	_	_	_	_	_	_	Gloss=sortir
-15	laka	laka	_	_	_	_	_	_	Gloss=ici
+# text_en = ce récit de la rivière, c’est celui là, de comment elle commence là-haut à Qatewoli, et coule jusqu’à ressortir ici.
+1	Vetveti	vetveti	_	_	_	-1	_	_	Gloss=récit
+2	bei	bei	NOUN	_	_	-1	_	_	Gloss=eau
+3	kea	kea	_	_	_	-1	_	_	Gloss=Dem
+4	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+5	ia	ia	_	_	_	-1	_	_	Gloss=I3sg
+6	kea	kea	_	_	_	-1	_	_	Gloss=Dem
+7	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+8	dagasnia	dagasnia	ADV	_	_	-1	_	_	Gloss=comment
+9	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+10	totqatug	totqatug	VERB	_	_	-1	_	_	Gloss=commencer
+11	laksae	laksae	_	_	_	-1	_	_	Gloss=Deix
+12	qatewoli	qatewoli	_	_	_	-1	_	_	Gloss=Topon
+13	roro	roro	VERB	_	_	-1	_	_	Gloss=couler
+14	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+15	lua	lua	VERB	_	_	-1	_	_	Gloss=sortir
+16	laka	laka	ADV	_	_	-1	_	_	Gloss=ici
+17	.	.	_	_	_	-1	_	_	Gloss=PUNCT
 
 # sent_id = Vetveti_bei_lata26
-# text_en =  Voilà donc l'histoire de la rivière.
-1	Ia	Ia	_	_	_	_	_	_	Gloss=I3sg
-2	va	va	_	_	_	_	_	_	Gloss=PEN
-3	kia	kia	_	_	_	_	_	_	Gloss=Dem
-4	-ga	-ga	_	_	_	_	_	_	Gloss=-Cataph
-5	va	va	_	_	_	_	_	_	Gloss=PEN
-6	vetveti	vetveti	_	_	_	_	_	_	Gloss=récit
-7	Bei	Bei	_	_	_	_	_	_	Gloss=eau
-
+# text_en = Voilà donc l'histoire de la rivière.
+1	Ia	ia	_	_	_	-1	_	_	Gloss=I3sg
+2	=va	=va	_	_	_	-1	_	_	Gloss==PEN
+3	kia-	kia-	_	_	_	-1	_	_	Gloss=Dem-
+4	ga	ga	_	_	_	-1	_	_	Gloss=Cataph
+5	=va	=va	_	_	_	-1	_	_	Gloss==PEN
+6	vetveti	vetveti	_	_	_	-1	_	_	Gloss=récit
+7	Bei	bei	NOUN	_	_	-1	_	_	Gloss=eau
+8	.	.	_	_	_	-1	_	_	Gloss=PUNCT

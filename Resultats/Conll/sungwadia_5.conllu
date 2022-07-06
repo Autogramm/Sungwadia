@@ -1,1041 +1,836 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
-# sent_id = Qon̄_tewa_ne_Belinda1
-# text_en =  Aujourd'hui, le 8 août, je me suis réveillée le matin
-1	Qariki	Qariki	_	_	_	_	_	_	Gloss=aujourd'hui
-2	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-3	naba	naba	_	_	_	_	_	_	Gloss=numéro
-4	8	8	_	_	_	_	_	_	Gloss=8
-5	august	august	_	_	_	_	_	_	Gloss=août
-6	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-7	mamat	mamat	_	_	_	_	_	_	Gloss=se.réveiller
-8	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-9	roqon̄	roqon̄	_	_	_	_	_	_	Gloss=matin
-
-# sent_id = Qon̄_tewa_ne_Belinda2
-# text_en =   et puis je suis sortie en laissant Patricia et Agnès
-1	ka	ka	_	_	_	_	_	_	Gloss=Coord
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	lua	lua	_	_	_	_	_	_	Gloss=sortir
-4	dan	dan	_	_	_	_	_	_	Gloss=Abl
-5	Patricia	Patricia	_	_	_	_	_	_	Gloss=NP
-6	mata	mata	_	_	_	_	_	_	Gloss=avec
-7	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
-8	Agnes	Agnes	_	_	_	_	_	_	Gloss=NP
-
-# sent_id = Qon̄_tewa_ne_Belinda3
-# text_en =  je suis descendue à la maison,
-1	su(go)	su(go)	_	_	_	_	_	_	Gloss=descendre
-2	din̄	din̄	_	_	_	_	_	_	Gloss=atteindre
-3	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-4	vale	vale	_	_	_	_	_	_	Gloss=maison
-
-# sent_id = Qon̄_tewa_ne_Belinda6
-# text_en =  Je me suis lavée, je suis Red.scendue me changer, et les taros étaient cuits (furent prêts).
-1	Kirkiro	Kirkiro	_	_	_	_	_	_	Gloss=RedMoy.laver
-2	ka	ka	_	_	_	_	_	_	Gloss=Coord
-3	ti	ti	_	_	_	_	_	_	Gloss=Aor
-4	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-5	leleasa	leleasa	_	_	_	_	_	_	Gloss=RedMoy.changer
-6	qeta	qeta	_	_	_	_	_	_	Gloss=taro
-7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-8	manoga	manoga	_	_	_	_	_	_	Gloss=prêt
-
-# sent_id = Qon̄_tewa_ne_Belinda7
-# text_en =  J'ai mangé, et puis ensuite, je suis allée à l'école.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	gangani	gangani	_	_	_	_	_	_	Gloss=Red.ntrans.manger
-4	bastau	bastau	_	_	_	_	_	_	Gloss=Coord
-5	ka	ka	_	_	_	_	_	_	Gloss=Coord
-6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-7	van	van	_	_	_	_	_	_	Gloss=aller
-8	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-9	skul	skul	_	_	_	_	_	_	Gloss=école
-
-# sent_id = Qon̄_tewa_ne_Belinda8
-# text_en =  Sur le chemin, j'ai vu les enfants à l'école (qui étaient à l'école).
-1	Vano	Vano	_	_	_	_	_	_	Gloss=aller
-2	ete	ete	_	_	_	_	_	_	Gloss=voir
-3	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
-4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-5	mwera	mwera	_	_	_	_	_	_	Gloss=enfant
-6	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-7	toga	toga	_	_	_	_	_	_	Gloss=rester
-8	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-9	skul	skul	_	_	_	_	_	_	Gloss=école
-
-# sent_id = Qon̄_tewa_ne_Belinda9
-# text_en =  Nous avons travaillé (litt: école), travaillé, travaillé, jusqu'à 9h30, et puis j'ai dit:
-1	Kami=	Kami=	_	_	_	_	_	_	Gloss=S1plexcl=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	skul	skul	_	_	_	_	_	_	Gloss=école
-4	skul	skul	_	_	_	_	_	_	Gloss=école
-5	skul	skul	_	_	_	_	_	_	Gloss=école
-6	din̄	din̄	_	_	_	_	_	_	Gloss=atteindre
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	half	half	_	_	_	_	_	_	Gloss=9
-9	past	past	_	_	_	_	_	_	Gloss=h
-10	nine	nine	_	_	_	_	_	_	Gloss=30
-11	bastau	bastau	_	_	_	_	_	_	Gloss=Coord
-12	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-13	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-
-# sent_id = Qon̄_tewa_ne_Belinda10
-# text_en =  Allez, on va tous au tuyau pour se débarbouiller.
-1	Ale	Ale	_	_	_	_	_	_	Gloss=Interj
-2	gida	gida	_	_	_	_	_	_	Gloss=I1plincl
-3	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=compléter
-4	vano	vano	_	_	_	_	_	_	Gloss=aller
-5	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-6	bei	bei	_	_	_	_	_	_	Gloss=eau
-7	van	van	_	_	_	_	_	_	Gloss=aller
-8	kirkiro	kirkiro	_	_	_	_	_	_	Gloss=RedMoy.laver
-
-# sent_id = Qon̄_tewa_ne_Belinda11
-# text_en =  Nous y sommes tous allés, ils se sont débarbouillés, et puis ils sont allés manger.
-1	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
-2	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=compléter
-3	sumai	sumai	_	_	_	_	_	_	Gloss=aller
-4	kirkiro	kirkiro	_	_	_	_	_	_	Gloss=RedMoy.laver
-5	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
-6	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
-7	vano	vano	_	_	_	_	_	_	Gloss=aller
-8	gangani	gangani	_	_	_	_	_	_	Gloss=RedDetrans.manger
-
-# sent_id = Qon̄_tewa_ne_Belinda12
-# text_en =  Ils ont mangé, et puis on est retournés (à l'école), on a travaillé à nouveau, travaillé, travaillé, et puis l'école a été finie.
-1	Gangani	Gangani	_	_	_	_	_	_	Gloss=Red.étrans.manger
-2	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
-3	vano	vano	_	_	_	_	_	_	Gloss=aller
-4	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
-5	skul	skul	_	_	_	_	_	_	Gloss=école
-6	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
-7	skul	skul	_	_	_	_	_	_	Gloss=école
-8	skul	skul	_	_	_	_	_	_	Gloss=école
-9	baskat	baskat	_	_	_	_	_	_	Gloss=Coord
-10	baso	baso	_	_	_	_	_	_	Gloss=finir
-11	kea	kea	_	_	_	_	_	_	Gloss=Dem
-
-# sent_id = Qon̄_tewa_ne_Belinda13
-# text_en =  Marie est rentrée (vers le nord), et Lala et moi on est allées se mettre dans l'abri à toit de tôle
-1	Mary	Mary	_	_	_	_	_	_	Gloss=NP
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	mule	mule	_	_	_	_	_	_	Gloss=rentrer
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-6	nau	nau	_	_	_	_	_	_	Gloss=I1sg
-7	mata	mata	_	_	_	_	_	_	Gloss=avec
-8	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
-9	Lala	Lala	_	_	_	_	_	_	Gloss=NP
-10	sae	sae	_	_	_	_	_	_	Gloss=monter
-11	toga	toga	_	_	_	_	_	_	Gloss=rester
-12	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-13	val	val	_	_	_	_	_	_	Gloss=maison
-14	kava	kava	_	_	_	_	_	_	Gloss=tôle
-
-# sent_id = Qon̄_tewa_ne_Belinda14
-# text_en =  On est restées là, un pick-up est arrivé, il amenait les gens du…, ils se sont mis à parler.
-1	Totoga	Totoga	_	_	_	_	_	_	Gloss=RedDur.rester
-2	tarak	tarak	_	_	_	_	_	_	Gloss=4x4
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-4	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-5	lai	lai	_	_	_	_	_	_	Gloss=procurer
-6	ri…	ri…	_	_	_	_	_	_	Gloss=ArtPAc
-7	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-8	ira=	ira=	_	_	_	_	_	_	Gloss=S2pl=
-9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-10	laqlaqa	laqlaqa	_	_	_	_	_	_	Gloss=RedDetrans.parler
-11	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
-
-# sent_id = Qon̄_tewa_ne_Belinda15
-# text_en =  J'ai dit à Lala Lala, moi, aujourd'hui, je vais aller pêcher )
-1	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	vet	vet	_	_	_	_	_	_	Gloss=dire
-3	min	min	_	_	_	_	_	_	Gloss=Dest
-4	Lala	Lala	_	_	_	_	_	_	Gloss=NP
-5	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-6	Lala	Lala	_	_	_	_	_	_	Gloss=NP
-7	nau	nau	_	_	_	_	_	_	Gloss=I1sg
-8	qariki	qariki	_	_	_	_	_	_	Gloss=aujourd'hui
-9	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-10	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-11	ras	ras	_	_	_	_	_	_	Gloss=marcher
-12	sososuna	sososuna	_	_	_	_	_	_	Gloss=pêcher
-
-# sent_id = Qon̄_tewa_ne_Belinda16
-# text_en =  Toi et qui?
-1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-4	nik=	nik=	_	_	_	_	_	_	Gloss=S2sg=
-5	mata	mata	_	_	_	_	_	_	Gloss=avec
-6	-n̄	-n̄	_	_	_	_	_	_	Gloss=-P2sg
-7	sei?	sei?	_	_	_	_	_	_	Gloss=qui
-
-# sent_id = Qon̄_tewa_ne_Belinda17
-# text_en =  J'ai dit: Moi, Rincilla, Patricia et Vaelet, on a prévu d'aller pêcher.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	Nau	Nau	_	_	_	_	_	_	Gloss=I1sg
-4	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
-5	Rincilla	Rincilla	_	_	_	_	_	_	Gloss=NP
-6	Patricia	Patricia	_	_	_	_	_	_	Gloss=NP
-7	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-8	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
-9	tau	tau	_	_	_	_	_	_	Gloss=poser
-10	no	no	_	_	_	_	_	_	Gloss=CP
-11	-mi	-mi	_	_	_	_	_	_	Gloss=-P1plexcl
-12	plan	plan	_	_	_	_	_	_	Gloss=plan
-13	be	be	_	_	_	_	_	_	Gloss=Purp
-14	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-15	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-16	ras	ras	_	_	_	_	_	_	Gloss=marcher
-17	sosouna	sosouna	_	_	_	_	_	_	Gloss=pêcher
-
-# sent_id = Qon̄_tewa_ne_Belinda18
-# text_en =  Lala a dit Vous allez longer la côte à pied, ou bien pêcher en pirogue?
-1	Lala	Lala	_	_	_	_	_	_	Gloss=NP
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-4	Kamu=	Kamu=	_	_	_	_	_	_	Gloss=S1plex=
-5	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
-6	sae	sae	_	_	_	_	_	_	Gloss=monter
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	uta	uta	_	_	_	_	_	_	Gloss=rive
-9	si	si	_	_	_	_	_	_	Gloss=ou
-10	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-11	aka?	aka?	_	_	_	_	_	_	Gloss=pirogue
-
-# sent_id = Qon̄_tewa_ne_Belinda19
-# text_en =  J'ai dit Non, on y va en pirogue.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
-4	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-5	ni=	ni=	_	_	_	_	_	_	Gloss=Irr==
-6	van	van	_	_	_	_	_	_	Gloss=aller
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-9	kea	kea	_	_	_	_	_	_	Gloss=Dem
-
-# sent_id = Qon̄_tewa_ne_Belinda20
-# text_en =  Je suis descendue pour fondre mes plombs
-1	Na=	Na=	_	_	_	_	_	_	Gloss=S1sg=
-2	ne=	ne=	_	_	_	_	_	_	Gloss=Aor1sg=
-3	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-4	laksugo	laksugo	_	_	_	_	_	_	Gloss=Deix
-5	kuk	kuk	_	_	_	_	_	_	Gloss=cuisiner
-6	led	led	_	_	_	_	_	_	Gloss=plomb
-7	mai	mai	_	_	_	_	_	_	Gloss=aussi
-
-# sent_id = Qon̄_tewa_ne_Belinda21
-# text_en =  Parce que j’avais demandé à Nickolson de prendre du plomb qui lui appartenait, Nickolson a refusé.
-1	ka	ka	_	_	_	_	_	_	Gloss=Coord
-2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-3	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-4	usi	usi	_	_	_	_	_	_	Gloss=demander
-5	Nickolson	Nickolson	_	_	_	_	_	_	Gloss=NP
-6	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-7	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-8	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-9	tai	tai	_	_	_	_	_	_	Gloss=couper
-10	led	led	_	_	_	_	_	_	Gloss=plomb
-11	dan	dan	_	_	_	_	_	_	Gloss=Abl
-12	Nickolson	Nickolson	_	_	_	_	_	_	Gloss=NP
-13	Nickolson	Nickolson	_	_	_	_	_	_	Gloss=NP
-14	taroa	taroa	_	_	_	_	_	_	Gloss=refuser
-
-# sent_id = Qon̄_tewa_ne_Belinda22
-# text_en =  J'étais en colère contre lui; Et puis au bout d'un moment, j'ai vu Cooper arriver.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	mero	mero	_	_	_	_	_	_	Gloss=se.fâcher
-4	kati	kati	_	_	_	_	_	_	Gloss=Coord
-5	kami=	kami=	_	_	_	_	_	_	Gloss=1splex=
-6	totoga	totoga	_	_	_	_	_	_	Gloss=RedDur.rester
-7	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
-8	Cooper	Cooper	_	_	_	_	_	_	Gloss=NP
-9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-10	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-
-# sent_id = Qon̄_tewa_ne_Belinda23
-# text_en =  J'ai dit: Cooper, on voudrait couper du plomb dans… de ton plomb, et puis le fondre et aller pêcher.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	Cooper	Cooper	_	_	_	_	_	_	Gloss=NP
-4	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-5	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-6	tai	tai	_	_	_	_	_	_	Gloss=couper
-7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-8	led	led	_	_	_	_	_	_	Gloss=plomb
-9	dan	dan	_	_	_	_	_	_	Gloss=Abl
-10	le=	le=	_	_	_	_	_	_	Gloss=Loc
-11	no	no	_	_	_	_	_	_	Gloss=CP
-12	-n̄	-n̄	_	_	_	_	_	_	Gloss=-P2sg
-13	led	led	_	_	_	_	_	_	Gloss=plomb
-14	ka	ka	_	_	_	_	_	_	Gloss=Coord
-15	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-16	kuki	kuki	_	_	_	_	_	_	Gloss=cuire
-17	ka	ka	_	_	_	_	_	_	Gloss=Coord
-18	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-19	van	van	_	_	_	_	_	_	Gloss=aller
-20	sosouna	sosouna	_	_	_	_	_	_	Gloss=pêcher
-
-# sent_id = Qon̄_tewa_ne_Belinda24
-# text_en =  Il a dit Eh oh! Vous avez déjà bien entamé mon plomb, ce plomb, il n'en reste qu'un petit peu!
-1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-2	ti=vetar	ti=vetar	_	_	_	_	_	_	Gloss=Aor3sg
-3	Weto	Weto	_	_	_	_	_	_	Gloss=dire
-4	!	!	_	_	_	_	_	_	Gloss=Interj
-5	Kamu=	Kamu=	_	_	_	_	_	_	Gloss=S2pl=
-6	te=	te=	_	_	_	_	_	_	Gloss=Pft=
-7	taitai	taitai	_	_	_	_	_	_	Gloss=couper
-8	bula	bula	_	_	_	_	_	_	Gloss=CP
-9	-k	-k	_	_	_	_	_	_	Gloss=-P1sg
-10	led	led	_	_	_	_	_	_	Gloss=plomb
-11	led	led	_	_	_	_	_	_	Gloss=plomb
-12	kea	kea	_	_	_	_	_	_	Gloss=Dem
-13	vavai	vavai	_	_	_	_	_	_	Gloss=petit
-14	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-15	toga	toga	_	_	_	_	_	_	Gloss=rester
-
-# sent_id = Qon̄_tewa_ne_Belinda25
-# text_en =  J'ai dit: Eh, si je prends un poisson, tu pourras en manger.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	E	E	_	_	_	_	_	_	Gloss=Interj
-4	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-5	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
-6	reve	reve	_	_	_	_	_	_	Gloss=tirer
-7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-8	masi	masi	_	_	_	_	_	_	Gloss=poisson
-9	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-10	niko=	niko=	_	_	_	_	_	_	Gloss=S2sg=
-11	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-12	gani	gani	_	_	_	_	_	_	Gloss=manger
-
-# sent_id = Qon̄_tewa_ne_Belinda26
-# text_en =  Il a dit D'accord. Et il a apporté un couteau, et il a coupé le plomb.
-1	I=	I=	_	_	_	_	_	_	Gloss=S3g=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	vetar	vetar	_	_	_	_	_	_	Gloss=aller
-4	Ale	Ale	_	_	_	_	_	_	Gloss=Interj
-5	Ka	Ka	_	_	_	_	_	_	Gloss=Coord
-6	ti	ti	_	_	_	_	_	_	Gloss=Aor
-7	lai	lai	_	_	_	_	_	_	Gloss=procurer
-8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-9	tevtev	tevtev	_	_	_	_	_	_	Gloss=couteau
-10	ka	ka	_	_	_	_	_	_	Gloss=Coord
-11	ti	ti	_	_	_	_	_	_	Gloss=Aor
-12	tai	tai	_	_	_	_	_	_	Gloss=couper
-13	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-14	led	led	_	_	_	_	_	_	Gloss=plomb
-
-# sent_id = Qon̄_tewa_ne_Belinda27
-# text_en =  On a coupé le plomb et puis j'ai dit.
-1	Tai	Tai	_	_	_	_	_	_	Gloss=couper
-2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-3	led	led	_	_	_	_	_	_	Gloss=plomb
-4	bastau	bastau	_	_	_	_	_	_	Gloss=Coord
-5	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-7	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-
-# sent_id = Qon̄_tewa_ne_Belinda28
-# text_en =  Rincilla, vous restez là, je vais monter couper un bambou pour fondre le plomb. Elle a dit d'accord.
-1	Rincilla	Rincilla	_	_	_	_	_	_	Gloss=NP
-2	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl=
-3	toga	toga	_	_	_	_	_	_	Gloss=rester
-4	laka	laka	_	_	_	_	_	_	Gloss=ici
-5	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-6	sae	sae	_	_	_	_	_	_	Gloss=monter
-7	tai	tai	_	_	_	_	_	_	Gloss=couper
-8	lamoe	lamoe	_	_	_	_	_	_	Gloss=bambou
-9	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-10	be	be	_	_	_	_	_	_	Gloss=Purp
-11	kuk	kuk	_	_	_	_	_	_	Gloss=cuire
-12	led	led	_	_	_	_	_	_	Gloss=plomb
-13	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-14	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-15	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-16	Ale	Ale	_	_	_	_	_	_	Gloss=Interj
-
-# sent_id = Qon̄_tewa_ne_Belinda29
-# text_en =  Elle est restée, Cooper leur a taillé un bout de plomb, et moi je suis montée couper un bambou, et suis Red.scendue.
-1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	toga	toga	_	_	_	_	_	_	Gloss=rester
-4	Cooper	Cooper	_	_	_	_	_	_	Gloss=NP
-5	tai	tai	_	_	_	_	_	_	Gloss=couper
-6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-7	led	led	_	_	_	_	_	_	Gloss=plomb
-8	min	min	_	_	_	_	_	_	Gloss=Dest
-9	-ira	-ira	_	_	_	_	_	_	Gloss=-Obl3pl
-10	na=	na=	_	_	_	_	_	_	Gloss=S1sg=
-11	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-12	sae	sae	_	_	_	_	_	_	Gloss=montrer
-13	tai	tai	_	_	_	_	_	_	Gloss=couper
-14	lamoe	lamoe	_	_	_	_	_	_	Gloss=bambou
-15	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-16	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-
-# sent_id = Qon̄_tewa_ne_Belinda30
-# text_en =  Cooper a fondu les plombs. Ils les a fondus, puis on les a coupés en petits morceaux.
-1	Cooper	Cooper	_	_	_	_	_	_	Gloss=NP
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	kuk	kuk	_	_	_	_	_	_	Gloss=cuire
-4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-5	led	led	_	_	_	_	_	_	Gloss=plomb
-6	Kuk	Kuk	_	_	_	_	_	_	Gloss=cuire
-7	bastau	bastau	_	_	_	_	_	_	Gloss=finir
-8	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-9	ge=	ge=	_	_	_	_	_	_	Gloss=Aor=
-10	taitai=	taitai=	_	_	_	_	_	_	Gloss=Red.rester=
-11	riki	riki	_	_	_	_	_	_	Gloss=petit
-12	gini	gini	_	_	_	_	_	_	Gloss=Instr
-13	-ra	-ra	_	_	_	_	_	_	Gloss=-Obl3pl
-14	bastau	bastau	_	_	_	_	_	_	Gloss=finir
-
-# sent_id = Qon̄_tewa_ne_Belinda32
-# text_en =  Ensuite, on est parties. Cooper a dit:
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=finir
-2	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-4	vano	vano	_	_	_	_	_	_	Gloss=aller
-5	I=	I=	_	_	_	_	_	_	Gloss=ArtP=
-6	Cooper	Cooper	_	_	_	_	_	_	Gloss=NP
-7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-8	wa	wa	_	_	_	_	_	_	Gloss=quot
-
-# sent_id = Qon̄_tewa_ne_Belinda33
-# text_en =  Eh, il y a plein de femmes, là-bas!
-1	E	E	_	_	_	_	_	_	Gloss=interj
-2	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl=
-3	mawuti	mawuti	_	_	_	_	_	_	Gloss=nombreux
-4	tain̄wa	tain̄wa	_	_	_	_	_	_	Gloss=femme
-5	kisae	kisae	_	_	_	_	_	_	Gloss=Deix
-6	ka	ka	_	_	_	_	_	_	Gloss=??
-
-# sent_id = Qon̄_tewa_ne_Belinda34
-# text_en =  Si vous allez là-bas, elles vont vous voir, vous ne pourrez pas prendre de poisson.
-1	Kamu=	Kamu=	_	_	_	_	_	_	Gloss=S2pl=
-2	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
-3	sae	sae	_	_	_	_	_	_	Gloss=monter
-4	laka	laka	_	_	_	_	_	_	Gloss=Deix
-5	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
-6	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-7	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-8	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
-9	-kamu	-kamu	_	_	_	_	_	_	Gloss=-O2pl
-10	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl=
-11	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1=
-12	reve	reve	_	_	_	_	_	_	Gloss=tirer
-13	lai	lai	_	_	_	_	_	_	Gloss=Modpot
-14	tea	tea	_	_	_	_	_	_	Gloss=Neg2
-15	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-16	masi	masi	_	_	_	_	_	_	Gloss=poisson
-
-# sent_id = Qon̄_tewa_ne_Belinda35
-# text_en =  Passez au large. Nous avons dit Oui, on passera au large.
-1	Kamu=	Kamu=	_	_	_	_	_	_	Gloss=S2pl=
-2	tusa	tusa	_	_	_	_	_	_	Gloss=contourner.largement
-3	Kami=	Kami=	_	_	_	_	_	_	Gloss=S1plex=
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-5	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-6	O	O	_	_	_	_	_	_	Gloss=oui
-7	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-8	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-9	tusa	tusa	_	_	_	_	_	_	Gloss=contourner.largement
-
-# sent_id = Qon̄_tewa_ne_Belinda36
-# text_en =  Ensuite, Cooper a pris le couteau, et il est parti.
-1	Baskat	Baskat	_	_	_	_	_	_	Gloss=Coord
-2	Cooper	Cooper	_	_	_	_	_	_	Gloss=NP
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-4	lai	lai	_	_	_	_	_	_	Gloss=procurer
-5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-6	tevtev	tevtev	_	_	_	_	_	_	Gloss=couteau
-7	van	van	_	_	_	_	_	_	Gloss=aller
-8	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
-9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-10	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
-
-# sent_id = Qon̄_tewa_ne_Belinda37
-# text_en =  Moi et Belle-sœur Rin, Vaelet, on est allées chercher/ramasser des crabes-hermites.
-1	Nau	Nau	_	_	_	_	_	_	Gloss=I1sg
-2	mata	mata	_	_	_	_	_	_	Gloss=avec
-3	-k	-k	_	_	_	_	_	_	Gloss=-P1sg
-4	raiva	raiva	_	_	_	_	_	_	Gloss=belle.soeur
-5	Rin	Rin	_	_	_	_	_	_	Gloss=NP
-6	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
-7	Vealet	Vealet	_	_	_	_	_	_	Gloss=NP
-8	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-10	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-11	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-12	saro	saro	_	_	_	_	_	_	Gloss=chercher
-13	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.hermite
-
-# sent_id = Qon̄_tewa_ne_Belinda38
-# text_en =  Je cherchais des crabes-hermite, j'ai soulevé une pierre comme ça, j'ai trouvé un énorme crabe.
-1	Saro	Saro	_	_	_	_	_	_	Gloss=chercher
-2	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.hermite
-3	na=	na=	_	_	_	_	_	_	Gloss=S1sg=
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-5	wus	wus	_	_	_	_	_	_	Gloss=soulever
-6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-7	vatu	vatu	_	_	_	_	_	_	Gloss=pierre
-8	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
-9	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
-10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-11	mas	mas	_	_	_	_	_	_	Gloss=gros
-12	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.h
-
-# sent_id = Qon̄_tewa_ne_Belinda39
-# text_en =  Quand j'ai tendu la main comme ça, que j'ai voulu le prendre, le crabe-hermite s'est accroché à mon doigt. Je me suis mise à pleurer, et j'ai crié Aie aie aie!
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	wa=	wa=	_	_	_	_	_	_	Gloss=quand=
-4	olo	olo	_	_	_	_	_	_	Gloss=tendre.la.main
-5	vano	vano	_	_	_	_	_	_	Gloss=aller
-6	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
-7	war	war	_	_	_	_	_	_	Gloss=vouloir
-8	tori	tori	_	_	_	_	_	_	Gloss=tenir
-9	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-10	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.hermite
-11	laka	laka	_	_	_	_	_	_	Gloss=Deix
-12	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-13	dule	dule	_	_	_	_	_	_	Gloss=se.pendre.à
-14	bisu	bisu	_	_	_	_	_	_	Gloss=doigt
-15	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
-16	na=	na=	_	_	_	_	_	_	Gloss=S1sg=
-17	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-18	n̄ara	n̄ara	_	_	_	_	_	_	Gloss=pleurer
-19	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-20	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-21	Awelele!	Awelele!	_	_	_	_	_	_	Gloss=Interj
-
-# sent_id = Qon̄_tewa_ne_Belinda41
-# text_en =  Mais elles n’étaient pas là, elles étaient là-bas, très loin, sous le prunier de Cythère, elles étaient occupées à soulever des pierres sous le prunier de Cythère.
-1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
-2	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-3	tigala	tigala	_	_	_	_	_	_	Gloss=ExistNeg
-4	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
-5	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-6	laka	laka	_	_	_	_	_	_	Gloss=Deix
-7	radu	radu	_	_	_	_	_	_	Gloss=loin
-8	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-9	qatai	qatai	_	_	_	_	_	_	Gloss=tronc
-10	isa	isa	_	_	_	_	_	_	Gloss=NEsp
-11	toga	toga	_	_	_	_	_	_	Gloss=rester
-12	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-13	wuwusa	wuwusa	_	_	_	_	_	_	Gloss=Red.retourner.pierre
-14	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-15	qatai	qatai	_	_	_	_	_	_	Gloss=tronc
-16	isa	isa	_	_	_	_	_	_	Gloss=NEsp
-
-# sent_id = Qon̄_tewa_ne_Belinda42
-# text_en =  J'ai pleuré, et j'ai couru vers le foyer, et j'ai pris du feu,
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	n̄ara	n̄ara	_	_	_	_	_	_	Gloss=pleurer
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-5	rowo	rowo	_	_	_	_	_	_	Gloss=courir
-6	vano	vano	_	_	_	_	_	_	Gloss=aller
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	tan	tan	_	_	_	_	_	_	Gloss=place
-9	kuk	kuk	_	_	_	_	_	_	Gloss=cuisiner
-10	vano	vano	_	_	_	_	_	_	Gloss=aller
-11	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-12	lai	lai	_	_	_	_	_	_	Gloss=prendre
-13	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-14	avi	avi	_	_	_	_	_	_	Gloss=feu
-
-# sent_id = Qon̄_tewa_ne_Belinda43
-# text_en =   j'ai brulé le crabe, le crabe a desserré sa pince de mon doigt.
-1	sulu	sulu	_	_	_	_	_	_	Gloss=brûler
-2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-3	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.hermite
-4	laka	laka	_	_	_	_	_	_	Gloss=Deix
-5	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.hermite
-6	tekerag	tekerag	_	_	_	_	_	_	Gloss=lâcher
-7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-8	liwo	liwo	_	_	_	_	_	_	Gloss=dent
-9	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-10	dan	dan	_	_	_	_	_	_	Gloss=Orig
-11	bisu	bisu	_	_	_	_	_	_	Gloss=doigt
-12	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
-
-# sent_id = Qon̄_tewa_ne_Belinda44
-# text_en =  Et après je me suis sentie mieux
-1	kati	kati	_	_	_	_	_	_	Gloss=Coord
-2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-3	te=	te=	_	_	_	_	_	_	Gloss=Pft=
-4	ron̄o	ron̄o	_	_	_	_	_	_	Gloss=sentir
-5	wia	wia	_	_	_	_	_	_	Gloss=bien
-
-# sent_id = Qon̄_tewa_ne_Belinda45
-# text_en =  et puis après, j'ai pris une hache, et j'ai pris cette pince de crabe
-1	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
-2	kati	kati	_	_	_	_	_	_	Gloss=Coord
-3	lai	lai	_	_	_	_	_	_	Gloss=prendre
-4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-5	dawen	dawen	_	_	_	_	_	_	Gloss=hache
-6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-7	lai	lai	_	_	_	_	_	_	Gloss=prendre
-8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-9	liwo	liwo	_	_	_	_	_	_	Gloss=pince
-10	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.h
-11	kea	kea	_	_	_	_	_	_	Gloss=Dem
-12	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-
-# sent_id = Qon̄_tewa_ne_Belinda46
-# text_en =  Et puis, après, Floria et Owen, Stendri se sont moqués de moi.
-1	baskat	baskat	_	_	_	_	_	_	Gloss=Coord
-2	baso	baso	_	_	_	_	_	_	Gloss=finir
-3	Floria	Floria	_	_	_	_	_	_	Gloss=NP
-4	mata	mata	_	_	_	_	_	_	Gloss=avec
-5	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
-6	Owen	Owen	_	_	_	_	_	_	Gloss=NP
-7	Stendri	Stendri	_	_	_	_	_	_	Gloss=NP
-8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-9	man.mana	man.mana	_	_	_	_	_	_	Gloss=Red.rire
-10	-g=nau	-g=nau	_	_	_	_	_	_	Gloss=-tr=O1sg
-
-# sent_id = Qon̄_tewa_ne_Belinda47
-# text_en =  J'ai dit Oh, vous riez pour quoi!
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	Man	Man	_	_	_	_	_	_	Gloss=Interj
-4	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl=
-5	mana	mana	_	_	_	_	_	_	Gloss=rire
-6	be	be	_	_	_	_	_	_	Gloss=Purp
-7	sava?	sava?	_	_	_	_	_	_	Gloss=quoi
-
-# sent_id = Qon̄_tewa_ne_Belinda48
-# text_en =  Si c'était vous, vous ressentiriez cela, vous vous feriez pipi dessus, tiens!
-1	War	War	_	_	_	_	_	_	Gloss=Hyp
-2	kamu	kamu	_	_	_	_	_	_	Gloss=I2pl
-3	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl=
-4	ni=	ni=	_	_	_	_	_	_	Gloss=Irr=
-5	ron̄o	ron̄o	_	_	_	_	_	_	Gloss=sentir
-6	kea	kea	_	_	_	_	_	_	Gloss=Dem
-7	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-8	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl=
-9	memes	memes	_	_	_	_	_	_	Gloss=RedDuriner
-10	-kamu	-kamu	_	_	_	_	_	_	Gloss=-O2pl
-11	kea	kea	_	_	_	_	_	_	Gloss=Dem
-12	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-
-# sent_id = Qon̄_tewa_ne_Belinda49
-# text_en =  Ils ont rigolé. Après, les deux autres sont arrivées, et on est parties ensemble.
-1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	mana	mana	_	_	_	_	_	_	Gloss=rire
-4	baskat	baskat	_	_	_	_	_	_	Gloss=Coord
-5	ira	ira	_	_	_	_	_	_	Gloss=I3pl
-6	i	i	_	_	_	_	_	_	Gloss=Num
-7	-rua	-rua	_	_	_	_	_	_	Gloss=-deux
-8	kea	kea	_	_	_	_	_	_	Gloss=Dem
-9	-la	-la	_	_	_	_	_	_	Gloss=-Anaph
-10	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-11	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-12	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex=
-13	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-14	vano	vano	_	_	_	_	_	_	Gloss=aller
-
-# sent_id = Qon̄_tewa_ne_Belinda50
-# text_en =  On est allées à Matogu, on a tiré les pirogues.
-1	Van	Van	_	_	_	_	_	_	Gloss=aller
-2	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-3	Matogu	Matogu	_	_	_	_	_	_	Gloss=Topon
-4	reve	reve	_	_	_	_	_	_	Gloss=tirer
-5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-6	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-
-# sent_id = Qon̄_tewa_ne_Belinda51
-# text_en =  Moi j'étais dans la pirogue de Maman Béta, et Vaelet et belle-sœur Rin était dans..
-1	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	toga	toga	_	_	_	_	_	_	Gloss=rester
-3	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-4	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-5	ge	ge	_	_	_	_	_	_	Gloss=CP
-6	Vev	Vev	_	_	_	_	_	_	Gloss=maman
-7	Beta	Beta	_	_	_	_	_	_	Gloss=NP
-8	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
-9	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-10	mata	mata	_	_	_	_	_	_	Gloss=avec
-11	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
-12	raiva	raiva	_	_	_	_	_	_	Gloss=belle.sœur
-13	Rin	Rin	_	_	_	_	_	_	Gloss=NP
-14	toga	toga	_	_	_	_	_	_	Gloss=rester
-15	le=…	le=…	_	_	_	_	_	_	Gloss=Loc
-
-# sent_id = Qon̄_tewa_ne_Belinda52
-# text_en =  Euh, non, c'est elles qui étaient dans la pirogue de Maman Beta.
-1	e	e	_	_	_	_	_	_	Gloss=Interj
-2	tigai	tigai	_	_	_	_	_	_	Gloss=non
-3	ira	ira	_	_	_	_	_	_	Gloss=I3pl
-4	sina	sina	_	_	_	_	_	_	Gloss=Foc
-5	toga	toga	_	_	_	_	_	_	Gloss=rester
-6	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-7	ake	ake	_	_	_	_	_	_	Gloss=pirogue
-8	Vev	Vev	_	_	_	_	_	_	Gloss=maman
-9	Beta	Beta	_	_	_	_	_	_	Gloss=np
-
-# sent_id = Qon̄_tewa_ne_Belinda53
-# text_en =  J'étais dans la pirogue de Tat'Ismael, toute seule.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	toga	toga	_	_	_	_	_	_	Gloss=rester
-3	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-4	ake	ake	_	_	_	_	_	_	Gloss=pirogue
-5	Tat’	Tat’	_	_	_	_	_	_	Gloss=papa
-6	Ismael	Ismael	_	_	_	_	_	_	Gloss=NP
-7	gase	gase	_	_	_	_	_	_	Gloss=seul
-8	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
-
-# sent_id = Qon̄_tewa_ne_Belinda54
-# text_en =  Ensuite, on y est allées. Elles étaient lentes
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
-2	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexc=
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-4	vano	vano	_	_	_	_	_	_	Gloss=aller
-5	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
-6	tot	tot	_	_	_	_	_	_	Gloss=??
-7	n̄wau	n̄wau	_	_	_	_	_	_	Gloss=lent
-
-# sent_id = Qon̄_tewa_ne_Belinda55
-# text_en =  J’ai pagayé, je suis partie devant, j’ai atteint (le point où je voulais aller).
-1	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	sua	sua	_	_	_	_	_	_	Gloss=pagayer
-4	van	van	_	_	_	_	_	_	Gloss=aller
-5	turmua	turmua	_	_	_	_	_	_	Gloss=en.premier
-6	van	van	_	_	_	_	_	_	Gloss=aller
-7	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-
-# sent_id = Qon̄_tewa_ne_Belinda56
-# text_en =  “Vaelet et belle-sœur Rin sont venues., elles sont arrivées.”
-1	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-2	mata	mata	_	_	_	_	_	_	Gloss=avec
-3	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
-4	Raiva	Raiva	_	_	_	_	_	_	Gloss=belle.sœur
-5	Rin	Rin	_	_	_	_	_	_	Gloss=NP
-6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-7	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-8	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
-9	van	van	_	_	_	_	_	_	Gloss=aller
-10	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-
-# sent_id = Qon̄_tewa_ne_Belinda57
-# text_en =  “Vaelet a dit “Eh, je vois que c’est toi qui est assise à l’arrière”
-1	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	E	E	_	_	_	_	_	_	Gloss=Interj
-4	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-5	ete	ete	_	_	_	_	_	_	Gloss=voir
-6	war	war	_	_	_	_	_	_	Gloss=Compl
-7	niko	niko	_	_	_	_	_	_	Gloss=I2sg
-8	kea	kea	_	_	_	_	_	_	Gloss=Dem
-9	toga	toga	_	_	_	_	_	_	Gloss=rester
-10	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-11	kere	kere	_	_	_	_	_	_	Gloss=arrière
-12	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-13	kea	kea	_	_	_	_	_	_	Gloss=dem
-
-# sent_id = Qon̄_tewa_ne_Belinda58
-# text_en =  euh, que tu es assise à l’avant, là, viens pagayer à l’arrière
-1	toga	toga	_	_	_	_	_	_	Gloss=rester
-2	le=	le=	_	_	_	_	_	_	Gloss=loc=
-3	qatu	qatu	_	_	_	_	_	_	Gloss=tête
-4	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-5	kika	kika	_	_	_	_	_	_	Gloss=Deix
-6	sua	sua	_	_	_	_	_	_	Gloss=pagayer
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	kere	kere	_	_	_	_	_	_	Gloss=arrière
-9	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-
-# sent_id = Qon̄_tewa_ne_Belinda59
-# text_en =  Elles sont reparties en pagayant, vers la rive, et elles ont échangé.
-1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl=
-2	sua	sua	_	_	_	_	_	_	Gloss=pagayer
-3	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
-4	sae	sae	_	_	_	_	_	_	Gloss=monter
-5	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-6	uta	uta	_	_	_	_	_	_	Gloss=rivage
-7	sae	sae	_	_	_	_	_	_	Gloss=monter
-8	kati	kati	_	_	_	_	_	_	Gloss=Coord
-9	toga	toga	_	_	_	_	_	_	Gloss=rester
-10	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
-11	sorisa	sorisa	_	_	_	_	_	_	Gloss=changer
-
-# sent_id = Qon̄_tewa_ne_Belinda60
-# text_en =  Vaelet était assise à l’avant, Belle-sœur Rin était à l’arrière
-1	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
-2	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-3	toga	toga	_	_	_	_	_	_	Gloss=rester
-4	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-5	qatu	qatu	_	_	_	_	_	_	Gloss=tête
-6	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-7	raiva	raiva	_	_	_	_	_	_	Gloss=belle.sœur
-8	Rin	Rin	_	_	_	_	_	_	Gloss=NP
-9	toga	toga	_	_	_	_	_	_	Gloss=rester
-10	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-11	kere	kere	_	_	_	_	_	_	Gloss=arrière
-12	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-
-# sent_id = Qon̄_tewa_ne_Belinda61
-# text_en =  Elles sont revenues en pagayant pour pêcher.
-1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	sua	sua	_	_	_	_	_	_	Gloss=pagayer
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-5	vano	vano	_	_	_	_	_	_	Gloss=aller
-6	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
-7	van	van	_	_	_	_	_	_	Gloss=aller
-8	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-9	sosouna	sosouna	_	_	_	_	_	_	Gloss=pêcher
-
-# sent_id = Qon̄_tewa_ne_Belinda62
-# text_en =  En très peu de temps, j’avais déjà pếché trois poissons.
-1	ti	ti	_	_	_	_	_	_	Gloss=Neg1
-2	-n̄	-n̄	_	_	_	_	_	_	Gloss=-PEN
-3	n̄wau	n̄wau	_	_	_	_	_	_	Gloss=long
-4	tea	tea	_	_	_	_	_	_	Gloss=Neg2
-5	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-6	reve	reve	_	_	_	_	_	_	Gloss=tirer
-7	no	no	_	_	_	_	_	_	Gloss=CP
-8	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
-9	te=	te=	_	_	_	_	_	_	Gloss=Pft=
-10	tolu	tolu	_	_	_	_	_	_	Gloss=troisi
-
-# sent_id = Qon̄_tewa_ne_Belinda63
-# text_en =  Ensuite, Vaelet a dit qu’elle n’avait plus d’appats.
-1	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
-2	i=	i=	_	_	_	_	_	_	Gloss=ArtP=
-3	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg=
-5	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-6	no	no	_	_	_	_	_	_	Gloss=CP
-7	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
-8	gatou	gatou	_	_	_	_	_	_	Gloss=crabe.hermite
-9	baso	baso	_	_	_	_	_	_	Gloss=finir
-
-# sent_id = Qon̄_tewa_ne_Belinda64
-# text_en =  Belle-sœur Rin a été déposer Vaelet sur la rive.
-1	raiva	raiva	_	_	_	_	_	_	Gloss=belle.sœur
-2	Rin	Rin	_	_	_	_	_	_	Gloss=Rin
-3	lai	lai	_	_	_	_	_	_	Gloss=procurer
-4	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-5	sae	sae	_	_	_	_	_	_	Gloss=monter
-6	tau	tau	_	_	_	_	_	_	Gloss=poser
-7	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-
-# sent_id = Qon̄_tewa_ne_Belinda66
-# text_en =  Alors Belle-sœur Rin a été la déposer, elle l’a déposée sur la rive, et nous sommes juste restées toutes les deux.
-1	Kati	Kati	_	_	_	_	_	_	Gloss=Coord.Aorsg
-2	raiva	raiva	_	_	_	_	_	_	Gloss=belle.sœur
-3	Rin	Rin	_	_	_	_	_	_	Gloss=NP
-4	sae	sae	_	_	_	_	_	_	Gloss=monter
-5	tau	tau	_	_	_	_	_	_	Gloss=poser
-6	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-7	tau	tau	_	_	_	_	_	_	Gloss=poser
-8	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-9	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-10	uta	uta	_	_	_	_	_	_	Gloss=rive
-11	kamirua	kamirua	_	_	_	_	_	_	Gloss=S1duexcl
-12	n̄a=	n̄a=	_	_	_	_	_	_	Gloss=PEN=
-13	toga	toga	_	_	_	_	_	_	Gloss=rester
-
-# sent_id = Qon̄_tewa_ne_Belinda67
-# text_en =  Ensuite, j’ai pêché, quand j’ai regardé vers la rive comme ça, Vaelet a dit Eh, je rentre !
-1	baskat	baskat	_	_	_	_	_	_	Gloss=Coord
-2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-3	sosouna	sosouna	_	_	_	_	_	_	Gloss=pêcher
-4	na=	na=	_	_	_	_	_	_	Gloss=S1sg=
-5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-6	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=
-7	ete	ete	_	_	_	_	_	_	Gloss=regarder
-8	sae	sae	_	_	_	_	_	_	Gloss=monter
-9	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
-10	Vaelet	Vaelet	_	_	_	_	_	_	Gloss=NP
-11	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-12	wa	wa	_	_	_	_	_	_	Gloss=Quot
-13	E	E	_	_	_	_	_	_	Gloss=Interj
-14	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-15	mule!	mule!	_	_	_	_	_	_	Gloss=rentrer
-
-# sent_id = Qon̄_tewa_ne_Belinda68
-# text_en =  “Je lui ai dit “C’est ça, rentre à la maison, vu que t’es nulle pour pécĥer en pirogue!””
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	Wia	Wia	_	_	_	_	_	_	Gloss=bon
-4	go=	go=	_	_	_	_	_	_	Gloss=Aor2sg=
-5	mule	mule	_	_	_	_	_	_	Gloss=rentrer
-6	vavano	vavano	_	_	_	_	_	_	Gloss=Red.venir
-7	ka	ka	_	_	_	_	_	_	Gloss=Deix
-8	niko=	niko=	_	_	_	_	_	_	Gloss=S2sg=
-9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel=
-10	ti	ti	_	_	_	_	_	_	Gloss=Neg1
-11	-n̄	-n̄	_	_	_	_	_	_	Gloss=-PEN
-12	fit	fit	_	_	_	_	_	_	Gloss=doué
-13	tea	tea	_	_	_	_	_	_	Gloss=Neg2
-14	be	be	_	_	_	_	_	_	Gloss=Purp
-15	sosouna	sosouna	_	_	_	_	_	_	Gloss=pêcher
-16	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-17	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-
-# sent_id = Qon̄_tewa_ne_Belinda69
-# text_en =  Elle a pris son panier, et elle est repartie aussi sec.
-1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	lai	lai	_	_	_	_	_	_	Gloss=procurer
-4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-5	no	no	_	_	_	_	_	_	Gloss=CP
-6	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
-7	gete	gete	_	_	_	_	_	_	Gloss=panier
-8	kea	kea	_	_	_	_	_	_	Gloss=Dem
-9	ka	ka	_	_	_	_	_	_	Gloss=Coord
-10	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-11	mule	mule	_	_	_	_	_	_	Gloss=rentrer
-12	mai	mai	_	_	_	_	_	_	Gloss=aussi
-
-# sent_id = Qon̄_tewa_ne_Belinda70
-# text_en =  Ensuite, belle-sœur Rin est restée seule dans une pirogue, et moi dans l’autre.
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
-2	Raiva	Raiva	_	_	_	_	_	_	Gloss=belle.sœur
-3	Rin	Rin	_	_	_	_	_	_	Gloss=NP
-4	gase	gase	_	_	_	_	_	_	Gloss=seul
-5	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
-6	toga	toga	_	_	_	_	_	_	Gloss=rester
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	tuara	tuara	_	_	_	_	_	_	Gloss=autre
-9	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-10	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-11	toga	toga	_	_	_	_	_	_	Gloss=rester
-12	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-13	tuara	tuara	_	_	_	_	_	_	Gloss=autre
-14	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-
-# sent_id = Qon̄_tewa_ne_Belinda72
-# text_en =  J'ai tiré, tiré, tiré, et puis je l'ai posé dans la pirogue.
-1	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	reve	reve	_	_	_	_	_	_	Gloss=tirer
-4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-5	reve	reve	_	_	_	_	_	_	Gloss=tirer
-6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-7	reve	reve	_	_	_	_	_	_	Gloss=tirer
-8	kat	kat	_	_	_	_	_	_	Gloss=Coord
-9	tau	tau	_	_	_	_	_	_	Gloss=poser
-10	sae	sae	_	_	_	_	_	_	Gloss=monter
-11	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-12	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-
-# sent_id = Qon̄_tewa_ne_Belinda73
-# text_en =  Ensuite, on a continué à pêcher, et puis j'ai levé les yeux et j'ai dit Eh, la nuit tombe, là , on rentre!
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
-2	kami=	kami=	_	_	_	_	_	_	Gloss=S1plexcl=
-3	tot	tot	_	_	_	_	_	_	Gloss=Prog
-4	sosouna	sosouna	_	_	_	_	_	_	Gloss=pêcher
-5	vavano	vavano	_	_	_	_	_	_	Gloss=RedDur.aller
-6	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-8	ete	ete	_	_	_	_	_	_	Gloss=voir
-9	war	war	_	_	_	_	_	_	Gloss=Compl
-10	E	E	_	_	_	_	_	_	Gloss=interj
-11	qon̄	qon̄	_	_	_	_	_	_	Gloss=nuit
-12	kea	kea	_	_	_	_	_	_	Gloss=Dem
-13	gidarua	gidarua	_	_	_	_	_	_	Gloss=S1duincl
-14	mule?	mule?	_	_	_	_	_	_	Gloss=rentrer
-
-# sent_id = Qon̄_tewa_ne_Belinda74
-# text_en =  Elle a dit. Allez.
-1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-4	Da	Da	_	_	_	_	_	_	Gloss=interj
-
-# sent_id = Qon̄_tewa_ne_Belinda75
-# text_en =  Ensuite je lui ai demandé : Combien en as-tu pris?
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
-2	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg=
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-4	usi	usi	_	_	_	_	_	_	Gloss=interroger
-5	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
-6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-7	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-8	Niko=	Niko=	_	_	_	_	_	_	Gloss=S2sg=
-9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-10	reve	reve	_	_	_	_	_	_	Gloss=tirer
-11	no	no	_	_	_	_	_	_	Gloss=CP
-12	-n̄a	-n̄a	_	_	_	_	_	_	Gloss=-P2g
-13	visa?	visa?	_	_	_	_	_	_	Gloss=combien
-
-# sent_id = Qon̄_tewa_ne_Belinda77
-# text_en =  Ensuite, elle m'a demandé Combien en as-tu pris?
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
-2	i=	i=	_	_	_	_	_	_	Gloss=S3sg=
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-4	usi	usi	_	_	_	_	_	_	Gloss=interroger
-5	-nau	-nau	_	_	_	_	_	_	Gloss=-O1sg
-6	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-7	no	no	_	_	_	_	_	_	Gloss=CP
-8	-n̄	-n̄	_	_	_	_	_	_	Gloss=-P2sg
-9	visa?	visa?	_	_	_	_	_	_	Gloss=combien
-
-# sent_id = Qon̄_tewa_ne_Belinda79
-# text_en =  Elle a dit Allez, on rentre. J'ai dit D'accord.
-1	I=	I=	_	_	_	_	_	_	Gloss=S3sg=
-2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-3	ale	ale	_	_	_	_	_	_	Gloss=Interj
-4	gidarua	gidarua	_	_	_	_	_	_	Gloss=S1duincl
-5	mule	mule	_	_	_	_	_	_	Gloss=rentrer
-6	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg=
-7	vetar	vetar	_	_	_	_	_	_	Gloss=dire
-8	Ale	Ale	_	_	_	_	_	_	Gloss=interj
-
-# sent_id = Qon̄_tewa_ne_Belinda80
-# text_en =  Ensuite nous avons rejoint la rive, nous avons hissé nos pirogues
-1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
-2	kamirua=	kamirua=	_	_	_	_	_	_	Gloss=S1duex=
-3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor=
-4	sae	sae	_	_	_	_	_	_	Gloss=monter
-5	din̄a	din̄a	_	_	_	_	_	_	Gloss=atteindre
-6	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-7	uta	uta	_	_	_	_	_	_	Gloss=rive
-8	reve	reve	_	_	_	_	_	_	Gloss=tirer
-9	na=	na=	_	_	_	_	_	_	Gloss=ArtAc=
-10	no	no	_	_	_	_	_	_	Gloss=CP
-11	-mirua	-mirua	_	_	_	_	_	_	Gloss=-P1duex
-12	aka	aka	_	_	_	_	_	_	Gloss=pirogue
-13	sae	sae	_	_	_	_	_	_	Gloss=monter
-
-# sent_id = Qon̄_tewa_ne_Belinda81
-# text_en =  Et puis nous avons écaillé nos poissons, et puis je suis rentrée aussitôt
-1	bastau	bastau	_	_	_	_	_	_	Gloss=Coord
-2	gari	gari	_	_	_	_	_	_	Gloss=écailler
-3	no	no	_	_	_	_	_	_	Gloss=CP
-4	-mirua	-mirua	_	_	_	_	_	_	Gloss=-P1duex
-5	masi	masi	_	_	_	_	_	_	Gloss=poisson
-6	bastau	bastau	_	_	_	_	_	_	Gloss=Coord
-7	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aor
-8	mule	mule	_	_	_	_	_	_	Gloss=rentrer
-9	mai	mai	_	_	_	_	_	_	Gloss=aussitôt
-
-# sent_id = Qon̄_tewa_ne_Belinda82
-# text_en =  Je suis rentrée, j'ai cuisiné mes poissons, et puis j'ai mangé, et je suis rentrée à la maison.
-1	ka	ka	_	_	_	_	_	_	Gloss=Coord
-2	ti	ti	_	_	_	_	_	_	Gloss=Aor
-3	gangani	gangani	_	_	_	_	_	_	Gloss=RedDetrans.manger
-4	baskat	baskat	_	_	_	_	_	_	Gloss=Coord
-5	mule	mule	_	_	_	_	_	_	Gloss=rentrer
-6	sumai	sumai	_	_	_	_	_	_	Gloss=venir
-7	le=	le=	_	_	_	_	_	_	Gloss=Loc=
-8	vale	vale	_	_	_	_	_	_	Gloss=maison
-
-# sent_id = Qon̄_tewa_ne_Belinda83
-# text_en =  La fin.
-1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
-2	va	va	_	_	_	_	_	_	Gloss=PEN
-
+# sent_id = Qoŋ_tewa_ne_Belinda1
+# text_en = Aujourd'hui, le 8 août, je me suis réveillée le matin
+1	Qariki	qariki	_	_	_	-1	_	_	Gloss=aujourd'hui
+2	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+3	naba	naba	_	_	_	-1	_	_	Gloss=numéro
+4	8	8	_	_	_	-1	_	_	Gloss=8
+5	august	august	_	_	_	-1	_	_	Gloss=août
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+8	mamat	mamat	_	_	_	-1	_	_	Gloss=se.réveiller
+9	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+10	roqoŋ	roqoŋ	NOUN	_	_	-1	_	_	Gloss=matin
+
+# sent_id = Qoŋ_tewa_ne_Belinda2
+# text_en = et puis je suis sortie en laissant Patricia et Agnès
+1	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	lua	lua	VERB	_	_	-1	_	_	Gloss=sortir
+4	dan	dan	_	_	_	-1	_	_	Gloss=Abl
+5	Patricia	Patricia	_	_	_	-1	_	_	Gloss=NP
+6	mata	mata	ADP	_	_	-1	_	_	Gloss=avec
+7	-n	-n	_	_	_	-1	_	_	Gloss=-P3sg
+8	Agnes	Agnes	_	_	_	-1	_	_	Gloss=NP
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda3
+# text_en = je suis descendue à la maison,
+1	su(go)	su(go)	VERB	_	_	-1	_	_	Gloss=descendre
+2	diŋ	diŋ	VERB	_	_	-1	_	_	Gloss=atteindre
+3	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+4	vale,	vale,	NOUN	_	_	-1	_	_	Gloss=maison
+
+# sent_id = Qoŋ_tewa_ne_Belinda6
+# text_en = Je me suis lavée, je suis Red.scendue me changer, et les taros étaient cuits (furent prêts).
+1	Kirkiro	kirkiro	VERB	_	_	-1	_	_	Gloss=laver|MGloss=Moy~laver|MSeg=kir~kiro|Reduplicated=Yes
+2	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+3	ti	ti	_	_	_	-1	_	_	Gloss=Aor
+4	sugo	sugo	VERB	_	_	-1	_	_	Gloss=descendre
+5	leleasa	leleasa	VERB	_	_	-1	_	_	Gloss=changer|MGloss=Moy~changer|MSeg=le~leasa|Reduplicated=Yes
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	qeta	qeta	ADV	_	_	-1	_	_	Gloss=taro
+8	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+9	manoga,	manoga,	_	_	_	-1	_	_	Gloss=prêt
+
+# sent_id = Qoŋ_tewa_ne_Belinda7
+# text_en = J'ai mangé, et puis ensuite, je suis allée à l'école.
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	gangani,	gangani,	VERB	_	_	-1	_	_	Gloss=manger|MGloss=Intrans~manger|MSeg=gan~gani,|Reduplicated=Yes
+4	bastau	bastau	_	_	_	-1	_	_	Gloss=Coord
+5	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+6	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+7	van	van	VERB	_	_	-1	_	_	Gloss=aller
+8	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+9	skul.	skul.	_	_	_	-1	_	_	Gloss=école
+
+# sent_id = Qoŋ_tewa_ne_Belinda8
+# text_en = Sur le chemin, j'ai vu les enfants à l'école (qui étaient à l'école).
+1	Vano	vano	_	_	_	-1	_	_	Gloss=aller,
+2	ete	ete	VERB	_	_	-1	_	_	Gloss=voir
+3	-ra	-ra	_	_	_	-1	_	_	Gloss=-O3pl
+4	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+5	mwera	mwera	NOUN	_	_	-1	_	_	Gloss=enfant
+6	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+7	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+8	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+9	skul.	skul.	_	_	_	-1	_	_	Gloss=école
+
+# sent_id = Qoŋ_tewa_ne_Belinda10
+# text_en = Allez, on va tous au tuyau pour se débarbouiller.
+1	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+2	Ale	ale	_	_	_	-1	_	_	Gloss=Interj
+3	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+4	gida	gida	_	_	_	-1	_	_	Gloss=I1plincl
+5	wurwuri	wurwuri	_	_	_	-1	_	_	Gloss=compléter
+6	vano	vano	VERB	_	_	-1	_	_	Gloss=aller
+7	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+8	bei	bei	NOUN	_	_	-1	_	_	Gloss=eau
+9	van	van	VERB	_	_	-1	_	_	Gloss=aller
+10	kirkiro	kirkiro	VERB	_	_	-1	_	_	Gloss=laver|MGloss=Moy~laver|MSeg=kir~kiro|Reduplicated=Yes
+11	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda11
+# text_en = Nous y sommes tous allés, ils se sont débarbouillés, et puis ils sont allés manger.
+1	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+2	wurwuri	wurwuri	_	_	_	-1	_	_	Gloss=compléter
+3	sumai	sumai	VERB	_	_	-1	_	_	Gloss=aller
+4	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+5	kirkiro	kirkiro	VERB	_	_	-1	_	_	Gloss=laver|MGloss=Moy~laver|MSeg=kir~kiro|Reduplicated=Yes
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	bastau	bastau	ADV	_	_	-1	_	_	Gloss=ensuite
+8	ka	ka	CCONJ	_	_	-1	_	_	Amal=kae
+9	ge	ge	_	_	_	-1	_	_	Gloss=Coord.Aorpl
+10	vano	vano	VERB	_	_	-1	_	_	Gloss=aller
+11	gangani	gangani	VERB	_	_	-1	_	_	Gloss=manger|MGloss=Intrans~manger|MSeg=gan~gani|Reduplicated=Yes
+12	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda13
+# text_en = Marie est rentrée (vers le nord), et Lala et moi on est allées se mettre dans l'abri à toit de tôle
+1	Mary	Mary	_	_	_	-1	_	_	Gloss=NP
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	mule	mule	VERB	_	_	-1	_	_	Gloss=rentrer
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+5	sugo,	sugo,	VERB	_	_	-1	_	_	Gloss=descendre
+6	nau	nau	_	_	_	-1	_	_	Gloss=I1sg
+7	mata	mata	ADP	_	_	-1	_	_	Gloss=avec
+8	-ku	-ku	_	_	_	-1	_	_	Gloss=-P1sg
+9	Lala	Lala	_	_	_	-1	_	_	Gloss=NP
+10	sae	sae	VERB	_	_	-1	_	_	Gloss=monter
+11	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+12	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+13	val	val	NOUN	_	_	-1	_	_	Gloss=maison
+14	kava	kava	_	_	_	-1	_	_	Gloss=tôle
+15	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda14
+# text_en = On est restées là, un pick-up est arrivé, il amenait les gens du…, ils se sont mis à parler.
+1	Totoga	totoga	VERB	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+2	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+3	tarak	tarak	_	_	_	-1	_	_	Gloss=4x4
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+5	sumai,	sumai,	VERB	_	_	-1	_	_	Gloss=venir
+6	lai	lai	VERB	_	_	-1	_	_	Gloss=procurer
+7	ri…	ri…	_	_	_	-1	_	_	Gloss=ArtPAc
+8	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+10	ira=	ira=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+11	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+12	laqlaqa	laqlaqa	VERB	_	_	-1	_	_	Gloss=parler|MGloss=Intrans~parler|MSeg=laq~laqa|Reduplicated=Yes
+13	bastau	bastau	ADV	_	_	-1	_	_	Gloss=ensuite
+14	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda15
+# text_en = J'ai dit à Lala Lala, moi, aujourd'hui, je vais aller pêcher )
+1	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	vet	vet	VERB	_	_	-1	_	_	Gloss=dire
+3	min	min	_	_	_	-1	_	_	Gloss=Dest
+4	Lala	Lala	_	_	_	-1	_	_	Gloss=NP
+5	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+8	Lala	Lala	_	_	_	-1	_	_	Gloss=NP
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+10	nau	nau	_	_	_	-1	_	_	Gloss=I1sg
+11	qariki	qariki	_	_	_	-1	_	_	Gloss=aujourd'hui
+12	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+13	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+14	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+15	ras	ras	VERB	_	_	-1	_	_	Gloss=marcher
+16	sososuna	sososuna	_	_	_	-1	_	_	Gloss=pêcher
+17	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+18	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda17
+# text_en = J'ai dit: Moi, Rincilla, Patricia et Vaelet, on a prévu d'aller pêcher.
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+3	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+4	Nau	nau	_	_	_	-1	_	_	Gloss=I1sg
+5	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+6	i=	i=	_	_	_	-1	_	_	Gloss=ArtP=
+7	Rincilla,	Rincilla,	_	_	_	-1	_	_	Gloss=NP
+8	Patricia	Patricia	_	_	_	-1	_	_	Gloss=NP
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+10	Vaelet	Vaelet	_	_	_	-1	_	_	Gloss=NP
+11	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+12	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+13	tau	tau	VERB	_	_	-1	_	_	Gloss=poser
+14	no-	no-	_	_	_	-1	_	_	Gloss=CP-
+15	mi	mi	_	_	_	-1	_	_	Gloss=P1plexcl
+16	plan	plan	NOUN	_	_	-1	_	_	Gloss=plan
+17	be	be	_	_	_	-1	_	_	Gloss=Purp
+18	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+19	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+20	ras	ras	VERB	_	_	-1	_	_	Gloss=marcher
+21	sosouna	sosouna	_	_	_	-1	_	_	Gloss=pêcher
+22	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+23	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda19
+# text_en = J'ai dit Non, on y va en pirogue.
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+3	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+4	Tigai	tigai	ADV	_	_	-1	_	_	Gloss=non
+5	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+6	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+7	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+8	van	van	VERB	_	_	-1	_	_	Gloss=aller
+9	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+10	aka	aka	NOUN	_	_	-1	_	_	Gloss=pirogue
+11	kea	kea	_	_	_	-1	_	_	Gloss=Dem
+12	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda20
+# text_en = Je suis descendue pour fondre mes plombs
+1	Na=	Na=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ne=	ne=	_	_	_	-1	_	_	Gloss=Aor1sg=
+3	sugo	sugo	VERB	_	_	-1	_	_	Gloss=descendre
+4	laksugo	laksugo	_	_	_	-1	_	_	Gloss=Deix
+5	kuk	kuk	VERB	_	_	-1	_	_	Gloss=cuisiner
+6	led	led	NOUN	_	_	-1	_	_	Gloss=plomb
+7	mai	mai	ADV	_	_	-1	_	_	Gloss=aussi
+
+# sent_id = Qoŋ_tewa_ne_Belinda21
+# text_en = Parce que j’avais demandé à Nickolson de prendre du plomb qui lui appartenait, Nickolson a refusé.
+1	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+2	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+3	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+4	usi	usi	VERB	_	_	-1	_	_	Gloss=demander
+5	Nickolson	Nickolson	_	_	_	-1	_	_	Gloss=NP
+6	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+7	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+8	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+9	tai	tai	VERB	_	_	-1	_	_	Gloss=couper
+10	led	led	NOUN	_	_	-1	_	_	Gloss=plomb
+11	dan	dan	_	_	_	-1	_	_	Gloss=Abl
+12	Nickolson	Nickolson	_	_	_	-1	_	_	Gloss=NP
+13	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+14	Nickolson	Nickolson	_	_	_	-1	_	_	Gloss=NP
+15	taroa	taroa	VERB	_	_	-1	_	_	Gloss=refuser
+16	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda22
+# text_en = J'étais en colère contre lui; Et puis au bout d'un moment, j'ai vu Cooper arriver.
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	mero	mero	_	_	_	-1	_	_	Gloss=se.fâcher
+4	kati	kati	_	_	_	-1	_	_	Gloss=Coord
+5	kami=	kami=	_	_	_	-1	_	_	Gloss=1splex=
+6	totoga,	totoga,	VERB	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga,|Reduplicated=Yes
+7	saqe	saqe	VERB	_	_	-1	_	_	Gloss=trouver
+8	Cooper	Cooper	_	_	_	-1	_	_	Gloss=NP
+9	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+10	sumai.	sumai.	VERB	_	_	-1	_	_	Gloss=venir
+
+# sent_id = Qoŋ_tewa_ne_Belinda26
+# text_en = J'ai dit: Eh, si je prends un poisson, tu pourras en manger.
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss="S1sg=|TokenType=Clit|deprel=subj
+2	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+3	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+4	E	E	_	_	_	-1	_	_	Gloss=Interj
+5	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+6	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+7	wa=	wa=	_	_	_	-1	_	_	Gloss=Cadr=
+8	reve	reve	VERB	_	_	-1	_	_	Gloss=tirer
+9	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+10	masi	masi	NOUN	_	_	-1	_	_	Gloss=poisson
+11	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+12	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+13	niko=	niko=	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+14	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+15	gani.»	gani.»	VERB	_	_	-1	_	_	Gloss=manger
+
+# sent_id = Qoŋ_tewa_ne_Belinda27
+# text_en = Il a dit D'accord. Et il a apporté un couteau, et il a coupé le plomb.
+1	I=	I=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	vetar	vetar	VERB	_	_	-1	_	_	Gloss=aller
+4	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+5	Ale	ale	_	_	_	-1	_	_	Gloss=Interj
+6	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+7	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+8	Ka	ka	_	_	_	-1	_	_	Gloss=Coord
+9	ti	ti	_	_	_	-1	_	_	Gloss=Aor
+10	lai	lai	VERB	_	_	-1	_	_	Gloss=procurer
+11	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+12	tevtev,	tevtev,	NOUN	_	_	-1	_	_	Gloss=couteau
+13	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+14	ti	ti	_	_	_	-1	_	_	Gloss=Aor
+15	tai	tai	VERB	_	_	-1	_	_	Gloss=couper
+16	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+17	led.	led.	NOUN	_	_	-1	_	_	Gloss=plomb
+
+# sent_id = Qoŋ_tewa_ne_Belinda28
+# text_en = On a coupé le plomb et puis j'ai dit.
+1	Tai	tai	VERB	_	_	-1	_	_	Gloss=couper
+2	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+3	led	led	NOUN	_	_	-1	_	_	Gloss=plomb
+4	bastau	bastau	_	_	_	-1	_	_	Gloss=Coord
+5	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+6	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+7	vetar.	vetar.	VERB	_	_	-1	_	_	Gloss=dire
+
+# sent_id = Qoŋ_tewa_ne_Belinda29
+# text_en = Rincilla, vous restez là, je vais monter couper un bambou pour fondre le plomb. Elle a dit d'accord.
+1	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+2	Rincilla	Rincilla	_	_	_	-1	_	_	Gloss=NP
+3	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+4	kamu=	kamu=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+5	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+6	laka	laka	ADV	_	_	-1	_	_	Gloss=ici
+7	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+8	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	sae	sae	VERB	_	_	-1	_	_	Gloss=monter
+10	tai	tai	VERB	_	_	-1	_	_	Gloss=couper
+11	lamoe	lamoe	NOUN	_	_	-1	_	_	Gloss=bambou
+12	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+13	be	be	_	_	_	-1	_	_	Gloss=Purp
+14	kuk	kuk	VERB	_	_	-1	_	_	Gloss=cuire
+15	led	led	NOUN	_	_	-1	_	_	Gloss=plomb
+16	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+17	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+18	I=	I=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+19	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+20	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+21	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+22	Ale	ale	_	_	_	-1	_	_	Gloss=Interj
+23	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+24	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda30
+# text_en = Elle est restée, Cooper leur a taillé un bout de plomb, et moi je suis montée couper un bambou, et suis Red.scendue.
+1	I=	I=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	toga,	toga,	VERB	_	_	-1	_	_	Gloss=rester
+4	Cooper	Cooper	_	_	_	-1	_	_	Gloss=NP
+5	tai	tai	VERB	_	_	-1	_	_	Gloss=couper
+6	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+7	led	led	NOUN	_	_	-1	_	_	Gloss=plomb
+8	min-	min-	_	_	_	-1	_	_	Gloss=Dest-
+9	ira	ira	_	_	_	-1	_	_	Gloss=Obl3pl
+10	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+11	na=	na=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+12	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+13	sae	sae	VERB	_	_	-1	_	_	Gloss=montrer
+14	tai	tai	VERB	_	_	-1	_	_	Gloss=couper
+15	lamoe	lamoe	NOUN	_	_	-1	_	_	Gloss=bambou
+16	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+17	sugo.	sugo.	VERB	_	_	-1	_	_	Gloss=descendre
+
+# sent_id = Qoŋ_tewa_ne_Belinda33
+# text_en = Ensuite, on est parties. Cooper a dit:
+1	Bastau	bastau	VERB	_	_	-1	_	_	Gloss=finir
+2	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+3	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+4	vano.	vano.	VERB	_	_	-1	_	_	Gloss=aller
+5	I=	I=	_	_	_	-1	_	_	Gloss=ArtP=
+6	Cooper	Cooper	_	_	_	-1	_	_	Gloss=NP
+7	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+8	wa:	wa:	_	_	_	-1	_	_	Gloss=Quot
+
+# sent_id = Qoŋ_tewa_ne_Belinda34
+# text_en = Eh, il y a plein de femmes, là-bas!
+1	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+2	E	E	_	_	_	-1	_	_	Gloss=Interj.
+3	irana=	irana=	_	_	_	-1	_	_	Gloss=ArtPl=
+4	mawuti	mawuti	ADJ	_	_	-1	_	_	Gloss=nombreux
+5	taiŋwa	taiŋwa	NOUN	_	_	-1	_	_	Gloss=femme
+6	kisae	kisae	_	_	_	-1	_	_	Gloss=Deix
+7	ka	ka	_	_	_	-1	_	_	Gloss=??
+8	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda35
+# text_en = Si vous allez là-bas, elles vont vous voir, vous ne pourrez pas prendre de poisson.
+1	Kamu=	Kamu=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+2	wa=	wa=	_	_	_	-1	_	_	Gloss=Cadr=
+3	sae	sae	VERB	_	_	-1	_	_	Gloss=monter
+4	laka	laka	_	_	_	-1	_	_	Gloss=Deix
+5	ira=	ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+6	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+7	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+8	saqe-	saqe-	_	_	_	-1	_	_	Gloss=trouver-
+9	kamu,	kamu,	_	_	_	-1	_	_	Gloss=O2pl
+10	kamu=	kamu=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+11	ti=	ti=	_	_	_	-1	_	_	Gloss=Neg1=
+12	reve	reve	VERB	_	_	-1	_	_	Gloss=tirer
+13	lai	lai	_	_	_	-1	_	_	Gloss=ModCap
+14	tea	tea	_	_	_	-1	_	_	Gloss=Neg2
+15	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+16	masi.	masi.	NOUN	_	_	-1	_	_	Gloss=poisson
+
+# sent_id = Qoŋ_tewa_ne_Belinda36
+# text_en = Passez au large. Nous avons dit Oui, on passera au large.
+1	Kamu=	Kamu=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+2	tusa.»	tusa.»	_	_	_	-1	_	_	Gloss=contourner.largement
+3	Kami=	Kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+5	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+6	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+7	O	O	NOUN	_	_	-1	_	_	Gloss=oui
+8	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+9	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+10	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+11	tusa.»	tusa.»	_	_	_	-1	_	_	Gloss=contourner.largement
+
+# sent_id = Qoŋ_tewa_ne_Belinda37
+# text_en = Ensuite, Cooper a pris le couteau, et il est parti.
+1	Baskat	baskat	_	_	_	-1	_	_	Gloss=Coord
+2	Cooper	Cooper	_	_	_	-1	_	_	Gloss=NP
+3	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+4	lai	lai	VERB	_	_	-1	_	_	Gloss=procurer
+5	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+6	tevtev,	tevtev,	NOUN	_	_	-1	_	_	Gloss=couteau
+7	van	van	VERB	_	_	-1	_	_	Gloss=aller
+8	doklaka	doklaka	ADV	_	_	-1	_	_	Gloss=ainsi
+9	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+10	rasu.	rasu.	VERB	_	_	-1	_	_	Gloss=marcher
+
+# sent_id = Qoŋ_tewa_ne_Belinda38
+# text_en = Moi et Belle-sœur Rin, Vaelet, on est allées chercher/ramasser des crabes-hermites.
+1	Nau	nau	_	_	_	-1	_	_	Gloss=I1sg
+2	mata	mata	ADP	_	_	-1	_	_	Gloss=avec
+3	-k	-k	_	_	_	-1	_	_	Gloss=-P1sg
+4	raiva	raiva	_	_	_	-1	_	_	Gloss=belle.soeur
+5	Rin	Rin	_	_	_	-1	_	_	Gloss=NP
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	i=	i=	_	_	_	-1	_	_	Gloss=ArtP=
+8	Vealet,	Vealet,	_	_	_	-1	_	_	Gloss=NP
+9	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+10	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+11	sugo,	sugo,	VERB	_	_	-1	_	_	Gloss=descendre
+12	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+13	saro	saro	VERB	_	_	-1	_	_	Gloss=chercher
+14	gatou	gatou	_	_	_	-1	_	_	Gloss=crabe.hermite
+15	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda40
+# text_en = Quand j'ai tendu la main comme ça, que j'ai voulu le prendre, le crabe-hermite s'est accroché à mon doigt. Je me suis mise à pleurer, et j'ai crié Aie aie aie!
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	wa=	wa=	_	_	_	-1	_	_	Gloss=quand=
+4	olo	olo	_	_	_	-1	_	_	Gloss=tendre.la.main
+5	vano	vano	VERB	_	_	-1	_	_	Gloss=aller
+6	doklaka	doklaka	ADV	_	_	-1	_	_	Gloss=ainsi
+7	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+8	war	war	VERB	_	_	-1	_	_	Gloss=vouloir
+9	tori	tori	VERB	_	_	-1	_	_	Gloss=tenir
+10	-a	-a	_	_	_	-1	_	_	Gloss=-O3sg
+11	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+12	gatou	gatou	_	_	_	-1	_	_	Gloss=crabe.hermite
+13	laka	laka	_	_	_	-1	_	_	Gloss=Deix
+14	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+15	dule	dule	_	_	_	-1	_	_	Gloss=se.pendre.à
+16	bisu	bisu	NOUN	_	_	-1	_	_	Gloss=doigt
+17	-ku	-ku	_	_	_	-1	_	_	Gloss=-P1sg
+18	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+19	na=	na=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+20	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+21	ŋara	ŋara	VERB	_	_	-1	_	_	Gloss=pleurer
+22	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+23	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+24	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+25	Awelele!	Awelele!	_	_	_	-1	_	_	Gloss=Interj
+26	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+27	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda42
+# text_en = Mais elles n’étaient pas là, elles étaient là-bas, très loin, sous le prunier de Cythère, elles étaient occupées à soulever des pierres sous le prunier de Cythère.
+1	Ira=	Ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+3	tigala,	tigala,	_	_	_	-1	_	_	Gloss=ExistNeg
+4	ira=	ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+5	mo=	mo=	_	_	_	-1	_	_	Gloss=Rel=
+6	laka	laka	_	_	_	-1	_	_	Gloss=Deix
+7	radu	radu	ADV	_	_	-1	_	_	Gloss=loin
+8	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+9	qatai	qatai	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=tronc
+10	isa	isa	_	_	_	-1	_	_	Gloss=Nesp
+11	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+12	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+13	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+14	wuwusa	wuwusa	_	_	_	-1	_	_	Gloss=retourner.pierre|MGloss=RED~retourner.pierre|MSeg=wu~wusa|Reduplicated=Yes
+15	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+16	qatai	qatai	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=tronc
+17	isa	isa	_	_	_	-1	_	_	Gloss=Nesp
+18	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda43
+# text_en = J'ai pleuré, et j'ai couru vers le foyer, et j'ai pris du feu,
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	ŋara	ŋara	VERB	_	_	-1	_	_	Gloss=pleurer
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+5	rowo	rowo	VERB	_	_	-1	_	_	Gloss=courir
+6	vano	vano	VERB	_	_	-1	_	_	Gloss=aller
+7	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+8	tan	tan	NOUN	_	_	-1	_	_	Gloss=place
+9	kuk	kuk	VERB	_	_	-1	_	_	Gloss=cuisiner
+10	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+11	vano	vano	VERB	_	_	-1	_	_	Gloss=aller
+12	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+13	lai	lai	VERB	_	_	-1	_	_	Gloss=prendre
+14	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+15	avi,	avi,	NOUN	_	_	-1	_	_	Gloss=feu
+
+# sent_id = Qoŋ_tewa_ne_Belinda44
+# text_en = j'ai brulé le crabe, le crabe a desserré sa pince de mon doigt.
+1	sulu	sulu	_	_	_	-1	_	_	Gloss=brûler
+2	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+3	gatou	gatou	_	_	_	-1	_	_	Gloss=crabe.hermite
+4	laka	laka	_	_	_	-1	_	_	Gloss=Deix
+5	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+6	gatou	gatou	_	_	_	-1	_	_	Gloss=crabe.hermite
+7	tekerag	tekerag	_	_	_	-1	_	_	Gloss=lâcher
+8	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+9	liwo-	liwo-	_	_	_	-1	_	_	Gloss=dent-
+10	na	na	_	_	_	-1	_	_	Gloss=P3sg
+11	dan	dan	_	_	_	-1	_	_	Gloss=Orig
+12	bisu	bisu	NOUN	_	_	-1	_	_	Gloss=doigt
+13	-ku	-ku	_	_	_	-1	_	_	Gloss=-P1sg
+14	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda45
+# text_en = Et après je me suis sentie mieux
+1	kati	kati	_	_	_	-1	_	_	Gloss=Coord
+2	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+3	te=	te=	_	_	_	-1	_	_	Gloss=Pft=
+4	roŋo	roŋo	VERB	_	_	-1	_	_	Gloss=sentir
+5	wia	wia	ADV	_	_	-1	_	_	Gloss=bien
+
+# sent_id = Qoŋ_tewa_ne_Belinda47
+# text_en = Et puis, après, Floria et Owen, Stendri se sont moqués de moi.
+1	baskat	baskat	_	_	_	-1	_	_	Gloss=Coord
+2	baso	baso	VERB	_	_	-1	_	_	Gloss=finir
+3	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+4	Floria	Floria	_	_	_	-1	_	_	Gloss=NP
+5	mata	mata	ADP	_	_	-1	_	_	Gloss=avec
+6	-n	-n	_	_	_	-1	_	_	Gloss=-P3sg
+7	Owen	Owen	_	_	_	-1	_	_	Gloss=NP
+8	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+9	Stendri	Stendri	_	_	_	-1	_	_	Gloss=NP
+10	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+11	man.mana-	man.mana-	_	_	_	-1	_	_	Gloss=rire-|MGloss=RED~rire-|Reduplicated=Yes
+12	g=nau.	g=nau.	_	_	_	-1	_	_	Gloss=O1sg=
+
+# sent_id = Qoŋ_tewa_ne_Belinda48
+# text_en = J'ai dit Oh, vous riez pour quoi!
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+3	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+4	Man	man	_	_	_	-1	_	_	Gloss=Interj
+5	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+6	kamu=	kamu=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+7	mana	mana	VERB	_	_	-1	_	_	Gloss=rire
+8	be	be	_	_	_	-1	_	_	Gloss=Purp
+9	sava?	sava?	PRON	_	_	-1	_	_	Gloss=quoi
+
+# sent_id = Qoŋ_tewa_ne_Belinda49
+# text_en = Si c'était vous, vous ressentiriez cela, vous vous feriez pipi dessus, tiens!
+1	War	war	_	_	_	-1	_	_	Gloss=Hyp
+2	kamu	kamu	_	_	_	-1	_	_	Gloss=I2pl
+3	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+4	kamu=	kamu=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+5	ni=	ni=	_	_	_	-1	_	_	Gloss=Irr=
+6	roŋo	roŋo	VERB	_	_	-1	_	_	Gloss=sentir
+7	kea-	kea-	_	_	_	-1	_	_	Gloss=Dem-
+8	la	la	_	_	_	-1	_	_	Gloss=Anaph
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+10	kamu=	kamu=	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+11	memes-	memes-	_	_	_	-1	_	_	Gloss=uriner-|MGloss=RED~uriner-|MSeg=me~mes-|Reduplicated=Yes
+12	kamu	kamu	_	_	_	-1	_	_	Gloss=O2pl
+13	kea-	kea-	_	_	_	-1	_	_	Gloss=Dem-
+14	la	la	_	_	_	-1	_	_	Gloss=Anaph
+15	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+16	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda50
+# text_en = Ils ont rigolé. Après, les deux autres sont arrivées, et on est parties ensemble.
+1	Ira=	Ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	mana.	mana.	VERB	_	_	-1	_	_	Gloss=rire
+4	baskat	baskat	_	_	_	-1	_	_	Gloss=Coord
+5	ira	ira	_	_	_	-1	_	_	Gloss=I3pl
+6	i-	i-	_	_	_	-1	_	_	Gloss=Num-
+7	rua	rua	NUM	_	_	-1	_	_	Gloss=deux
+8	kea-	kea-	_	_	_	-1	_	_	Gloss=Dem-
+9	la	la	_	_	_	-1	_	_	Gloss=Anaph
+10	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+11	sumai,	sumai,	VERB	_	_	-1	_	_	Gloss=venir
+12	kami=	kami=	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+13	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+14	vano.	vano.	VERB	_	_	-1	_	_	Gloss=aller
+
+# sent_id = Qoŋ_tewa_ne_Belinda51
+# text_en = On est allées à Matogu, on a tiré les pirogues.
+1	Van	van	VERB	_	_	-1	_	_	Gloss=aller
+2	diŋa	diŋa	VERB	_	_	-1	_	_	Gloss=atteindre
+3	Matogu	matogu	_	_	_	-1	_	_	Gloss=Topon
+4	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+5	reve	reve	VERB	_	_	-1	_	_	Gloss=tirer
+6	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+7	aka.	aka.	NOUN	_	_	-1	_	_	Gloss=pirogue
+
+# sent_id = Qoŋ_tewa_ne_Belinda53
+# text_en = Euh, non, c'est elles qui étaient dans la pirogue de Maman Beta.
+1	e	e	_	_	_	-1	_	_	Gloss=Interj
+2	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+3	tigai	tigai	ADV	_	_	-1	_	_	Gloss=non
+4	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+5	ira	ira	_	_	_	-1	_	_	Gloss=I3pl
+6	sina	sina	_	_	_	-1	_	_	Gloss=Foc
+7	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+8	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+9	ake	ake	NOUN	_	_	-1	_	_	Gloss=pirogue
+10	Vev	vev	NOUN	_	_	-1	_	_	Gloss=maman
+11	Beta	Beta	_	_	_	-1	_	_	Gloss=NP
+12	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda54
+# text_en = J'étais dans la pirogue de Tat'Ismael, toute seule.
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+3	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+4	ake	ake	NOUN	_	_	-1	_	_	Gloss=pirogue
+5	Tat’	Tat’	NOUN	_	_	-1	_	_	Gloss=papa
+6	Ismael	Ismael	_	_	_	-1	_	_	Gloss=NP
+7	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+8	gase	gase	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=seul
+9	-ku	-ku	_	_	_	-1	_	_	Gloss=-P1sg
+10	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda56
+# text_en = J’ai pagayé, je suis partie devant, j’ai atteint (le point où je voulais aller).
+1	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	sua,	sua,	VERB	_	_	-1	_	_	Gloss=pagayer
+4	van	van	VERB	_	_	-1	_	_	Gloss=aller
+5	turmua	turmua	_	_	_	-1	_	_	Gloss=en.premier
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	van	van	VERB	_	_	-1	_	_	Gloss=aller
+8	diŋa	diŋa	VERB	_	_	-1	_	_	Gloss=atteindre
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda57
+# text_en = “Vaelet et belle-sœur Rin sont venues., elles sont arrivées.”
+1	Vaelet	Vaelet	_	_	_	-1	_	_	Gloss=NP
+2	mata	mata	ADP	_	_	-1	_	_	Gloss=avec
+3	-n	-n	_	_	_	-1	_	_	Gloss=-P3sg
+4	Raiva	raiva	_	_	_	-1	_	_	Gloss=belle.sœur
+5	Rin	Rin	_	_	_	-1	_	_	Gloss=NP
+6	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+7	sumai,	sumai,	VERB	_	_	-1	_	_	Gloss=venir
+8	ira=	ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+9	van	van	VERB	_	_	-1	_	_	Gloss=aller
+10	diŋa	diŋa	VERB	_	_	-1	_	_	Gloss=atteindre
+11	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda58
+# text_en = “Vaelet a dit “Eh, je vois que c’est toi qui est assise à l’arrière”
+1	Vaelet	Vaelet	_	_	_	-1	_	_	Gloss=NP
+2	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+3	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+4	E	E	_	_	_	-1	_	_	Gloss=Interj
+5	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+6	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+7	ete	ete	VERB	_	_	-1	_	_	Gloss=voir
+8	war	war	_	_	_	-1	_	_	Gloss=Compl
+9	niko	niko	_	_	_	-1	_	_	Gloss=I2sg
+10	kea	kea	_	_	_	-1	_	_	Gloss=Dem
+11	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+12	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+13	kere-	kere-	_	_	_	-1	_	_	Gloss=arrière-
+14	na	na	_	_	_	-1	_	_	Gloss=P3sg
+15	kea	kea	_	_	_	-1	_	_	Gloss=Dem
+16	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda60
+# text_en = Elles sont reparties en pagayant, vers la rive, et elles ont échangé.
+1	Ira=	Ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	sua	sua	VERB	_	_	-1	_	_	Gloss=pagayer
+3	talwura	talwura	_	_	_	-1	_	_	Gloss=à.nouveau
+4	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+5	sae	sae	VERB	_	_	-1	_	_	Gloss=monter
+6	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+7	uta,	uta,	NOUN	_	_	-1	_	_	Gloss=rivage
+8	sae	sae	VERB	_	_	-1	_	_	Gloss=monter
+9	kati	kati	_	_	_	-1	_	_	Gloss=Coord
+10	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+11	sugo	sugo	VERB	_	_	-1	_	_	Gloss=descendre
+12	sorisa	sorisa	VERB	_	_	-1	_	_	Gloss=changer
+13	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda61
+# text_en = Vaelet était assise à l’avant, Belle-sœur Rin était à l’arrière
+1	i=	i=	_	_	_	-1	_	_	Gloss=ArtP=
+2	Vaelet	Vaelet	_	_	_	-1	_	_	Gloss=NP
+3	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+4	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+5	qatu-	qatu-	_	_	_	-1	_	_	Gloss=tête-
+6	na,	na,	_	_	_	-1	_	_	Gloss=P3sg
+7	raiva	raiva	_	_	_	-1	_	_	Gloss=belle.sœur
+8	Rin	Rin	_	_	_	-1	_	_	Gloss=NP
+9	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+10	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+11	kere-	kere-	_	_	_	-1	_	_	Gloss=arrière-
+12	na,	na,	_	_	_	-1	_	_	Gloss=P3sg
+
+# sent_id = Qoŋ_tewa_ne_Belinda62
+# text_en = Elles sont revenues en pagayant pour pêcher.
+1	ira=	ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	sua	sua	VERB	_	_	-1	_	_	Gloss=pagayer
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+5	vano	vano	VERB	_	_	-1	_	_	Gloss=aller
+6	talwura	talwura	_	_	_	-1	_	_	Gloss=à.nouveau
+7	van	van	VERB	_	_	-1	_	_	Gloss=aller
+8	diŋa	diŋa	VERB	_	_	-1	_	_	Gloss=atteindre
+9	sosouna	sosouna	_	_	_	-1	_	_	Gloss=pêcher
+10	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda63
+# text_en = En très peu de temps, j’avais déjà pếché trois poissons.
+1	ti-	ti-	_	_	_	-1	_	_	Gloss=Neg1-
+2	ŋ	ŋ	_	_	_	-1	_	_	Gloss=PEN
+3	ŋwau	ŋwau	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=long
+4	tea	tea	_	_	_	-1	_	_	Gloss=Neg2
+5	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+6	reve	reve	VERB	_	_	-1	_	_	Gloss=tirer
+7	no-	no-	_	_	_	-1	_	_	Gloss=CP-
+8	ku	ku	_	_	_	-1	_	_	Gloss=P1sg
+9	te=	te=	_	_	_	-1	_	_	Gloss=Pft=
+10	tolu,	tolu,	NUM	_	_	-1	_	_	Gloss=trois
+
+# sent_id = Qoŋ_tewa_ne_Belinda64
+# text_en = Ensuite, Vaelet a dit qu’elle n’avait plus d’appats.
+1	bastau	bastau	ADV	_	_	-1	_	_	Gloss=ensuite
+2	i=	i=	_	_	_	-1	_	_	Gloss=ArtP=
+3	Vaelet	Vaelet	_	_	_	-1	_	_	Gloss=NP
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor3sg=
+5	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+6	no-	no-	_	_	_	-1	_	_	Gloss=CP-
+7	n	n	_	_	_	-1	_	_	Gloss=P3sg
+8	gatou	gatou	_	_	_	-1	_	_	Gloss=crabe.hermite
+9	baso	baso	VERB	_	_	-1	_	_	Gloss=finir
+10	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda70
+# text_en = Elle a pris son panier, et elle est repartie aussi sec.
+1	I=	I=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	lai	lai	VERB	_	_	-1	_	_	Gloss=procurer
+4	na=	na=	_	_	_	-1	_	_	Gloss=ArtAc=
+5	no-	no-	_	_	_	-1	_	_	Gloss=CP-
+6	n	n	_	_	_	-1	_	_	Gloss=P3sg
+7	gete	gete	NOUN	_	_	-1	_	_	Gloss=panier
+8	kea	kea	_	_	_	-1	_	_	Gloss=Dem
+9	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+10	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+11	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+12	mule	mule	VERB	_	_	-1	_	_	Gloss=rentrer
+13	mai	mai	ADV	_	_	-1	_	_	Gloss=aussi
+14	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda71
+# text_en = Ensuite, belle-sœur Rin est restée seule dans une pirogue, et moi dans l’autre.
+1	Bastau	bastau	ADV	_	_	-1	_	_	Gloss=ensuite
+2	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+3	Raiva	raiva	_	_	_	-1	_	_	Gloss=belle.sœur
+4	Rin	Rin	_	_	_	-1	_	_	Gloss=NP
+5	gase	gase	VERB|ATTRIBUTIF	_	_	-1	_	_	Gloss=seul
+6	-na	-na	_	_	_	-1	_	_	Gloss=-P3sg
+7	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+8	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+9	tuara	tuara	ADJ	_	_	-1	_	_	Gloss=autre
+10	aka	aka	NOUN	_	_	-1	_	_	Gloss=pirogue
+11	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+12	nau=	nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+13	toga	toga	VERB	_	_	-1	_	_	Gloss=rester
+14	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+15	tuara	tuara	ADJ	_	_	-1	_	_	Gloss=autre
+16	aka	aka	NOUN	_	_	-1	_	_	Gloss=pirogue
+17	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda73
+# text_en = J'ai tiré, tiré, tiré, et puis je l'ai posé dans la pirogue.
+1	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	reve	reve	VERB	_	_	-1	_	_	Gloss=tirer
+4	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+5	reve,	reve,	VERB	_	_	-1	_	_	Gloss=tirer
+6	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+7	reve	reve	VERB	_	_	-1	_	_	Gloss=tirer
+8	ka	ka	CCONJ	_	_	-1	_	_	Amal=kat
+9	ti	ti	_	_	_	-1	_	_	Gloss=Coord
+10	tau	tau	VERB	_	_	-1	_	_	Gloss=poser
+11	sae	sae	VERB	_	_	-1	_	_	Gloss=monter
+12	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+13	aka.	aka.	NOUN	_	_	-1	_	_	Gloss=pirogue
+
+# sent_id = Qoŋ_tewa_ne_Belinda75
+# text_en = Elle a dit. Allez.
+1	I=	I=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	_	_	_	-1	_	_	Gloss=Aor=
+3	vetar	vetar	VERB	_	_	-1	_	_	Gloss=dire
+4	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+5	Da	da	_	_	_	-1	_	_	Gloss="Interj."
+6	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+7	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda80
+# text_en = Elle a dit Allez, on rentre. J'ai dit D'accord.
+1	I=	I=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	vetar,	vetar,	VERB	_	_	-1	_	_	Gloss=dire
+3	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+4	ale	ale	_	_	_	-1	_	_	Gloss=Interj
+5	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+6	gidarua=	gidarua=	PRON	_	Case=Nom|Clusivity=In|Number=Dual|Person=1|PronType=Pers	-1	_	_	Gloss=S1duincl=|TokenType=Clit|deprel=subj
+7	mule.»	mule.»	VERB	_	_	-1	_	_	Gloss=rentrer
+8	Nau=	Nau=	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	vetar,	vetar,	VERB	_	_	-1	_	_	Gloss=dire
+10	«	«	_	_	_	-1	_	_	Gloss=PUNCT
+11	Ale	ale	_	_	_	-1	_	_	Gloss=Interj.
+12	»	»	_	_	_	-1	_	_	Gloss=PUNCT
+13	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda82
+# text_en = Et puis nous avons écaillé nos poissons, et puis je suis rentrée aussitôt
+1	bastau	bastau	_	_	_	-1	_	_	Gloss=Coord
+2	gari	gari	_	_	_	-1	_	_	Gloss=écailler
+3	no-	no-	_	_	_	-1	_	_	Gloss=CP-
+4	mirua	mirua	_	_	_	-1	_	_	Gloss=P1duex
+5	masi	masi	NOUN	_	_	-1	_	_	Gloss=poisson
+6	,	,	_	_	_	-1	_	_	Gloss=PUNCT
+7	bastau	bastau	_	_	_	-1	_	_	Gloss=Coord
+8	ka	ka	CCONJ	_	_	-1	_	_	Amal=kae
+9	ge	ge	_	_	_	-1	_	_	Gloss=Coord.Aor
+10	mule	mule	VERB	_	_	-1	_	_	Gloss=rentrer
+11	mai	mai	_	_	_	-1	_	_	Gloss=aussitôt
+12	.	.	_	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Qoŋ_tewa_ne_Belinda83
+# text_en = Je suis rentrée, j'ai cuisiné mes poissons, et puis j'ai mangé, et je suis rentrée à la maison.
+1	ka	ka	_	_	_	-1	_	_	Gloss=Coord
+2	ti	ti	_	_	_	-1	_	_	Gloss=Aor
+3	gangani	gangani	VERB	_	_	-1	_	_	Gloss=manger|MGloss=Intrans~manger|MSeg=gan~gani|Reduplicated=Yes
+4	baskat	baskat	_	_	_	-1	_	_	Gloss=Coord
+5	mule	mule	VERB	_	_	-1	_	_	Gloss=rentrer
+6	sumai	sumai	VERB	_	_	-1	_	_	Gloss=venir
+7	le=	le=	_	_	_	-1	_	_	Gloss=Loc=
+8	vale.	vale.	NOUN	_	_	-1	_	_	Gloss=maison
+
+# sent_id = Qoŋ_tewa_ne_Belinda84
+# text_en = La fin.
+1	Baso	baso	VERB	_	_	-1	_	_	Gloss=finir
+2	=va.	=va.	_	_	_	-1	_	_	Gloss==PEN
