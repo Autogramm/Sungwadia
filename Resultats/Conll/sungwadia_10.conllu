@@ -792,9 +792,6 @@
 5	Tigai	tigai	ADV	_	_	-1	_	_	Gloss=non
 6	»	»	_	_	_	-1	_	_	Gloss=PUNCT
 
-# sent_id = 438_Dagasnia_ira_mo_asi_Taso80
-# text_en = Alors, mes neveux?
-
 # sent_id = 438_Dagasnia_ira_mo_asi_Taso82
 # text_en = Ils les emmenèrent vers leur maison.
 1	Ira=	Ira=	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
