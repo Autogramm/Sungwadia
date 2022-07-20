@@ -1,116 +1,115 @@
 # sent_id = Vevsale_irua1
 # text_en = Un des jeux se passe comme suit. Son nom est Arrache le nafiso.
-1	Vevsale	vevsale	NOUN	_	_	_	_	_	Gloss=jeu
-2	tewa	tewa	DET	_	_	_	_	_	Gloss=un
-3	doklaka	doklaka	ADV	_	_	_	_	_	Gloss=ainsi
-4	.	.	PUNCT	_	_	_	_	_	Gloss=PUNCT
-5	Sasa	sasa	NOUN	_	_	_	_	_	Gloss=nom
-6	-na	-na	PRON	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
-7	«	«	PUNCT	_	_	_	_	_	Gloss=PUNCT
-8	Waswasu	waswasu	VERB	_	_	_	_	_	Gloss=tirer|MGloss=RED~tirer|MSeg=was~wasu|Reduplicated=Yes
-9	viso	viso	NOUN	_	_	_	_	_	Gloss=Nesp
-10	»	»	PUNCT	_	_	_	_	_	Gloss=PUNCT
-11	.	.	PUNCT	_	_	_	_	_	Gloss=PUNCT
+1	Vevsale	vevsale	AUX	_	_	_	_	_	Gloss=jeu
+2	tewa	tewa	AUX	_	_	_	_	_	Gloss=un
+3	doklaka	doklaka	AUX	_	_	_	_	_	Gloss=ainsi
+4	.	.	AUX	_	_	_	_	_	Gloss=PUNCT
+5	Sasa	sasa	AUX	_	_	_	_	_	Gloss=nom
+6	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+7	«	«	AUX	_	_	_	_	_	Gloss=PUNCT
+8	Waswasu	waswasu	AUX	_	_	_	_	_	Gloss=tirer|MGloss=RED~tirer|MSeg=was~wasu|Reduplicated=Yes
+9	viso	viso	AUX	_	_	_	_	_	Gloss=Nesp
+10	»	»	AUX	_	_	_	_	_	Gloss=PUNCT
+11	.	.	AUX	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = Vevsale_irua3
 # text_en = Il n'y a pas de fin (à ce jeu).
-1	A=	A=	DET	_	_	_	_	_	Gloss=Art=|TokenType=Clit
-2	ulosi-	ulosi-	_	_	_	_	_	_	Gloss=fin-|TokenType=Aff
-3	na	na	PRON	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
-4	tigala	tigala	ADV	_	Polarity=Neg	_	_	_	Gloss=ExistNeg
-5	.	.	PUNCT	_	_	_	_	_	Gloss=PUNCT
+1	A=	A=	AUX	_	_	_	_	_	Gloss=Art=|TokenType=Clit
+2	ulosi-	ulosi-	AUX	_	_	_	_	_	Gloss=fin-|TokenType=Aff
+3	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+4	tigala	tigala	AUX	_	Polarity=Neg	_	_	_	Gloss=ExistNeg
+5	.	.	AUX	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = Vevsale_irua4
 # text_en = Sa chanson fait comme ça:
-1	A=	A=	DET	_	_	_	_	_	Gloss=Art=|TokenType=Clit
-2	ga-	ga-	ADP	_	AdpType=PossClass	_	_	_	Gloss=CP-|TokenType=Aff
-3	na	na	PRON	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
-4	asi	asi	NOUN	_	_	_	_	_	Gloss=chanson
-5	van	van	VERB	_	_	_	_	_	Gloss=aller
-6	doklaka	doklaka	ADV	_	_	_	_	_	Gloss=ainsi
-7	.	.	PUNCT	_	_	_	_	_	Gloss=PUNCT
+1	A=	A=	AUX	_	_	_	_	_	Gloss=Art=|TokenType=Clit
+2	ga-	ga-	AUX	_	AdpType=PossClass	_	_	_	Gloss=CP-|TokenType=Aff
+3	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+4	asi	asi	AUX	_	_	_	_	_	Gloss=chanson
+5	van	van	AUX	_	_	_	_	_	Gloss=aller
+6	doklaka	doklaka	AUX	_	_	_	_	_	Gloss=ainsi
+7	.	.	AUX	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = Vevsale_irua6
 # text_en = Le jeu suivant est salsali malobe.
-1	Tuara	tuara	ADJ	_	_	_	_	_	Gloss=autre
-2	vevsale	vevsale	NOUN	_	_	_	_	_	Gloss=jeu
-3	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
-4	«	«	PUNCT	_	_	_	_	_	Gloss=PUNCT
-5	salsali	salsali	VERB	_	_	_	_	_	Gloss=secouer|MGloss=RED~secouer|MSeg=sal~sali|Reduplicated=Yes
-6	malobe	malobe	_	_	_	_	_	_	Gloss=??
-7	»	»	PUNCT	_	_	_	_	_	Gloss=PUNCT
-8	.	.	PUNCT	_	_	_	_	_	Gloss=PUNCT
+1	Tuara	tuara	AUX	_	_	_	_	_	Gloss=autre
+2	vevsale	vevsale	AUX	_	_	_	_	_	Gloss=jeu
+3	talwura	talwura	AUX	_	_	_	_	_	Gloss=à.nouveau
+4	«	«	AUX	_	_	_	_	_	Gloss=PUNCT
+5	salsali	salsali	AUX	_	_	_	_	_	Gloss=secouer|MGloss=RED~secouer|MSeg=sal~sali|Reduplicated=Yes
+6	malobe	malobe	AUX	_	_	_	_	_	Gloss=??
+7	»	»	AUX	_	_	_	_	_	Gloss=PUNCT
+8	.	.	AUX	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = Vevsale_irua7
 # text_en = Salsali malobe, c'est juste comme Waswasu viso
-1	«	«	PUNCT	_	_	_	_	_	Gloss=PUNCT
-2	Salsali	salsali	VERB	_	_	_	_	_	Gloss=secouer|MGloss=RED~secouer|MSeg=sal~sali|Reduplicated=Yes
-3	malobe	malobe	_	_	_	_	_	_	Gloss=??
-4	»	»	PUNCT	_	_	_	_	_	Gloss=PUNCT
-5	,	,	PUNCT	_	_	_	_	_	Gloss=PUNCT
-6	i=	i=	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
-7	u=	u=	_	_	_	_	_	_	Gloss=Pft=|TokenType=Clit
-8	ŋwere	ŋwere	_	_	_	_	_	_	Gloss=être.comme
-9	«	«	PUNCT	_	_	_	_	_	Gloss=PUNCT
-10	waswasu	waswasu	VERB	_	_	_	_	_	Gloss=arracher|MGloss=RED~arracher|MSeg=was~wasu|Reduplicated=Yes
-11	viso	viso	NOUN	_	_	_	_	_	Gloss=Nesp
-12	»	»	PUNCT	_	_	_	_	_	Gloss=PUNCT
-13	=va	=va	PART	_	_	_	_	_	Gloss==PEN|TokenType=Clit
-14	,	,	PUNCT	_	_	_	_	_	Gloss=PUNCT
+1	«	«	AUX	_	_	_	_	_	Gloss=PUNCT
+2	Salsali	salsali	AUX	_	_	_	_	_	Gloss=secouer|MGloss=RED~secouer|MSeg=sal~sali|Reduplicated=Yes
+3	malobe	malobe	AUX	_	_	_	_	_	Gloss=??
+4	»	»	AUX	_	_	_	_	_	Gloss=PUNCT
+5	,	,	AUX	_	_	_	_	_	Gloss=PUNCT
+6	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+7	u=	u=	AUX	_	_	_	_	_	Gloss=Pft=|TokenType=Clit
+8	ŋwere	ŋwere	AUX	_	_	_	_	_	Gloss=être.comme
+9	«	«	AUX	_	_	_	_	_	Gloss=PUNCT
+10	waswasu	waswasu	AUX	_	_	_	_	_	Gloss=arracher|MGloss=RED~arracher|MSeg=was~wasu|Reduplicated=Yes
+11	viso	viso	AUX	_	_	_	_	_	Gloss=Nesp
+12	»	»	AUX	_	_	_	_	_	Gloss=PUNCT
+13	=va	=va	AUX	_	_	_	_	_	Gloss==PEN|TokenType=Clit
+14	,	,	AUX	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = Vevsale_irua9
 # text_en = Tu alignes tes index. Ensuite l'un va les agiter.
-1	tau	tau	VERB	_	_	_	_	_	Gloss=poser
-2	na=	na=	DET	_	Case=Acc	_	_	_	Gloss=ArtAc=|TokenType=Clit
-3	bisu-	bisu-	_	_	_	_	_	_	Gloss=doigt-|TokenType=Aff
-4	ŋa	ŋa	PRON	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	_	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
-5	tau	tau	VERB	_	_	_	_	_	Gloss=poser
-6	varvar	varvar	VERB	_	_	_	_	_	Gloss=aligner
-7	.	.	PUNCT	_	_	_	_	_	Gloss=PUNCT
-8	salai	salai	VERB	_	_	_	_	_	Gloss=aligner
-9	,	,	PUNCT	_	_	_	_	_	Gloss=PUNCT
-10	bastau	bastau	ADV	_	_	_	_	_	Gloss=ensuite
-11	tewa	tewa	DET	_	_	_	_	_	Gloss=un
+1	tau	tau	AUX	_	_	_	_	_	Gloss=poser
+2	na=	na=	AUX	_	Case=Acc	_	_	_	Gloss=ArtAc=|TokenType=Clit
+3	bisu-	bisu-	AUX	_	_	_	_	_	Gloss=doigt-|TokenType=Aff
+4	ŋa	ŋa	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	_	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
+5	tau	tau	AUX	_	_	_	_	_	Gloss=poser
+6	varvar	varvar	AUX	_	_	_	_	_	Gloss=aligner
+7	.	.	AUX	_	_	_	_	_	Gloss=PUNCT
+8	salai	salai	AUX	_	_	_	_	_	Gloss=aligner
+9	,	,	AUX	_	_	_	_	_	Gloss=PUNCT
+10	bastau	bastau	AUX	_	_	_	_	_	Gloss=ensuite
+11	tewa	tewa	AUX	_	_	_	_	_	Gloss=un
 12	ni=	ni=	AUX	_	Mood=Irr	_	_	_	Gloss=Irr=|TokenType=Clit
-13	sali-	sali-	_	_	_	_	_	_	Gloss=secouer-|TokenType=Aff
-14	a.,	a.,	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+13	sali-	sali-	AUX	_	_	_	_	_	Gloss=secouer-|TokenType=Aff
+14	a.,	a.,	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
 
 # sent_id = Vevsale_irua11
 # text_en = Ensuite, quand on a terminé de secouer
-1	Bastau	bastau	ADV	_	_	_	_	_	Gloss=ensuite
-2	baso	baso	VERB	_	_	_	_	_	Gloss=finir
-3	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr=|TokenType=Clit
-4	sali	sali	VERB	_	_	_	_	_	Gloss=secouer
-5	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
-6	baso	baso	VERB	_	_	_	_	_	Gloss=finir
-7	,	,	PUNCT	_	_	_	_	_	Gloss=PUNCT
+1	Bastau	bastau	AUX	_	_	_	_	_	Gloss=ensuite
+2	baso	baso	AUX	_	_	_	_	_	Gloss=finir
+3	wa=	wa=	AUX	_	_	_	_	_	Gloss=Cadr=|TokenType=Clit
+4	sali	sali	AUX	_	_	_	_	_	Gloss=secouer
+5	wurwuri	wurwuri	AUX	_	_	_	_	_	Gloss=complètement
+6	baso	baso	AUX	_	_	_	_	_	Gloss=finir
+7	,	,	AUX	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = Vevsale_irua14
 # text_en = Ensuite, quand c’est fini, quand on est tous passés
-1	Bastau	bastau	ADV	_	_	_	_	_	Gloss=ensuite
-2	wa=	wa=	_	_	_	_	_	_	Gloss=quand=|TokenType=Clit
-3	baso,	baso,	VERB	_	_	_	_	_	Gloss=finir
-4	vavano	vavano	VERB	_	_	_	_	_	Gloss=aller|MGloss=RED~aller|MSeg=va~vano|Reduplicated=Yes
-5	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
-6	,	,	PUNCT	_	_	_	_	_	Gloss=PUNCT
-7	wa=	wa=	_	_	_	_	_	_	Gloss=quand=|TokenType=Clit
-8	te=	te=	_	_	_	_	_	_	Gloss=Pft=|TokenType=Clit
-9	baso,	baso,	VERB	_	_	_	_	_	Gloss=fini
+1	Bastau	bastau	AUX	_	_	_	_	_	Gloss=ensuite
+2	wa=	wa=	AUX	_	_	_	_	_	Gloss=quand=|TokenType=Clit
+3	baso,	baso,	AUX	_	_	_	_	_	Gloss=finir
+4	vavano	vavano	AUX	_	_	_	_	_	Gloss=aller|MGloss=RED~aller|MSeg=va~vano|Reduplicated=Yes
+5	wurwuri	wurwuri	AUX	_	_	_	_	_	Gloss=complètement
+6	,	,	AUX	_	_	_	_	_	Gloss=PUNCT
+7	wa=	wa=	AUX	_	_	_	_	_	Gloss=quand=|TokenType=Clit
+8	te=	te=	AUX	_	_	_	_	_	Gloss=Pft=|TokenType=Clit
+9	baso,	baso,	AUX	_	_	_	_	_	Gloss=fini
 
 # sent_id = Vevsale_irua16
 # text_en = On se frappe tous les oreilles. Sa chanson (=celle du jeu) est ainsi:
-1	Gida	gida	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Pers	_	_	_	Gloss=I1plincl|TokenType=Clit|deprel=dislocated
-2	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
-3	robata	robata	_	_	_	_	_	_	Gloss=frapper.du.plat.de.la.main
-4	na=	na=	DET	_	Case=Acc	_	_	_	Gloss=ArtAc=|TokenType=Clit
-5	qoro-	qoro-	_	_	_	_	_	_	Gloss=oreille-|TokenType=Aff
-6	da.	da.	PRON	_	Case=Poss|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	_	_	_	Gloss=P1plexcl|TokenType=Clit|deprel=mod:poss
-7	Asi	asi	NOUN	_	_	_	_	_	Gloss=chanson
-8	-na	-na	PRON	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
-9	doklaka	doklaka	ADV	_	_	_	_	_	Gloss=ainsi
-10	:	:	PUNCT	_	_	_	_	_	Gloss=PUNCT
+1	Gida	gida	AUX	_	Clusivity=In|Number=Plur|Person=1|PronType=Pers	_	_	_	Gloss=I1plincl|TokenType=Clit|deprel=dislocated
+2	wurwuri	wurwuri	AUX	_	_	_	_	_	Gloss=complètement
+3	robata	robata	AUX	_	_	_	_	_	Gloss=frapper.du.plat.de.la.main
+4	na=	na=	AUX	_	Case=Acc	_	_	_	Gloss=ArtAc=|TokenType=Clit
+5	qoro-	qoro-	AUX	_	_	_	_	_	Gloss=oreille-|TokenType=Aff
+6	da.	da.	AUX	_	Case=Poss|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	_	_	_	Gloss=P1plexcl|TokenType=Clit|deprel=mod:poss
+7	Asi	asi	AUX	_	_	_	_	_	Gloss=chanson
+8	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	_	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+9	doklaka	doklaka	AUX	_	_	_	_	_	Gloss=ainsi
+10	:	:	AUX	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = Vevsale_irua17
 # text_en = “C’est fini”
-1	Baso	baso	VERB	_	_	_	_	_	Gloss=finir
-2	=va!	=va!	PART	_	_	_	_	_	Gloss==PEN|TokenType=Clit
+1	Baso	baso	AUX	_	_	_	_	_	Gloss=finir
